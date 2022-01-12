@@ -22,9 +22,9 @@ function ColocarEmTabulacao(){
 
     for(var i=0; i<filmes.length;i++){
         if(i==filmes.length-1)
-        txt += "insert '"+filmes[i].data + "', '" + filmes[i].descricao + "'\ngo"
+        txt += "inserir '"+filmes[i].data + "', '" + filmes[i].descricao + "'\ngo"
         else
-        txt += "insert '"+filmes[i].data + "', '" + filmes[i].descricao + "'\n"
+        txt += "inserir '"+filmes[i].data + "', '" + filmes[i].descricao + "'\n"
     }
 
     var element = document.createElement('a');
