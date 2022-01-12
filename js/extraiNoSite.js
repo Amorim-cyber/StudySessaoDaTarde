@@ -13,7 +13,7 @@ function ColocarEmTabulacao(){
         }
 
         if(filme.descricao == "Sessão da Tarde Especial")
-        filme.descricao = itens[i].innerText.split(" - ")[2]
+            filme.descricao = itens[i].innerText.split(" - ")[2]
 
         filmes[i-611] = filme;
         
@@ -21,7 +21,10 @@ function ColocarEmTabulacao(){
     }
 
     for(var i=0; i<filmes.length;i++){
-        txt += filmes[i].data + "\t" + filmes[i].descricao + "\n"
+        if(i==filmes.length-1)
+        txt += "insert '"+filmes[i].data + "', '" + filmes[i].descricao + "'\ngo"
+        else
+        txt += "insert '"+filmes[i].data + "', '" + filmes[i].descricao + "'\n"
     }
 
     var element = document.createElement('a');
