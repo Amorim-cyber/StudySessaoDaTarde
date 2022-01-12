@@ -21,10 +21,7 @@ function ColocarEmTabulacao(){
     }
 
     for(var i=0; i<filmes.length;i++){
-        if(i==filmes.length-1)
-        txt += "inserir '"+filmes[i].data + "', '" + filmes[i].descricao + "'\ngo"
-        else
-        txt += "inserir '"+filmes[i].data + "', '" + filmes[i].descricao + "'\n"
+        txt += "inserir '"+filmes[i].data + "', '" + filmes[i].descricao + "'\ngo\n"
     }
 
     var element = document.createElement('a');
