@@ -8,8 +8,8 @@ function ColocarEmTabulacao(){
     for(var i=611; i<itens.length;i++){
 
         filme = {
-            data: itens[i].innerText.innerText.split(" - ")[0],
-            descricao: itens[i].innerText.innerText.split(" - ")[1]
+            data: itens[i].innerText.split(" - ")[0],
+            descricao: itens[i].innerText.split(" - ")[1]
         }
 
         filmes[i-611] = filme;
@@ -23,7 +23,7 @@ function ColocarEmTabulacao(){
 
     var element = document.createElement('a');
             element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(txt));
-            element.setAttribute('download', "doc.txt");
+            element.setAttribute('download', "filmes.txt");
 
             element.style.display = 'none';
             document.body.appendChild(element);
