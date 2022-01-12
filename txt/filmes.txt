@@ -1,3 +1,4 @@
+data	filme
 03/jan	Os Smurfs 2 (início da temporada da Sessão da Tarde de Férias)
 04/jan	Quando em Roma
 05/jan	A Fabulosa Gilly Hopkins
@@ -908,7 +909,6 @@
 30/mai	Não Houve Exibição
 31/mai	X-Men: Primeira Classe
 01/jun	Não Houve Exibição
-08/jun	Não Houve Exibição
 11/jun	Hitch: Conselheiro Amoroso
 12/jun	A Arte do Amor
 13/jun	O Céu é de Verdade
@@ -1376,8 +1376,6 @@
 23/mar	Recém Casados
 24/mar	Uma Aventura Animal (2013) (inédito em TV aberta)
 25/mar	Lara Croft: Tomb Raider
-28/03 a 01/04	Não Houve Exibição
-28/03 a 01/04	Não Houve Exibição
 04/abr	Você Não Pode Beijar A Noiva
 05/abr	Não Houve Exibição
 06/abr	Quando Em Roma
@@ -1497,7 +1495,6 @@
 14/set	Minha Mãe Quer Que Eu Case | H20: Meninas Sereias (somente para as afiliadas da Globo)
 15/set	Lições Para Toda A Vida | Flicka 3 (somente para as afiliadas da Globo)
 16/set	As Viagens De Gulliver
-19 a 23/09	Não Houve Exibição
 26/set	Noivas Em Guerra | Cupido: A Magia Do Amor (somente para as afiliadas da Globo)
 27/set	Jogo Da Vida | A Menina E O Porquinho (2006) (somente para as afiliadas da Globo)
 28/set	Como Agarrar Meu Ex-Namorado | Best Player: Guerreiros Virtuais (somente para as afiliadas da Globo)
@@ -3751,7 +3748,6 @@
 25/mai	Top Gang 2: A Missão
 28/mai	Gasparzinho E Wendy
 29/mai	Os Picaretas
-30/05 -	undefined
 31/mai	Ciência Travessa
 01/jun	Não Houve Exibição
 04/jun	Casamento Grego
@@ -4054,7 +4050,6 @@
 25/jul	Feita Por Encomenda
 26/jul	Construindo Uma Carreira
 27/jul	O Carro Desgovernado
-28/07 -	undefined
 31/jul	Um Tira Da Pesada 3
 01/ago	Eloise No Plaza
 02/ago	Zamora: Um Amor De Gorila
@@ -4075,7 +4070,6 @@
 23/ago	As Aventuras De Max Keeble
 24/ago	O Mestre Do Disfarce
 25/ago	Gargantua
-28/08 -	undefined
 29/ago	Amigos Para Sempre
 30/ago	Como Água E Vinho (inédito em TV aberta)
 31/ago	Olha Quem Está Falando
@@ -4090,7 +4084,6 @@
 13/set	Não Houve Exibição
 14/set	Não Houve Exibição
 15/set	Milionário Num Instante
-18/09 -	undefined
 19/set	Crossroads: Amigas Para Sempre
 20/set	Aprendiz De Feiticeiro
 21/set	Sempre Amigos
@@ -4137,7 +4130,6 @@
 17/nov	Geração X
 20/nov	Velocidade Máxima 2
 21/nov	De Volta À Lagoa Azul
-22/11 -	undefined
 23/nov	Meu Primeiro Amor
 24/nov	Sabrina Na Austrália
 27/nov	X-Panzé
@@ -4182,7 +4174,6 @@
 21/jan	Um Agente Muito Secreto
 24/jan	Os Batutinhas
 25/jan	Quase Feitos Um Para O Outro
-26/01 -	undefined
 27/jan	Blankman: Um Super-Herói Muito Atrapalhado
 28/jan	Police Story
 31/jan	Bebês Em Ação
@@ -4366,7 +4357,6 @@
 06/out	Um Conto Quase De Fadas
 07/out	Falcão: O Campeão Dos Campeões
 10/out	As Aventuras De Pinocchio 2
-11/10 -	undefined
 12/out	Barbie Como Rapunzel
 13/out	O Diário Da Princesa (inédito em TV aberta)
 14/out	Turbo: Power Rangers 2
@@ -4381,7 +4371,6 @@
 27/out	Uma Aventura Na América Selvagem
 28/out	Top Gang: Ases Muito Loucos
 31/out	O Grande Desafio
-01/11 -	undefined
 02/nov	Jesus
 03/nov	Um Verão Inesquecível
 04/nov	A Princesa Prometida
@@ -4402,7 +4391,6 @@
 25/nov	Milionário Num Instante
 28/nov	Babe: O Porquinho Atrapalhado
 29/nov	Entrega Especial
-30/11 -	undefined
 01/dez	Viva! A Babá Morreu
 02/dez	Guerreiros De Virtude
 05/dez	As Aventuras De Max Keeble (inédito em TV aberta)
@@ -4799,7 +4787,6 @@
 06/jun	Police Story 2: Codinome Radical
 09/jun	As Patricinhas De Beverly Hills
 10/jun	Edward Mãos De Tesoura
-11/06 -	undefined
 12/jun	Tudo Por Amor
 13/jun	As Minas Do Rei Salomão
 16/jun	O Mentiroso
@@ -6262,7 +6249,7 @@
 01/abr	Dave, Presidente Por Um Dia
 02/abr	Superman 4: Em Busca Da Paz
 03/abr	Uma Segunda Chance
-[[]] Contra O Homem Com A Pistola De Ouro	undefined
+04/abr	007 Contra O Homem Com A Pistola De Ouro
 07/abr	O Renascer De Uma Mulher
 11/abr	Comando Para Matar
 14/abr	Passageiro 57
@@ -7513,7 +7500,7 @@
 18/mai	Por Favor, Matem Minha Mulher
 19/mai	Não Houve Exibição
 20/mai	Não Houve Exibição
-[[]] O Espião Que Me Amava	undefined
+21/mai	O Espião Que Me Amava
 22/mai	Academia De Gênios
 25/mai	Loucas Aventuras De Uma Família Americana Na Europa
 26/mai	Um Tira Da Pesada 2
@@ -7526,7 +7513,7 @@
 04/jun	Te Pego Lá Fora
 05/jun	Loucademia De Polícia 4: O Cidadão Se Defende
 08/jun	Braddock 3: O Resgate
-[[]] Contra O Homem Com A Pistola De Ouro	undefined
+09/jun	007 Contra O Homem Com A Pistola De Ouro
 12/jun	Não Houve Exibição
 15/jun	Namorados Por Acaso
 16/jun	Minhas Duas Mulheres
@@ -7752,7 +7739,7 @@
 01/mai	A Ilha No Topo Do Mundo
 02/mai	O Fofoqueiro
 03/mai	Banzé Na Rússia
-[[]] Os Diamantes São Eternos	undefined
+06/mai	Os Diamantes São Eternos
 07/mai	Loucos De Dar Nó
 08/mai	Não Houve Exibição
 09/mai	A Bomba Que Desnuda
@@ -7883,7 +7870,7 @@
 31/out	Os Heróis Não Tem Idade
 01/nov	A Dupla Dinâmica
 04/nov	Rapaz Solitário
-[[]] O Espião Que Me Amava	undefined
+05/nov	O Espião Que Me Amava
 06/nov	Os Embalos De Sábado Continuam
 07/nov	Crianças Bem Amadas
 08/nov	Breakdance 2
@@ -7899,7 +7886,7 @@
 22/nov	O Céu Pode Esperar
 25/nov	Um Tira Da Pesada
 26/nov	Loucuras De Verão
-[[]] Os Diamantes São Eternos	undefined
+27/nov	Os Diamantes São Eternos
 28/nov	Mistério No Bosque
 29/nov	Love Story: Uma História De Amor
 02/dez	Top Gun: Ases Indomáveis
@@ -8101,7 +8088,7 @@
 04/set	Desta Vez Eu Te Agarro
 05/set	O Menino Que Queria Ser Anjo
 06/set	Krull
-[[]] Os Diamantes São Eternos	undefined
+07/set	Os Diamantes São Eternos
 10/set	O Enigma Da Pirâmide
 11/set	A Dama De Vermelho
 12/set	Não Houve Exibição
@@ -9149,7 +9136,7 @@
 03/mai	Gigot (62)
 06/mai	Milhas Desesperadoras
 07/mai	Um Anjo no meu Bolso
-08/055	O Gavião e a Flecha
+08/mai	O Gavião e a Flecha
 09/mai	Por um Corpo de Mulher
 10/mai	Quando o Espetáculo Termina
 13/mai	Amor de Milionário
@@ -9182,7 +9169,7 @@
 19/jun	Os Monitores (62)
 20/jun	Antes Tarde do que Nunca
 21/jun	Perdidos na Selva (77)
-24/06- O Gorila (64)	undefined
+24/jun	O Gorila (64)
 25/jun	A Vida Secreta de John Chapman
 26/jun	Felizes Para Sempre
 27/jun	Areias do Deserto
@@ -9485,7 +9472,7 @@
 09/nov	Romance Inacabado
 12/nov	O Milagre (59)
 13/nov	Felizes Para Sempre
-14/11- O Agente 711 Pede Socorro	undefined
+14/nov	O Agente 711 Pede Socorro
 15/nov	O Estado Interessante de Papai
 16/nov	Periscópio à Vista
 19/nov	A Deliciosa Viuvinha
@@ -9696,7 +9683,7 @@
 07/nov	Maldosamente Ingênua
 08/nov	O rei e o Aventureiro
 09/nov	Dois Destinos se Encontram
-10/11- A Meia-Noite do Amor	undefined
+10/nov	A Meia-Noite do Amor
 11/nov	O Mordomo e a Dama
 14/nov	Entre o Amor e o Pecado
 15/nov	Dizem que é Amor
