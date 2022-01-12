@@ -14,6 +14,7 @@ go
 /* criando tabela RAW.T_Filmes */
 
 create table RAW.T_Filmes(
+	IDFilmes int primary key identity,
 	DiaMes varchar(50),
 	NomeFilme varchar(300)
 )
@@ -20183,4 +20184,75 @@ go
 inserir '01/07', 'A Mãe Solteira (SP) / Andy Hardy Banca o Xerloque (RJ)'
 go
 inserir '19/09', 'Brotinho Indocíl'
+go
+
+/* Deletando DiaMes='' */
+
+select * from RAW.T_Filmes where DiaMes = ''
+go
+
+delete from RAW.T_Filmes where DiaMes = ''
+go
+
+/* Atualizando os dados */
+
+update RAW.T_Filmes set DiaMes='24/06', NomeFilme='O Gorila (64)'
+where DiaMes = '24/06- O Gorila (64)'
+go
+
+update RAW.T_Filmes set DiaMes='14/11', NomeFilme='O Agente 711 Pede Socorro'
+where DiaMes = '14/11- O Agente 711 Pede Socorro'
+go
+
+update RAW.T_Filmes set DiaMes='10/11', NomeFilme='A Meia-Noite do Amor'
+where DiaMes = '10/11- A Meia-Noite do Amor'
+go
+
+update RAW.T_Filmes set DiaMes='04/03', NomeFilme='Oito e Meio (SP) / Os Perigos de Paulina'
+where DiaMes = '04/03 " Oito e Meio "(SP) / "Os Perigos de Paulina'
+go
+
+select * from RAW.T_Filmes where DiaMes = '[[]] Contra O Homem Com A Pistola De Ouro'
+go
+
+update RAW.T_Filmes set DiaMes='04/04', NomeFilme='007 Contra O Homem Com A Pistola De Ouro'
+where IDFilmes = 6272
+go
+
+update RAW.T_Filmes set DiaMes='09/06', NomeFilme='007 Contra O Homem Com A Pistola De Ouro'
+where IDFilmes = 7536
+go
+
+select * from RAW.T_Filmes where DiaMes = '[[]] O Espião Que Me Amava'
+go
+
+update RAW.T_Filmes set DiaMes='21/05', NomeFilme='O Espião Que Me Amava'
+where IDFilmes = 7523
+go
+
+update RAW.T_Filmes set DiaMes='05/11', NomeFilme='O Espião Que Me Amava'
+where IDFilmes = 7893
+go
+
+select * from RAW.T_Filmes where DiaMes = '[[]] Os Diamantes São Eternos'
+go
+
+update RAW.T_Filmes set DiaMes='06/05', NomeFilme='Os Diamantes São Eternos'
+where IDFilmes = 7762
+go
+
+update RAW.T_Filmes set DiaMes='27/11', NomeFilme='Os Diamantes São Eternos'
+where IDFilmes = 7909
+go
+
+update RAW.T_Filmes set DiaMes='07/09', NomeFilme='Os Diamantes São Eternos'
+where IDFilmes = 8111
+go
+
+select * from RAW.T_Filmes
+go
+
+/* removendo os undefined */
+
+delete from RAW.T_Filmes where NomeFilme = 'undefined'
 go
