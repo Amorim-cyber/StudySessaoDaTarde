@@ -12,6 +12,9 @@ function ColocarEmTabulacao(){
             descricao: itens[i].innerText.split(" - ")[1]
         }
 
+        if(filme.descricao == "Sessão da Tarde Especial")
+        filme.descricao = itens[i].innerText.split(" - ")[2]
+
         filmes[i-611] = filme;
         
 
