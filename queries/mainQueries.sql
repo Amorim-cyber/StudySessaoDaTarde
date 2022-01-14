@@ -20320,10 +20320,144 @@ go
 
 /* Separando filmes exibidos no mesmo dia */
 
-select * from RAW.T_Filmes where NomeFilme like '%|%'
+declare 
+	@data varchar(20),
+	@filme varchar(300)
+
+declare cursorSplit cursor LOCAL FAST_FORWARD for 
+		(select DiaMes, NomeFilme from RAW.T_Filmes where NomeFilme like '%|%')
+
+
+open cursorSplit
+
+fetch next from cursorSplit
+into @data, @filme
+
+WHILE @@FETCH_STATUS = 0
+BEGIN
+	
+	insert into RAW.T_Filmes select @data, SPL.value
+	from STRING_SPLIT(@filme,'|') as SPL
+
+	fetch next from cursorSplit
+	into @data, @filme
+
+END
+
+	close cursorSplit
+	deallocate cursorSplit
+
+GO
+
+delete from RAW.T_Filmes where NomeFilme like '%|%'
 go
 
-select value from (select * from RAW.T_Filmes where NomeFilme like '%|%')
-	cross apply string_split(NomeFilme, '|',1)
+declare 
+	@data varchar(20),
+	@filme varchar(300)
+
+declare cursorSplit cursor LOCAL FAST_FORWARD for 
+		(select DiaMes, NomeFilme from RAW.T_Filmes where NomeFilme like '%/%' 
+		and NomeFilme <> 'Corra Que A Polícia Vem Aí 2 1/2'
+		and NomeFilme <> 'Corra Que A Polícia Vem Ai 2 1/2'
+		and NomeFilme <> 'Corra Que A Polícia Vem Aí 33 1/3: O Insulto Final'
+		and NomeFilme <> 'Corra Que A Polícia Vem Ai 33 1/3: O Insulto Final'
+		and NomeFilme <> 'F/X 2: Ilusão Fatal'
+		and NomeFilme <> 'F/X2: Ilusão Fatal')
+
+
+open cursorSplit
+
+fetch next from cursorSplit
+into @data, @filme
+
+WHILE @@FETCH_STATUS = 0
+BEGIN
+	
+	insert into RAW.T_Filmes select @data, SPL.value
+	from STRING_SPLIT(@filme,'/') as SPL
+
+	fetch next from cursorSplit
+	into @data, @filme
+
+END
+
+	close cursorSplit
+	deallocate cursorSplit
+
+GO
+
+delete from RAW.T_Filmes where NomeFilme like '%/%' 
+and NomeFilme <> 'Corra Que A Polícia Vem Aí 2 1/2'
+and NomeFilme <> 'Corra Que A Polícia Vem Ai 2 1/2'
+and NomeFilme <> 'Corra Que A Polícia Vem Aí 33 1/3: O Insulto Final'
+and NomeFilme <> 'Corra Que A Polícia Vem Ai 33 1/3: O Insulto Final'
+and NomeFilme <> 'F/X 2: Ilusão Fatal'
+and NomeFilme <> 'F/X2: Ilusão Fatal'
 go
 
+/* removendo comentários entre () */
+
+declare 
+	@id int,
+	@filme varchar(300)
+
+declare customCursor cursor LOCAL FAST_FORWARD for 
+		(select IDFilmes, NomeFilme from RAW.T_Filmes where NomeFilme NOT like '%(____)%')
+
+
+open customCursor
+
+fetch next from customCursor
+into @id, @filme
+
+WHILE @@FETCH_STATUS = 0
+BEGIN
+	
+	if CHARINDEX(' (',@filme) <> 0 
+		update RAW.T_Filmes set NomeFilme= SUBSTRING(@filme,1,CHARINDEX(' (',@filme)) where IDFilmes = @id
+
+	fetch next from customCursor
+	into @id, @filme
+
+END
+
+	close customCursor
+	deallocate customCursor
+
+GO
+
+declare 
+	@id int,
+	@filme varchar(300)
+
+declare customCursor cursor LOCAL FAST_FORWARD for 
+		(select IDFilmes, NomeFilme from RAW.T_Filmes where NomeFilme like '%(____)%')
+
+
+open customCursor
+
+fetch next from customCursor
+into @id, @filme
+
+WHILE @@FETCH_STATUS = 0
+BEGIN
+	
+	if CHARINDEX(' (',@filme,CHARINDEX('(',@filme)) <> 0 
+		update RAW.T_Filmes set NomeFilme= SUBSTRING(@filme,1,CHARINDEX(' (',@filme,CHARINDEX('(',@filme))) where IDFilmes = @id
+
+	fetch next from customCursor
+	into @id, @filme
+
+END
+
+	close customCursor
+	deallocate customCursor
+
+GO
+
+/* montando array de filmes */
+
+
+select distinct TRIM(NomeFilme) as Filmes from RAW.T_Filmes 
+go
