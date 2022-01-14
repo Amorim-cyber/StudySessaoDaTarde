@@ -20249,6 +20249,10 @@ update RAW.T_Filmes set DiaMes='07/09', NomeFilme='Os Diamantes São Eternos'
 where IDFilmes = 8111
 go
 
+update RAW.T_Filmes set DiaMes='08/05'
+where IDFilmes = 9159
+go
+
 select * from RAW.T_Filmes
 go
 
@@ -20256,3 +20260,70 @@ go
 
 delete from RAW.T_Filmes where NomeFilme = 'undefined'
 go
+
+/* removendo os que Não Houve Exibição */
+
+delete from RAW.T_Filmes where NomeFilme like 'Não Houve Exibição%'
+go
+
+/* colocando o ano na data */
+
+declare
+	@cursorData cursor,
+	@cursorID cursor,
+	@value varchar(10),
+	@id int,
+	@ano int = 2022,
+	@dia int,
+	@mes int
+begin
+	set @cursorData = cursor for 
+	select DiaMes from RAW.T_Filmes 
+
+	set @cursorID = cursor for 
+	select IDFilmes from RAW.T_Filmes 
+	
+	open @cursorData
+	fetch next from @cursorData
+	into @value
+
+	open @cursorID
+	fetch next from @cursorID
+	into @id
+
+	while @@fetch_status = 0
+	begin 
+		set @dia = cast(LEFT(@value,2) as int)
+		set @mes = cast(RIGHT(@value,2) as int)
+			
+			update RAW.T_Filmes set DiaMes= @value + '/' + cast(@ano as varchar)
+			where IDFilmes = @id
+
+		fetch next from @cursorData
+		into @value
+		fetch next from @cursorID
+		into @id
+		if (cast(LEFT(@value,2)as int) < @dia) and (cast(RIGHT(@value,2)as int) <= @mes)
+			set @ano = @ano - 1
+	end
+
+	close @cursorData
+	deallocate @cursorData
+
+	close @cursorID
+	deallocate @cursorID
+	
+	print 'Update finalizado'
+
+end
+go
+
+/* Separando filmes exibidos no mesmo dia */
+
+select * from RAW.T_Filmes where NomeFilme like '%|%'
+go
+
+select value from (select * from RAW.T_Filmes where NomeFilme like '%|%')
+	cross apply string_split(NomeFilme, '|',1)
+go
+
