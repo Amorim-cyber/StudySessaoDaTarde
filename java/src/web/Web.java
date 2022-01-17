@@ -125,6 +125,7 @@ public class Web {
 	public String pegarTxt(ChromeDriver driver, String tipo,String tag) {
 		boolean b = false;
 		String txt = "";
+		int count = 0;
 		do {
 			System.out.println(tag);
 			try {
@@ -151,7 +152,12 @@ public class Web {
 				}
 				
 			} catch (NoSuchElementException | InterruptedException | StaleElementReferenceException | ElementNotInteractableException e) {
-				b = true;
+				if(count==5) {
+					txt = "null";
+				}else {
+					b = true;
+					count++;
+				}		
 			}
 		} while (b);
 		return txt;
