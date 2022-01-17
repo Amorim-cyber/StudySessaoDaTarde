@@ -21,7 +21,9 @@ public class Extractor extends Web{
 	private String originalTitle;
 	private String adoroRating;
 	
-	private String txt = "";
+	private String txt = 
+	"Nome do filme\tLançamento\tDuração\tTipo\tDiretor\t"+
+	"Roteiro\tElenco\tTítulo Original\tNota\n";
 	
 	public Extractor(ChromeDriver driver) {
 		this.driver = driver;
@@ -44,14 +46,11 @@ public class Extractor extends Web{
 			duration = info.split(" / ")[1];
 			type = info.split(" / ")[2];
 			
-			director = pegarTxt(driver, "xpath",
-					"/html/body/div[1]/main/section/div/div[3]/div[1]/div/div[2]");
-			screenPlay = pegarTxt(driver, "xpath",
-					"/html/body/div[1]/main/section/div/div[3]/div[1]/div/div[3]");
-			casting = pegarTxt(driver, "xpath",
-					"/html/body/div[1]/main/section/div/div[3]/div[1]/div/div[4]");
-			originalTitle = pegarTxt(driver, "xpath",
-					"/html/body/div[1]/main/section/div/div[3]/div[1]/div/div[5]");
+			
+			director = getValue("Direção:");
+			screenPlay = getValue("Roteiro");
+			casting = getValue("Elenco:");
+			originalTitle = getValue("Título original");
 			adoroRating = pegarTxt(driver, "xpath",
 					"/html/body/div[1]/main/section/div/div[3]/div[3]/div[1]/div/div/span[1]"); 
 			
@@ -68,6 +67,20 @@ public class Extractor extends Web{
 		
 		System.out.println(txt);
 			
+	}
+	
+	public String getValue(String txt) {
+		String value = "";
+		for(int i = 2; i<6;i++) {
+			value = pegarTxt(driver, "xpath",
+					"/html/body/div[1]/main/section/div/div[3]/div[1]/div/div["+i+"]");
+			if(value.contains(txt)) {
+				return value.substring(txt.length()).trim();
+			}
+		}
+		
+		return value;
+		
 	}
 
 }
