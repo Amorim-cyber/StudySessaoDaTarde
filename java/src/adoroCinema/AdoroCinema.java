@@ -13,7 +13,7 @@ public class AdoroCinema {
 	}
 	
 	public void start() {
-		System.setProperty("webdriver.chrome.driver", new File("driver/chromedriver.exe").getAbsolutePath());
+		System.setProperty("webdriver.chrome.driver", new File("driver/97/chromedriver.exe").getAbsolutePath());
         
         driver = new ChromeDriver();
 		
