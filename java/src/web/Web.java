@@ -126,7 +126,7 @@ public class Web {
 		boolean b = false;
 		String txt = "";
 		do {
-			System.out.println("Pegar txt");
+			System.out.println(tag);
 			try {
 				b = false;
 				Thread.sleep(800);
@@ -161,7 +161,7 @@ public class Web {
 		boolean b = false;
 		String txt = "";
 		do {
-			System.out.println("Pegar txt");
+			System.out.println(tag);
 			try {
 				b = false;
 				Thread.sleep(800);
