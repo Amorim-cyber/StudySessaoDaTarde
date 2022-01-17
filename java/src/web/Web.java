@@ -1,10 +1,13 @@
 package web;
 
+import java.util.List;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.ElementNotInteractableException;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.StaleElementReferenceException;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Web {
@@ -143,6 +146,30 @@ public class Web {
 					}
 					case "xpath":{
 						txt = driver.findElement(By.xpath(tag)).getText();
+						break;
+					}
+				}
+				
+			} catch (NoSuchElementException | InterruptedException | StaleElementReferenceException | ElementNotInteractableException e) {
+				b = true;
+			}
+		} while (b);
+		return txt;
+	}
+	
+	public String pegarTxt(ChromeDriver driver, String tipo,String tag, int index) {
+		boolean b = false;
+		String txt = "";
+		do {
+			System.out.println("Pegar txt");
+			try {
+				b = false;
+				Thread.sleep(800);
+				
+				switch(tipo) {
+					case "name":{
+						List<WebElement> list = driver.findElements(By.className(tag));
+						txt = list.get(index).getText();
 						break;
 					}
 				}
