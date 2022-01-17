@@ -33,20 +33,27 @@ public class Extractor extends Web{
 			digitarDados(driver,"id","header-search-input",movies[i]);
 			
 			clicar(driver,"xpath", searchButton);
-			clicar(driver,"xpath", skipButton);
+			if(i==0)
+				clicar(driver,"xpath", skipButton);
 			clicar(driver,"xpath", movieTitle);
 			
-			String info = pegarTxt(driver, "name","meta-body-item meta-body-info");
+			String info = pegarTxt(driver, "xpath",
+					"/html/body/div[1]/main/section/div/div[3]/div[1]/div/div[1]");
 			
 			release = info.split(" / ")[0];
 			duration = info.split(" / ")[1];
 			type = info.split(" / ")[2];
 			
-			director = pegarTxt(driver, "name","meta-body-item meta-body-direction");
-			screenPlay = pegarTxt(driver, "name","meta-body-item meta-body-direction");
-			casting = pegarTxt(driver, "name","meta-body-item meta-body-actor");
-			originalTitle = pegarTxt(driver, "name","meta-body-item");
-			adoroRating = pegarTxt(driver, "name","stareval-note"); 
+			director = pegarTxt(driver, "xpath",
+					"/html/body/div[1]/main/section/div/div[3]/div[1]/div/div[2]");
+			screenPlay = pegarTxt(driver, "xpath",
+					"/html/body/div[1]/main/section/div/div[3]/div[1]/div/div[3]");
+			casting = pegarTxt(driver, "xpath",
+					"/html/body/div[1]/main/section/div/div[3]/div[1]/div/div[4]");
+			originalTitle = pegarTxt(driver, "xpath",
+					"/html/body/div[1]/main/section/div/div[3]/div[1]/div/div[5]");
+			adoroRating = pegarTxt(driver, "xpath",
+					"/html/body/div[1]/main/section/div/div[3]/div[3]/div[1]/div/div/span[1]"); 
 			
 			txt += movies[i] + "\t" 
 			+ release + "\t" 
