@@ -23,7 +23,7 @@ public class AdoroCinema {
 	}
 	
 	public void extract() {
-		
+		new Extractor(driver).extract();
 	}
 	
 	public ChromeDriver getDriver() {
