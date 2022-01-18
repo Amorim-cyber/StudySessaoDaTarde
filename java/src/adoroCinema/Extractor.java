@@ -13,7 +13,6 @@ public class Extractor extends Web{
 			"O Amor De Um Pai", 
 			"O Mistério Da Libélula", 
 			"Por Favor, Matem Minha Mulher", 
-			"As Sete Caras Do Dr. Lao", 
 			"10 Horas Para o Natal ", 
 			"Interlúdio De Amor", 
 			"A Maldição Da Pantera-Cor-De-Rosa", 
@@ -2168,7 +2167,7 @@ public class Extractor extends Web{
 			"O Galante Vagabundo", 
 			"O Mágico Inesquecível", 
 			" A Lenda Do Tesouro Perdido ", 
-			"Goldenrod, o Campeão dos Rodeios", 
+			"Goldenrod, o Campeão dos Rodeios ", 
 			"Um Tira Da Pesada", 
 			"A Cor Do Amor: A História De Jacey", 
 			"A Ovelha Negra", 
@@ -3436,6 +3435,7 @@ public class Extractor extends Web{
 			"Te Pego Lá Fora", 
 			"O Menino De Ouro ", 
 			"A Joia Do Nilo", 
+			"As 7 Faces do Dr. Lao", 
 			"Artistas E Modelos", 
 			"Só os Persistentes Sobrevivem", 
 			"Em Terreno Selvagem", 
@@ -3563,7 +3563,7 @@ public class Extractor extends Web{
 			"Terra 2", 
 			"A Fantástica Fábrica De Chocolate (1971)", 
 			"Do Destino Ninguém Foge", 
-			"Paraíso Havaiano", 
+			"Paraíso Havaiano ", 
 			"Cartas Para Julieta", 
 			"Um Natal Brilhante", 
 			"Dr. Dolittle 5 ", 
@@ -3638,7 +3638,7 @@ public class Extractor extends Web{
 			"Cidade Sob O Mar", 
 			"Conan, O Bárbaro (1982)", 
 			"Maldita Aventura", 
-			"Um dia em Nova York "}; 
+			"Um dia em Nova York "};  
 
 	
 	
@@ -3683,13 +3683,18 @@ public class Extractor extends Web{
 			try {
 				info = pegarTxt(driver, "xpath",
 						"/html/body/div[1]/main/section/div/div[3]/div[1]/div/div[1]");
+				release = info.split(" / ")[0];
+				duration = info.split(" / ")[1];
+				type = info.split(" / ")[2];
+				
 			}catch(ArrayIndexOutOfBoundsException e) {
 				info = pegarTxt(driver, "xpath",
 						"/html/body/div[1]/main/section/div/div[2]/div[1]/div/div[1]");
+				release = info.split(" / ")[0];
+				duration = info.split(" / ")[1];
+				type = info.split(" / ")[2];
 			}
-			release = info.split(" / ")[0];
-			duration = info.split(" / ")[1];
-			type = info.split(" / ")[2];
+			
 			
 			
 			director = getValue("Direção:");
@@ -3734,14 +3739,13 @@ public class Extractor extends Web{
 		String value = "";
 		for(int i = 2; i<6;i++) {
 			
-			try {
-				value = pegarTxt(driver, "xpath",
-						"/html/body/div[1]/main/section/div/div[3]/div[1]/div/div["+i+"]");
-			}catch(ArrayIndexOutOfBoundsException e) {
+			value = pegarTxt(driver, "xpath",
+					"/html/body/div[1]/main/section/div/div[3]/div[1]/div/div["+i+"]");
+			
+			if(value.equals("null")) {
 				value = pegarTxt(driver, "xpath",
 						"/html/body/div[1]/main/section/div/div[2]/div[1]/div/div["+i+"]");
 			}
-			
 			
 			if(value.contains(txt)) {
 				return value.substring(txt.length()).trim();
