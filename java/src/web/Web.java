@@ -54,6 +54,7 @@ public class Web {
 	
 	public void clicar(ChromeDriver driver, String tipo,String tag) {
 		boolean b = false;
+		int count = 0;
 		do {
 			System.out.println("Clique");
 			try {
@@ -84,7 +85,12 @@ public class Web {
 				}
 				
 			} catch (NoSuchElementException | InterruptedException | StaleElementReferenceException | ElementNotInteractableException e) {
-				b = true;
+				if(count==3) {
+					throw new NoSuchElementException("Elemento não encontrado");
+				}else {
+					b = true;
+					count++;
+				}
 			}
 		} while (b);
 	}
