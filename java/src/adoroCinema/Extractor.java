@@ -2,6 +2,7 @@ package adoroCinema;
 
 import org.openqa.selenium.chrome.ChromeDriver;
 
+import app.log.movies.Achieve;
 import web.Web;
 
 public class Extractor extends Web{
@@ -65,7 +66,11 @@ public class Extractor extends Web{
 			+ adoroRating + "\n"; 
 		}
 		
-		System.out.println(txt);
+		Achieve ach = new Achieve();
+		
+		ach.create();
+		
+		ach.write("table.txt", txt);
 			
 	}
 	
