@@ -26,6 +26,8 @@ public class Extractor extends Web{
 	"Nome do filme\tLançamento\tDuração\tTipo\tDiretor\t"+
 	"Roteiro\tElenco\tTítulo Original\tNota\n";
 	
+	private String txt2 = "";
+	
 	public Extractor(ChromeDriver driver) {
 		this.driver = driver;
 	}
@@ -53,7 +55,7 @@ public class Extractor extends Web{
 			casting = getValue("Elenco:");
 			originalTitle = getValue("Título original");
 			adoroRating = pegarTxt(driver, "xpath",
-					"/html/body/div[1]/main/section/div/div[3]/div[3]/div[1]/div/div/span[1]"); 
+					"/html/body/div[1]/main/section/div/div[3]/div[3]/div[1]/div/div/span[1]").replace(",", "."); 
 			
 			txt += movies[i] + "\t" 
 			+ release + "\t" 
@@ -64,6 +66,17 @@ public class Extractor extends Web{
 			+ casting + "\t" 
 			+ originalTitle + "\t" 
 			+ adoroRating + "\n"; 
+			
+			txt2 += "inserirModel '"+movies[i]+"', '"
+					+ release + "', '"
+					+ duration + "', '"
+					+ type + "', '"
+					+ director + "', '"
+					+ screenPlay + "', '"
+					+ casting + "', '"
+					+ originalTitle + "', "
+					+ adoroRating + "\ngo\n"; 
+			
 		}
 		
 		Achieve ach = new Achieve();
@@ -71,6 +84,7 @@ public class Extractor extends Web{
 		ach.create();
 		
 		ach.write("table.txt", txt);
+		ach.write("script.txt", txt2);
 			
 	}
 	
