@@ -3678,9 +3678,15 @@ public class Extractor extends Web{
 				clicar(driver,"xpath", skipButton);*/
 			clicar(driver,"xpath", movieTitle);
 			
-			String info = pegarTxt(driver, "xpath",
-					"/html/body/div[1]/main/section/div/div[3]/div[1]/div/div[1]");
+			String info;
 			
+			try {
+				info = pegarTxt(driver, "xpath",
+						"/html/body/div[1]/main/section/div/div[3]/div[1]/div/div[1]");
+			}catch(ArrayIndexOutOfBoundsException e) {
+				info = pegarTxt(driver, "xpath",
+						"/html/body/div[1]/main/section/div/div[2]/div[1]/div/div[1]");
+			}
 			release = info.split(" / ")[0];
 			duration = info.split(" / ")[1];
 			type = info.split(" / ")[2];
@@ -3727,8 +3733,16 @@ public class Extractor extends Web{
 	public String getValue(String txt) {
 		String value = "";
 		for(int i = 2; i<6;i++) {
-			value = pegarTxt(driver, "xpath",
-					"/html/body/div[1]/main/section/div/div[3]/div[1]/div/div["+i+"]");
+			
+			try {
+				value = pegarTxt(driver, "xpath",
+						"/html/body/div[1]/main/section/div/div[3]/div[1]/div/div["+i+"]");
+			}catch(ArrayIndexOutOfBoundsException e) {
+				value = pegarTxt(driver, "xpath",
+						"/html/body/div[1]/main/section/div/div[2]/div[1]/div/div["+i+"]");
+			}
+			
+			
 			if(value.contains(txt)) {
 				return value.substring(txt.length()).trim();
 			}
