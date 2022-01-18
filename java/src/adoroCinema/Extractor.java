@@ -3683,16 +3683,59 @@ public class Extractor extends Web{
 			try {
 				info = pegarTxt(driver, "xpath",
 						"/html/body/div[1]/main/section/div/div[3]/div[1]/div/div[1]");
-				release = info.split(" / ")[0];
-				duration = info.split(" / ")[1];
-				type = info.split(" / ")[2];
+				
+				switch(info.split(" / ").length) {
+					case 3:{
+						release = info.split(" / ")[0];
+						duration = info.split(" / ")[1];
+						type = info.split(" / ")[2];
+					}
+					case 2:{
+						release = info.split(" / ")[0];
+						duration = "null";
+						type = info.split(" / ")[1];
+					}
+					case 1:{
+						release = "null";
+						duration = "null";
+						type = info.split(" / ")[0];
+					}
+					default:{
+						release = "null";
+						duration = "null";
+						type = "null";
+					}
+						
+				}
+				
 				
 			}catch(ArrayIndexOutOfBoundsException e) {
 				info = pegarTxt(driver, "xpath",
 						"/html/body/div[1]/main/section/div/div[2]/div[1]/div/div[1]");
-				release = info.split(" / ")[0];
-				duration = info.split(" / ")[1];
-				type = info.split(" / ")[2];
+				
+				switch(info.split(" / ").length) {
+				case 3:{
+					release = info.split(" / ")[0];
+					duration = info.split(" / ")[1];
+					type = info.split(" / ")[2];
+				}
+				case 2:{
+					release = info.split(" / ")[0];
+					duration = "null";
+					type = info.split(" / ")[1];
+				}
+				case 1:{
+					release = "null";
+					duration = "null";
+					type = info.split(" / ")[0];
+				}
+				default:{
+					release = "null";
+					duration = "null";
+					type = "null";
+				}
+					
+			}
 			}
 			
 			
