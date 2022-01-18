@@ -1,5 +1,6 @@
 package adoroCinema;
 
+import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import app.log.movies.Achieve;
@@ -3676,7 +3677,31 @@ public class Extractor extends Web{
 			clicar(driver,"xpath", searchButton);
 			/*if(i==0)
 				clicar(driver,"xpath", skipButton);*/
-			clicar(driver,"xpath", movieTitle);
+			try {
+				clicar(driver,"xpath", movieTitle);
+			}catch(NoSuchElementException e) {
+				txt += movies[i] + "\t" 
+						+ "null\t" 
+						+ "null\t"  
+						+ "null\t"  
+						+ "null\t"  
+						+ "null\t"  
+						+ "null\t" 
+						+ "null\t"  
+						+ "null\n"; 
+						
+						txt2 += "inserirModel '"+movies[i]+"', '"
+								+ "null', '"
+								+ "null', '"
+								+ "null', '"
+								+ "null', '"
+								+ "null', '"
+								+ "null', '"
+								+ "null', "
+								+ "null\ngo\n"; 
+				continue;
+			}
+			
 			
 			String info;
 			
