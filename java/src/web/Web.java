@@ -152,7 +152,7 @@ public class Web {
 				}
 				
 			} catch (NoSuchElementException | InterruptedException | StaleElementReferenceException | ElementNotInteractableException e) {
-				if(count==5) {
+				if(count==3) {
 					txt = "null";
 				}else {
 					b = true;
