@@ -20456,8 +20456,39 @@ END
 
 GO
 
+/* Tirando os não filmes */
+
+delete from RAW.T_Filmes where NomeFilme like '%Copa%'
+go
+
+delete from RAW.T_Filmes where NomeFilme like '% inversão de horários%'
+go
+
+delete from RAW.T_Filmes where NomeFilme like '%Brasileirão%'
+go
+
+delete from RAW.T_Filmes where NomeFilme like '%Sessão da Tarde%'
+go
+
+delete from RAW.T_Filmes where NomeFilme like '%primeiro filme%'
+go
+
+delete from RAW.T_Filmes where NomeFilme like '%exibição%'
+go
+
+select * from RAW.T_Filmes where NomeFilme like '%??%'
+go
+
+update RAW.T_Filmes set NomeFilme='Pânico (1970)' where IDFilmes = 9957
+go
+
+update RAW.T_Filmes set NomeFilme='Tarzan (1932)' where IDFilmes = 10065
+go
+
 /* montando array de filmes */
 
 
-select distinct TRIM(NomeFilme) as Filmes from RAW.T_Filmes 
+select distinct NomeFilme as Filmes from RAW.T_Filmes 
 go
+
+ 
