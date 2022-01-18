@@ -2,6 +2,8 @@ package adoroCinema;
 
 import java.io.File;
 
+import javax.swing.JOptionPane;
+
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class AdoroCinema {
@@ -24,6 +26,7 @@ public class AdoroCinema {
 	
 	public void extract() {
 		new Extractor(driver).extract();
+		JOptionPane.showMessageDialog (null, "Extração realizada com sucesso! arquivos em java/src/app/log");
 	}
 	
 	public ChromeDriver getDriver() {
