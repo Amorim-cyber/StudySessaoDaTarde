@@ -9,6 +9,20 @@ import web.Web;
 public class Extractor extends Web{
 	
 	private ChromeDriver driver;
+	
+	private String movies[] = {"Força de Viver", 
+			"O Casamento Dos Meus Sonhos", 
+			"O Amor De Um Pai", 
+			"O Mistério Da Libélula", 
+			"Por Favor, Matem Minha Mulher", 
+			"10 Horas Para o Natal ", 
+			"Interlúdio De Amor", 
+			"A Maldição Da Pantera-Cor-De-Rosa", 
+			"Mister Brau: O Filme ", 
+			"Kung Fu Panda 2", 
+			"Megan Leavey "};
+	
+	/*
 	private String movies[] = {"Força de Viver", 
 			"O Casamento Dos Meus Sonhos", 
 			"O Amor De Um Pai", 
@@ -3639,7 +3653,7 @@ public class Extractor extends Web{
 			"Cidade Sob O Mar", 
 			"Conan, O Bárbaro (1982)", 
 			"Maldita Aventura", 
-			"Um dia em Nova York "};  
+			"Um dia em Nova York "};*/
 
 	
 	
@@ -3651,9 +3665,7 @@ public class Extractor extends Web{
 	private String movieTitle = "/html/body/div[1]/main/div[3]/div/section[1]/ul/li/div/div[1]/h2/a";
 	
 	private String nameFound;
-	private String release;
-	private String duration;
-	private String type;
+	private String info;
 	private String director;
 	private String screenPlay;
 	private String casting;
@@ -3661,7 +3673,7 @@ public class Extractor extends Web{
 	private String adoroRating;
 	
 	private String txt = 
-	"Nome do filme\tLançamento\tDuração\tTipo\tDiretor\t"+
+	"Nome do filme\tNome Encontrado\tInfo\tDiretor\t"+
 	"Roteiro\tElenco\tTítulo Original\tNota\n";
 	
 	private String txt2 = "";
@@ -3688,13 +3700,9 @@ public class Extractor extends Web{
 						+ "null\t"  
 						+ "null\t"  
 						+ "null\t"  
-						+ "null\t" 
-						+ "null\t"  
 						+ "null\n"; 
 						
 						txt2 += "inserirModel '"+movies[i]+"', '"
-								+ "null', '"
-								+ "null', '"
 								+ "null', '"
 								+ "null', '"
 								+ "null', '"
@@ -3706,65 +3714,15 @@ public class Extractor extends Web{
 			}
 			
 			
-			String info;
+			info = pegarTxt(driver, "xpath",
+					"/html/body/div[1]/main/section/div/div[2]/div[1]/div/div[1]");
 			
-			try {
-				info = pegarTxt(driver, "xpath",
-						"/html/body/div[1]/main/section/div/div[2]/div[1]/div/div[1]");
-				
-				switch(info.split(" / ").length) {
-					case 3:{
-						release = info.split(" / ")[0];
-						duration = info.split(" / ")[1];
-						type = info.split(" / ")[2];
-					}
-					case 2:{
-						release = info.split(" / ")[0];
-						duration = "null";
-						type = info.split(" / ")[1];
-					}
-					case 1:{
-						release = "null";
-						duration = "null";
-						type = info.split(" / ")[0];
-					}
-					default:{
-						release = "null";
-						duration = "null";
-						type = "null";
-					}
-						
-				}
-				
-				
-			}catch(ArrayIndexOutOfBoundsException e) {
+			if(info.equals("null")) {
 				info = pegarTxt(driver, "xpath",
 						"/html/body/div[1]/main/section/div/div[3]/div[1]/div/div[1]");
-				
-				switch(info.split(" / ").length) {
-				case 3:{
-					release = info.split(" / ")[0];
-					duration = info.split(" / ")[1];
-					type = info.split(" / ")[2];
-				}
-				case 2:{
-					release = info.split(" / ")[0];
-					duration = "null";
-					type = info.split(" / ")[1];
-				}
-				case 1:{
-					release = "null";
-					duration = "null";
-					type = info.split(" / ")[0];
-				}
-				default:{
-					release = "null";
-					duration = "null";
-					type = "null";
-				}
-					
 			}
-			}
+			
+			
 			
 			
 			nameFound = pegarTxt(driver, "xpath",
@@ -3778,9 +3736,7 @@ public class Extractor extends Web{
 			
 			txt += movies[i] + "\t" 
 			+ nameFound + "\t" 
-			+ release + "\t" 
-			+ duration + "\t" 
-			+ type + "\t" 
+			+ info + "\t"
 			+ director + "\t" 
 			+ screenPlay + "\t" 
 			+ casting + "\t" 
@@ -3788,9 +3744,8 @@ public class Extractor extends Web{
 			+ adoroRating + "\n"; 
 			
 			txt2 += "inserirModel '"+movies[i]+"', '"
-					+ release + "', '"
-					+ duration + "', '"
-					+ type + "', '"
+					+ nameFound + "', '"
+					+ info + "', '"
 					+ director + "', '"
 					+ screenPlay + "', '"
 					+ casting + "', '"
