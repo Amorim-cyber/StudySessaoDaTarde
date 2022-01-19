@@ -16,7 +16,7 @@ public class Web {
 	public void digitarDados(ChromeDriver driver, String tipo,String tag, String dado) {
 		boolean b = false;
 		do {
-			//System.out.println("Digitando");
+			System.out.println("Digitando");
 			try {
 				b = false;
 				Thread.sleep(1000);
@@ -53,46 +53,36 @@ public class Web {
 	}
 	
 	public void clicar(ChromeDriver driver, String tipo,String tag) {
-		boolean b = false;
-		int count = 0;
-		do {
-			System.out.println("Clique");
-			try {
-				b = false;
-				Thread.sleep(700);
-				
-				switch(tipo) {
-					case "cssSelection":{
-						driver.findElement(By.cssSelector(tag)).click();
-						break;
-					}
-					case "tag":{
-						driver.findElement(By.tagName(tag)).click();
-						break;
-					}
-					case "id":{
-						driver.findElement(By.id(tag)).click();
-						break;
-					}
-					case "name":{
-						driver.findElement(By.name(tag)).click();
-						break;
-					}
-					case "xpath":{
-						driver.findElement(By.xpath(tag)).click();
-						break;
-					}
+		System.out.println("Clique");
+		try {
+			Thread.sleep(700);
+			
+			switch(tipo) {
+				case "cssSelection":{
+					driver.findElement(By.cssSelector(tag)).click();
+					break;
 				}
-				
-			} catch (NoSuchElementException | InterruptedException | StaleElementReferenceException | ElementNotInteractableException e) {
-				if(count==3) {
-					throw new NoSuchElementException("Elemento não encontrado");
-				}else {
-					b = true;
-					count++;
+				case "tag":{
+					driver.findElement(By.tagName(tag)).click();
+					break;
+				}
+				case "id":{
+					driver.findElement(By.id(tag)).click();
+					break;
+				}
+				case "name":{
+					driver.findElement(By.name(tag)).click();
+					break;
+				}
+				case "xpath":{
+					driver.findElement(By.xpath(tag)).click();
+					break;
 				}
 			}
-		} while (b);
+			
+		} catch (NoSuchElementException | InterruptedException | StaleElementReferenceException | ElementNotInteractableException e) {
+			throw new NoSuchElementException("Elemento não encontrado");
+		}
 	}
 	
 	public void enter(ChromeDriver driver,String tipo, String tag) {
@@ -129,43 +119,34 @@ public class Web {
 	}
 	
 	public String pegarTxt(ChromeDriver driver, String tipo,String tag) {
-		boolean b = false;
+		
 		String txt = "";
-		int count = 0;
-		do {
-			System.out.println(tag);
-			try {
-				b = false;
-				Thread.sleep(800);
-				
-				switch(tipo) {
-					case "cssSelection":{
-						txt = driver.findElement(By.cssSelector(tag)).getText();
-						break;
-					}
-					case "id":{
-						txt = driver.findElement(By.id(tag)).getText();
-						break;
-					}
-					case "name":{
-						txt = driver.findElement(By.name(tag)).getText();
-						break;
-					}
-					case "xpath":{
-						txt = driver.findElement(By.xpath(tag)).getText();
-						break;
-					}
+		try {
+			Thread.sleep(800);
+			
+			switch(tipo) {
+				case "cssSelection":{
+					txt = driver.findElement(By.cssSelector(tag)).getText();
+					break;
 				}
-				
-			} catch (NoSuchElementException | InterruptedException | StaleElementReferenceException | ElementNotInteractableException e) {
-				if(count==3) {
-					txt = "null";
-				}else {
-					b = true;
-					count++;
-				}		
+				case "id":{
+					txt = driver.findElement(By.id(tag)).getText();
+					break;
+				}
+				case "name":{
+					txt = driver.findElement(By.name(tag)).getText();
+					break;
+				}
+				case "xpath":{
+					txt = driver.findElement(By.xpath(tag)).getText();
+					break;
+				}
 			}
-		} while (b);
+			
+		} catch (NoSuchElementException | InterruptedException | StaleElementReferenceException | ElementNotInteractableException e) {
+			txt = "null";	
+		}
+		System.out.println(txt);
 		return txt;
 	}
 	
