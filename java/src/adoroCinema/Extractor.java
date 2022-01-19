@@ -3650,6 +3650,7 @@ public class Extractor extends Web{
 	//private String skipButton = "/html/body/div[1]/div[1]/div[1]/a[2]";
 	private String movieTitle = "/html/body/div[1]/main/div[3]/div/section[1]/ul/li/div/div[1]/h2/a";
 	
+	private String nameFound;
 	private String release;
 	private String duration;
 	private String type;
@@ -3681,6 +3682,7 @@ public class Extractor extends Web{
 				clicar(driver,"xpath", movieTitle);
 			}catch(NoSuchElementException e) {
 				txt += movies[i] + "\t" 
+						+ "null\t"
 						+ "null\t" 
 						+ "null\t"  
 						+ "null\t"  
@@ -3697,6 +3699,7 @@ public class Extractor extends Web{
 								+ "null', '"
 								+ "null', '"
 								+ "null', '"
+								+ "null', '"
 								+ "null', "
 								+ "null\ngo\n"; 
 				continue;
@@ -3707,7 +3710,7 @@ public class Extractor extends Web{
 			
 			try {
 				info = pegarTxt(driver, "xpath",
-						"/html/body/div[1]/main/section/div/div[3]/div[1]/div/div[1]");
+						"/html/body/div[1]/main/section/div/div[2]/div[1]/div/div[1]");
 				
 				switch(info.split(" / ").length) {
 					case 3:{
@@ -3736,7 +3739,7 @@ public class Extractor extends Web{
 				
 			}catch(ArrayIndexOutOfBoundsException e) {
 				info = pegarTxt(driver, "xpath",
-						"/html/body/div[1]/main/section/div/div[2]/div[1]/div/div[1]");
+						"/html/body/div[1]/main/section/div/div[3]/div[1]/div/div[1]");
 				
 				switch(info.split(" / ").length) {
 				case 3:{
@@ -3764,7 +3767,8 @@ public class Extractor extends Web{
 			}
 			
 			
-			
+			nameFound = pegarTxt(driver, "xpath",
+					"/html/body/div[1]/main/div[2]/div[1]");
 			director = getValue("Direção:");
 			screenPlay = getValue("Roteiro");
 			casting = getValue("Elenco:");
@@ -3773,6 +3777,7 @@ public class Extractor extends Web{
 					"/html/body/div[1]/main/section/div/div[3]/div[3]/div[1]/div/div/span[1]").replace(",", "."); 
 			
 			txt += movies[i] + "\t" 
+			+ nameFound + "\t" 
 			+ release + "\t" 
 			+ duration + "\t" 
 			+ type + "\t" 
@@ -3808,11 +3813,11 @@ public class Extractor extends Web{
 		for(int i = 2; i<6;i++) {
 			
 			value = pegarTxt(driver, "xpath",
-					"/html/body/div[1]/main/section/div/div[3]/div[1]/div/div["+i+"]");
+					"/html/body/div[1]/main/section/div/div[2]/div[1]/div/div["+i+"]");
 			
 			if(value.equals("null")) {
 				value = pegarTxt(driver, "xpath",
-						"/html/body/div[1]/main/section/div/div[2]/div[1]/div/div["+i+"]");
+						"/html/body/div[1]/main/section/div/div[3]/div[1]/div/div["+i+"]");
 			}
 			
 			if(value.contains(txt)) {
