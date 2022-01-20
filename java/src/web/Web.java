@@ -19,7 +19,7 @@ public class Web {
 			System.out.println("Digitando");
 			try {
 				b = false;
-				Thread.sleep(1000);
+				Thread.sleep(500);
 				
 				switch(tipo) {
 					case "cssSelection":{
@@ -55,7 +55,6 @@ public class Web {
 	public void clicar(ChromeDriver driver, String tipo,String tag) {
 		System.out.println("Clique");
 		try {
-			Thread.sleep(700);
 			
 			switch(tipo) {
 				case "cssSelection":{
@@ -80,7 +79,7 @@ public class Web {
 				}
 			}
 			
-		} catch (NoSuchElementException | InterruptedException | StaleElementReferenceException | ElementNotInteractableException e) {
+		} catch (NoSuchElementException | StaleElementReferenceException | ElementNotInteractableException e) {
 			throw new NoSuchElementException("Elemento não encontrado");
 		}
 	}
@@ -122,7 +121,6 @@ public class Web {
 		
 		String txt = "";
 		try {
-			Thread.sleep(800);
 			
 			switch(tipo) {
 				case "cssSelection":{
@@ -143,7 +141,7 @@ public class Web {
 				}
 			}
 			
-		} catch (NoSuchElementException | InterruptedException | StaleElementReferenceException | ElementNotInteractableException e) {
+		} catch (NoSuchElementException | StaleElementReferenceException | ElementNotInteractableException e) {
 			txt = "null";	
 		}
 		System.out.println(txt);
