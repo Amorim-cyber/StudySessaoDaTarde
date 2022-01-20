@@ -3744,12 +3744,12 @@ public class Extractor extends Web{
 			+ adoroRating + "\n"; 
 			
 			txt2 += "inserirModel '"+movies[i]+"', '"
-					+ nameFound + "', '"
-					+ info + "', '"
-					+ director + "', '"
-					+ screenPlay + "', '"
-					+ casting + "', '"
-					+ originalTitle + "', "
+					+ nameFound.replace("\'", "\'\'") + "', '"
+					+ info.replace("\'", "\'\'") + "', '"
+					+ director.replace("\'", "\'\'") + "', '"
+					+ screenPlay.replace("\'", "\'\'") + "', '"
+					+ casting.replace("\'", "\'\'") + "', '"
+					+ originalTitle.replace("\'", "\'\'") + "', "
 					+ adoroRating + "\ngo\n"; 
 			
 		}
