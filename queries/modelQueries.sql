@@ -7302,5 +7302,9 @@ go
 
 
 
-select * from MODEL.T_Filmes
+select NomeEncontrado, count(*) Qtd from MODEL.T_Filmes
+group by NomeEncontrado
 go
+
+select * from MODEL.T_Filmes
+where NomeEncontrado = 'DR. DOLITTLE 3'
