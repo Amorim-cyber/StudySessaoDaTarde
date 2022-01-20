@@ -10,7 +10,7 @@ public class Extractor extends Web{
 	
 	private ChromeDriver driver;
 	
-	private String movies[] = {"Força de Viver", 
+	/*private String movies[] = {"Força de Viver", 
 			"O Casamento Dos Meus Sonhos", 
 			"O Amor De Um Pai", 
 			"O Mistério Da Libélula", 
@@ -20,9 +20,9 @@ public class Extractor extends Web{
 			"A Maldição Da Pantera-Cor-De-Rosa", 
 			"Mister Brau: O Filme ", 
 			"Kung Fu Panda 2", 
-			"Megan Leavey "};
+			"Megan Leavey "};*/
 	
-	/*
+	
 	private String movies[] = {"Força de Viver", 
 			"O Casamento Dos Meus Sonhos", 
 			"O Amor De Um Pai", 
@@ -3653,7 +3653,7 @@ public class Extractor extends Web{
 			"Cidade Sob O Mar", 
 			"Conan, O Bárbaro (1982)", 
 			"Maldita Aventura", 
-			"Um dia em Nova York "};*/
+			"Um dia em Nova York "};
 
 	
 	
