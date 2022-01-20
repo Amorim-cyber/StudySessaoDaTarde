@@ -20485,10 +20485,36 @@ go
 update RAW.T_Filmes set NomeFilme='Tarzan (1932)' where IDFilmes = 10065
 go
 
+/* Dando trim nos filmes */
+
+update RAW.T_Filmes set NomeFilme=LTRIM(NomeFilme) where NomeFilme like ' %'
+go
+
+/* removendo acentuaзгo */
+
+update RAW.T_Filmes set NomeFilme=REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(NomeFilme,'б','a'),'а','a'),'в','a'),'г','a'),'д','a')
+go
+
+update RAW.T_Filmes set NomeFilme=REPLACE(REPLACE(REPLACE(REPLACE(NomeFilme,'й','e'),'и','e'),'к','e'),'л','e')
+go
+
+update RAW.T_Filmes set NomeFilme=REPLACE(REPLACE(REPLACE(REPLACE(NomeFilme,'н','i'),'м','i'),'о','i'),'п','i')
+go
+
+update RAW.T_Filmes set NomeFilme=REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(NomeFilme,'у','o'),'т','o'),'ф','o'),'х','o'),'ц','o')
+go
+
+update RAW.T_Filmes set NomeFilme=REPLACE(REPLACE(REPLACE(REPLACE(NomeFilme,'ъ','u'),'щ','u'),'ы','u'),'ь','u')
+go
+
+
 /* montando array de filmes */
 
 
 select distinct NomeFilme as Filmes from RAW.T_Filmes 
+go
+
+select * from RAW.T_Filmes where NomeFilme like '% '
 go
 
  
