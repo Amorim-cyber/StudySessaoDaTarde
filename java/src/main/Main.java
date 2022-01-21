@@ -1,14 +1,16 @@
 package main;
 
-import adoroCinema.AdoroCinema;
 import app.frame.Frame;
+import google.Google;
 
 public class Main {
 
 	public static void main(String[] args) {
-		AdoroCinema adoro = new AdoroCinema();
+		//AdoroCinema adoro = new AdoroCinema();
 		
-		Frame frame = new Frame(adoro);
+		Google google = new Google();
+		
+		Frame frame = new Frame(google);
 		frame.setVisible(true);
 		frame.setLocationRelativeTo(null);
 
