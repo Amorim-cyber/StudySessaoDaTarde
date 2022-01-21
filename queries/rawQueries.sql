@@ -20485,6 +20485,9 @@ go
 update RAW.T_Filmes set NomeFilme='Tarzan (1932)' where IDFilmes = 10065
 go
 
+update RAW.T_Filmes set NomeFilme=REPLACE(NomeFilme,'"','')
+go
+
 /* Dando trim nos filmes */
 
 update RAW.T_Filmes set NomeFilme=LTRIM(NomeFilme) where NomeFilme like ' %'
@@ -20511,10 +20514,10 @@ go
 /* montando array de filmes */
 
 
-select distinct NomeFilme as Filmes from RAW.T_Filmes 
+select distinct NomeFilme from RAW.T_Filmes
 go
 
-select * from RAW.T_Filmes where NomeFilme like '% '
+select * from RAW.T_Filmes where NomeFilme like '%Goldenrod%'
 go
 
  
