@@ -98,37 +98,37 @@ public class Extractor extends Web{
 		for(int j=0;j<sequencia.length;j++) {
 			switch(sequencia[j]) {
 				case "Lançamento":{
-					digitarLancamento(intFilme, filme + " filme " + sequencia[j]);
+					digitarLancamento(intFilme, filme + " " + sequencia[j]);
 					pegarDadoFilme(movie,sequencia[j]);
 					limpar();
 					break;
 				}
 				case "Elenco":{
-					digitarTxt(filme + " filme " + sequencia[j]);
+					digitarTxt(filme + " " + sequencia[j]);
 					pegarElenco((long) (intFilme+1));
 					limpar();
 					break;
 				}
 				case "Diretor":{
-					digitarTxt(filme + " filme " + sequencia[j]);
+					digitarTxt(filme + " " + sequencia[j]);
 					pegarDiretor((long) (intFilme+1));
 					limpar();
 					break;
 				}
 				case "Roteiro":{
-					digitarTxt(filme + " filme " + sequencia[j]);
+					digitarTxt(filme + " " + sequencia[j]);
 					pegarRoteiro((long) (intFilme+1));
 					limpar();
 					break;
 				}
 				case "Gênero":{
-					digitarTxt(filme + " filme " + sequencia[j]);
+					digitarTxt(filme + " " + sequencia[j]);
 					pegarGenero((long) (intFilme+1));
 					limpar();
 					break;
 				}
 				case "Duração":{
-					digitarTxt(filme + " filme " + sequencia[j]);
+					digitarTxt(filme + " " + sequencia[j]);
 					pegarDadoFilme(movie,sequencia[j]);
 					limpar();
 					break;
