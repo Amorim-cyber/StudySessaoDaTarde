@@ -20479,6 +20479,8 @@ go
 select * from RAW.T_Filmes where NomeFilme like '%??%'
 go
 
+/* outras alterações*/
+
 update RAW.T_Filmes set NomeFilme='Pânico (1970)' where IDFilmes = 9957
 go
 
@@ -20486,6 +20488,27 @@ update RAW.T_Filmes set NomeFilme='Tarzan (1932)' where IDFilmes = 10065
 go
 
 update RAW.T_Filmes set NomeFilme=REPLACE(NomeFilme,'"','')
+go
+
+update RAW.T_Filmes set NomeFilme='3 Ninjas Contra-Atacam' where NomeFilme='3 Ninjas Contra Atacam'
+go
+
+update RAW.T_Filmes set NomeFilme='A Cor Do Amor: A Historia De Jacey' where NomeFilme='A Cor Do Amor: A Historia Jacey'
+go
+
+update RAW.T_Filmes set NomeFilme='A Garota De Rosa Shocking' where NomeFilme='A Garota De Rosa-Shoking'
+go
+
+update RAW.T_Filmes set NomeFilme='A Maldiçao Da Pantera Cor-De-Rosa' where NomeFilme='A Maldiçao Da Pantera-Cor-De-Rosa'
+go
+
+update RAW.T_Filmes set NomeFilme='A Morte Vem Do Kilimanjaro' where NomeFilme='A Morte vem no Kilimanjaro'
+go
+
+update RAW.T_Filmes set NomeFilme='A Dificil Arte De Amar' where NomeFilme='A Dificil Arte Do Amor'
+go
+
+update RAW.T_Filmes set NomeFilme='A Nova Transa Da Pantera Cor-De-Rosa' where NomeFilme='A Nova Transa da Pantera-Cor-de-Rosa'
 go
 
 /* Dando trim nos filmes */
@@ -20515,9 +20538,10 @@ go
 
 
 select distinct NomeFilme from RAW.T_Filmes
+order by NomeFilme ASC
 go
 
-select * from RAW.T_Filmes where NomeFilme like '%Goldenrod%'
+select * from RAW.T_Filmes where NomeFilme='A Baleia Assassina'
 go
 
  
