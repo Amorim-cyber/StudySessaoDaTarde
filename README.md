@@ -14,7 +14,7 @@ It is also the longest movies session in Brazilian television.
 I separate the study into three steps:
 
  <ol>
-     <li>Extraction</li>
+     <li><a href="txt/Extraction.md">Extraction</a></li>
      <li>Modeling</li>
      <li>Analysis</li>
  </ol>
@@ -22,5 +22,3 @@ I separate the study into three steps:
 
 
 
-
- 
