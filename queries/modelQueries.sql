@@ -61,28 +61,28 @@ alter table MODEL.REG_Diretores add constraint FK_REG_DIR
 foreign key(ID_Diretor) references MODEL.T_Diretores(IDDiretor)
 go
 
-/* criando tabela MODEL.T_Roteristas */
+/* criando tabela MODEL.T_Roteiristas */
 
-create table MODEL.T_Roteristas(
-	IDRoterista int primary key,
-	NomeRoterista varchar(200)
+create table MODEL.T_Roteiristas(
+	IDRoteirista int primary key,
+	NomeRoteirista varchar(200)
 )
 go
 
-/* criando tabela MODEL.REG_Roteristas */
+/* criando tabela MODEL.REG_Roteiristas */
 
-create table MODEL.REG_Roteristas(
+create table MODEL.REG_Roteiristas(
 	ID_Filme int,
-	ID_Roterista int
+	ID_Roteirista int
 )
 go
 
-alter table MODEL.REG_Roteristas add constraint FK_REG_FILME_ROT
+alter table MODEL.REG_Roteiristas add constraint FK_REG_FILME_ROT
 foreign key(ID_Filme) references MODEL.T_Filmes(IDFilme)
 go
 
-alter table MODEL.REG_Roteristas add constraint FK_REG_ROT
-foreign key(ID_Roterista) references MODEL.T_Roteristas(IDRoterista)
+alter table MODEL.REG_Roteiristas add constraint FK_REG_ROT
+foreign key(ID_Roteirista) references MODEL.T_Roteiristas(IDRoteirista)
 go
 
 /* criando tabela MODEL.T_Generos */
