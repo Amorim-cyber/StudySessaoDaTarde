@@ -1,6 +1,6 @@
 <h1>StudySessaoDatarde :tv:</h1>  
 
-This study tries to analyses movies exhibited in Rede Globo Television between 1974 and 2022.
+This study tries to analyses movies exhibited in `Rede Globo Television` between 1974 and 2022.
 
 <h4>Context</h4>
 
@@ -15,9 +15,10 @@ I separate the study into three steps:
 
  <ol>
      <li><a href="txt/Extraction.md">Extraction</a></li>
-     <li>Modeling</li>
-     <li>Analysis</li>
+     <li><a href="txt/Modeling.md">Modeling</a></li>
+     <li><a href="txt/Analysis.md">Analysis</a></li>
  </ol>
+
 
 
 
