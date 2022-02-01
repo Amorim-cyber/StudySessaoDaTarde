@@ -8,7 +8,7 @@ I get the data accessing the following <a href="https://tvglobo.fandom.com/pt-br
 
 
 
-<h3>Create a database</h3>
+<h3>Creating a database</h3>
 
 Before the extraction, we need to create a database to store then. I choose `SQL Server` to do so. Our database will be called `SESSAO_DA_TARDE`
 
@@ -17,7 +17,7 @@ create database SESSAO_DA_TARDE
 go
 ````
 
-<h3>Create Table RAW.T_Filmes</h3>
+<h3>Creating Table RAW.T_Filmes</h3>
 
 Next, we create a table where our data will be stored. We going to extract the raw data. So, to make then different from other tables, i create a schema RAW. The table `T_Filmes` has a primary key with an identity and will receive exhibition date and movie name.
 
@@ -33,7 +33,7 @@ create table RAW.T_Filmes(
 go
 ````
 
-<h3>Create a Procedure inserir</h3>
+<h3>Creating a Procedure inserir</h3>
 
 To make the process of insert data more simple, i create a procedure that insert on `T_Filmes` date and movie name. 
 
@@ -46,7 +46,7 @@ go
 
 
 
-<h3>Extract the raw data</h3>
+<h3>Extracting the raw data</h3>
 
 Using copy and paste methods could be hard to organize. I take liberty to develop a `javascript` code that extract each item and put then inside a text document called `filmes.txt`. The code already format the document to be an insert script. 
 
@@ -126,7 +126,7 @@ go
 
 Execute this script to fill `RAW.T_Filmes`
 
-<h3>Repair and remove errors </h3>
+<h3>Fixing and removing errors </h3>
 
 The `RAW.T_Filmes` has been filled and some errors have been found. I execute the following actions: 
 
@@ -203,7 +203,7 @@ delete from RAW.T_Filmes where DiaMes = ''
 go
 ````
 
-5 . Put year on exhibition date
+5 . Putting year on exhibition date
 
 ````sql
 declare
