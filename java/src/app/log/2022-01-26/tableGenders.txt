@@ -1,0 +1,235 @@
+ID Genero	Descrição Genero
+1	Drama
+2	Comédia romântica
+3	Comédia
+4	Romance
+5	null
+6	Suspense
+7	Fantasia
+8	Mistério
+9	Sobrenatural
+10	Humor ácido
+11	Farsa
+12	
+13	Pastelão
+14	Filme musical
+15	Ação
+16	Infantil
+17	LGBT
+18	Aventura
+19	Animação
+20	Artes marciais
+21	Wuxia
+22	Comédia dramática
+23	Guerra
+24	Terror
+25	Cult
+26	Comédia de terror
+27	Ficção científica
+28	Romance científico
+29	Catástrofe
+30	Comédia musical
+31	Religioso
+32	Filme de Esportes
+33	Ação/Aventura
+34	Amadurecimento
+35	Música
+36	Dança
+37	Adolescente
+38	Panthera
+39	Comédia erótica
+40	Drama Musical
+41	Obra de Época
+42	Máfia
+43	Ficção policial
+44	Comédia maluca
+45	Comédia de costumes
+46	Docudrama
+47	Televisivo
+48	Drama familiar
+49	Fantasia cômica
+50	Espionagem
+51	Ação e suspense
+52	Sátira
+53	Independente
+54	Policial processual
+55	Crime
+56	Neo noir
+57	Crime TV genre
+58	Filme de super-herói
+59	Capa e espada
+60	Chinese Movies
+61	Cinema internacional
+62	Adaptação
+63	Ficção
+64	Ficção científica cômica
+65	Paródia
+66	cinema de época
+67	Comédia criminal
+68	Pop
+69	Jazz
+70	Caper story
+71	Ficção histórica
+72	Assalto
+73	Filme de estrada
+74	História de detetives
+75	Buddy
+76	História
+77	Buddy cop
+78	Filme histórico
+79	Thriller criminal
+80	Programa infantil
+81	Televisão educativa
+82	Fantasia televisiva
+83	Romance de amor
+84	Romance contemporâneo
+85	Desenho animado
+86	Ficção distópica
+87	Faroeste
+88	Gorillini
+89	Conto de fadas
+90	Preto e branco
+91	filme familiar
+92	Tragédia
+93	Fantoche
+94	Drama Político
+95	Melodrama
+96	Horror natural
+97	Reality de televisão
+98	Programa de namoro
+99	Cinema militante
+100	Biografia
+101	Narrativa pessoal
+102	Tiro em primeira pessoa
+103	Curta-metragem
+104	Thriller político
+105	Suspense psicológico
+106	Filme de Monstros
+107	Automobilismo
+108	Ficção supernatural
+109	Literatura fantástica
+110	História de super-herói
+111	Ópera espacial
+112	Fantasia sombria
+113	Drama Sobrenatural
+114	Anime
+115	Ficção pós-apocalíptica
+116	Drama judicial
+117	Drama jurídico
+118	Prisão
+119	Sitcom
+120	Antologia
+121	Soap opera
+122	Canídeos
+123	Gênero musical
+124	Problemática social
+125	Memórias
+126	Autobiografia
+127	Crime real
+128	à clef
+129	Humor
+130	Documentário
+131	Realidade
+132	Documentário de viagem
+133	Série de desenho animado
+134	Adolescência
+135	Drama teen
+136	Romance de espionagem
+137	Ficção gótica
+138	Ficção científica soft
+139	RPG eletrônico
+140	Ficção juvenil
+141	Metal progressivo
+142	Rock
+143	Steampunk
+144	Citrus
+145	Terror psicológico
+146	Mecha
+147	Telenovela
+148	Pseudodocumentário
+149	Ficção autobiográfica
+150	Suspense erótico
+151	Noir
+152	Spaghetti western
+153	Literatura infantil
+154	Super-herói
+155	Pintura
+156	Fantasia urbana
+157	Slasher
+158	Erotismo
+159	Kaiju
+160	Tokusatsu
+161	Dracohors
+162	Harpia
+163	Ensemble cast
+164	Filme B
+165	Regional Brazilian
+166	Romance psicológico
+167	Ficção Doméstica
+168	Ficção de aventura
+169	Ficção Marítima
+170	Alta fantasia
+171	Bildungsroman
+172	Mundo perdido
+173	Ver tudo
+174	Ficção urbana
+175	Ficção de novo adulto
+176	Docuficção
+177	Western espacial
+178	Fantasia heroica
+179	Salientia
+180	Literatura nonsense
+181	Ficção Absurdista
+182	Fantástico
+183	Outlaw biker
+184	Hip hop
+185	Western Revisionista
+186	Latin Urbano
+187	Beat 'em up
+188	romance autobiográfico
+189	Romance biográfico
+190	Phengaris
+191	Romance histórico
+192	Punk rock
+193	Ficção especulativa
+194	Comedy thriller
+195	Fábula
+196	Novela
+197	Folclore
+198	Romance picaresco
+199	Mudo
+200	Criança
+201	Blaxploitation
+202	Supernatural
+203	Livro ilustrado
+204	Stoner
+205	Romance Paranormal
+206	Literatura erótica
+207	Espada e feitiçaria
+208	Fantasia científica
+209	Gângster
+210	Schlumbergera
+211	Felis
+212	Alegoria
+213	Romance cristão
+214	Jogo eletrônico de luta
+215	Jogo eletrônico de ação e aventura
+216	Jogo eletrônico de ação
+217	Literatura cristã
+218	Sermão
+219	Experimental
+220	Narrativa moldura
+221	Literatura vampiresca
+222	Ficção épica
+223	Jogo eletrônico de plataforma
+224	Robinsonada
+225	Comédia de televisão
+226	Elasmobranchii
+227	Romance Histórico - Regência
+228	Drama médico
+229	Gênero de comédia
+230	Perissodáctilos
+231	Sobrevivência
+232	Realismo mágico
+233	Action
+234	Filme peplum

@@ -1,0 +1,6034 @@
+inserirScreenPlay 1, 'Howard Klausner'
+go
+inserirScreenPlay 2, 'Pamela Falk'
+go
+inserirScreenPlay 3, 'Michael Ellis'
+go
+inserirScreenPlay 4, 'null'
+go
+inserirScreenPlay 5, 'Mike Thompson'
+go
+inserirScreenPlay 6, 'Brandon Camp'
+go
+inserirScreenPlay 7, 'David Seltzer'
+go
+inserirScreenPlay 8, 'Dale Launer'
+go
+inserirScreenPlay 9, 'Bia Crespo'
+go
+inserirScreenPlay 10, 'Flávia Guimarães'
+go
+inserirScreenPlay 11, 'Jo Heims'
+go
+inserirScreenPlay 12, 'Blake Edwards'
+go
+inserirScreenPlay 13, 'Geoffrey Edwards'
+go
+inserirScreenPlay 14, 'Jorge Furtado'
+go
+inserirScreenPlay 15, 'Cláudio Lisboa'
+go
+inserirScreenPlay 16, 'Jonathan Aibel'
+go
+inserirScreenPlay 17, 'Glenn Berger'
+go
+inserirScreenPlay 18, 'Tim Lovestedt'
+go
+inserirScreenPlay 19, 'Annie Mumolo'
+go
+inserirScreenPlay 20, 'Pamela Gray'
+go
+inserirScreenPlay 21, 'Robert Vince'
+go
+inserirScreenPlay 22, 'Anne Vince'
+go
+inserirScreenPlay 23, 'Anna McRoberts'
+go
+inserirScreenPlay 24, 'John Hughes'
+go
+inserirScreenPlay 25, 'Amy Holden Jones'
+go
+inserirScreenPlay 26, 'Dana Olsen'
+go
+inserirScreenPlay 27, 'Benjamin August'
+go
+inserirScreenPlay 28, 'Richard Stanley'
+go
+inserirScreenPlay 29, 'Ron Hutchinson'
+go
+inserirScreenPlay 30, 'Charles Brackett'
+go
+inserirScreenPlay 31, 'Billy Wilder'
+go
+inserirScreenPlay 32, 'Carlos Gregório'
+go
+inserirScreenPlay 33, 'John Hopkins'
+go
+inserirScreenPlay 34, 'Bruce Graham'
+go
+inserirScreenPlay 35, 'Elan Mastai'
+go
+inserirScreenPlay 36, 'Roberto Benigni'
+go
+inserirScreenPlay 37, 'Vincenzo Cerami'
+go
+inserirScreenPlay 38, 'Steve L. Hayes'
+go
+inserirScreenPlay 39, 'Debra Frank'
+go
+inserirScreenPlay 40, 'Steven L. Hayes'
+go
+inserirScreenPlay 41, 'Robert Connolly'
+go
+inserirScreenPlay 42, 'Steve Worland'
+go
+inserirScreenPlay 43, 'Steve Oedekerk'
+go
+inserirScreenPlay 44, 'Steve Koren'
+go
+inserirScreenPlay 45, 'Mark O''Keefe'
+go
+inserirScreenPlay 46, 'Eleanor Bergstein'
+go
+inserirScreenPlay 47, 'Corra Mae Harris'
+go
+inserirScreenPlay 48, 'Lamar Trotti'
+go
+inserirScreenPlay 49, 'Henry King'
+go
+inserirScreenPlay 50, 'Franco Amurri'
+go
+inserirScreenPlay 51, 'Stu Krieger'
+go
+inserirScreenPlay 52, 'Babaloo Mandel'
+go
+inserirScreenPlay 53, 'Lowell Ganz'
+go
+inserirScreenPlay 54, 'Ligiah Villalobos'
+go
+inserirScreenPlay 55, 'Daniel Berendsen'
+go
+inserirScreenPlay 56, 'Nisha Ganatra'
+go
+inserirScreenPlay 57, 'Jen Small'
+go
+inserirScreenPlay 58, 'Jeffrey Boam'
+go
+inserirScreenPlay 59, 'Eddie Murphy'
+go
+inserirScreenPlay 60, 'Darrell Ware'
+go
+inserirScreenPlay 61, 'Karl Tunberg'
+go
+inserirScreenPlay 62, 'Seton I. Miller'
+go
+inserirScreenPlay 63, 'Ronald Bass'
+go
+inserirScreenPlay 64, 'Dominique Lapierre'
+go
+inserirScreenPlay 65, 'Jan Hartman'
+go
+inserirScreenPlay 66, 'Carol Kaplan'
+go
+inserirScreenPlay 67, 'Harry Kurnitz'
+go
+inserirScreenPlay 68, 'Steven Rogers'
+go
+inserirScreenPlay 69, 'Mark H. Baker'
+go
+inserirScreenPlay 70, 'Michael Burton'
+go
+inserirScreenPlay 71, 'Matt MacManus'
+go
+inserirScreenPlay 72, 'Phil Joanou'
+go
+inserirScreenPlay 73, 'Harold Ramis'
+go
+inserirScreenPlay 74, 'Danny Rubin'
+go
+inserirScreenPlay 75, 'Frank Tashlin'
+go
+inserirScreenPlay 76, 'Harry Tugend'
+go
+inserirScreenPlay 77, 'Hal Kanter'
+go
+inserirScreenPlay 78, 'Nunnally Johnson'
+go
+inserirScreenPlay 79, 'Adriano Stuart'
+go
+inserirScreenPlay 80, 'Cassiano Gabus Mendes'
+go
+inserirScreenPlay 81, 'Carlos Lombardi'
+go
+inserirScreenPlay 82, 'Bob Kanter'
+go
+inserirScreenPlay 83, 'Malcolm D. Lee'
+go
+inserirScreenPlay 84, 'Mick Garris'
+go
+inserirScreenPlay 85, 'Neil Cuthbert'
+go
+inserirScreenPlay 86, 'Vincent Patrick'
+go
+inserirScreenPlay 87, 'Richard Boddington'
+go
+inserirScreenPlay 88, 'Gary Ross'
+go
+inserirScreenPlay 89, 'Anne Spielberg'
+go
+inserirScreenPlay 90, 'Darren Star'
+go
+inserirScreenPlay 91, 'Sidney J. Furie'
+go
+inserirScreenPlay 92, 'Kevin Alyn Elders'
+go
+inserirScreenPlay 93, 'Karen Leigh Hopkins'
+go
+inserirScreenPlay 94, 'Jim Thomas'
+go
+inserirScreenPlay 95, 'John Thomas'
+go
+inserirScreenPlay 96, 'Michael J. Henderson'
+go
+inserirScreenPlay 97, 'Ernest Lehman'
+go
+inserirScreenPlay 98, 'George Hurdalek'
+go
+inserirScreenPlay 99, 'William Inge'
+go
+inserirScreenPlay 100, 'Daniel Taradash'
+go
+inserirScreenPlay 101, 'Seth Rogen'
+go
+inserirScreenPlay 102, 'Evan Goldberg'
+go
+inserirScreenPlay 103, 'David Titcher'
+go
+inserirScreenPlay 104, 'Marco Schnabel'
+go
+inserirScreenPlay 105, 'George MacDonald Fraser'
+go
+inserirScreenPlay 106, 'Melissa Mathison'
+go
+inserirScreenPlay 107, 'Dan Aykroyd'
+go
+inserirScreenPlay 108, 'Rick Moranis'
+go
+inserirScreenPlay 109, 'Antonio Carlos da Fontoura'
+go
+inserirScreenPlay 110, 'Corey Michael Eubanks'
+go
+inserirScreenPlay 111, 'Tim Herlihy'
+go
+inserirScreenPlay 112, 'Robert Riskin'
+go
+inserirScreenPlay 113, 'Edward Tang'
+go
+inserirScreenPlay 114, 'Fibe Ma'
+go
+inserirScreenPlay 115, 'George Lucas'
+go
+inserirScreenPlay 116, 'Bob Carrau'
+go
+inserirScreenPlay 117, 'Bill Walsh'
+go
+inserirScreenPlay 118, 'Lillie Hayward'
+go
+inserirScreenPlay 119, 'Casey Robinson'
+go
+inserirScreenPlay 120, 'D. J. MacHale'
+go
+inserirScreenPlay 121, 'David Saperstein'
+go
+inserirScreenPlay 122, 'Tom Benedek'
+go
+inserirScreenPlay 123, 'Matthew Robbins'
+go
+inserirScreenPlay 124, 'Brad Bird'
+go
+inserirScreenPlay 125, 'Brent Maddock'
+go
+inserirScreenPlay 126, 'S. S. Wilson'
+go
+inserirScreenPlay 127, 'Daniel Waters'
+go
+inserirScreenPlay 128, 'Steven E. de Souza'
+go
+inserirScreenPlay 129, 'Jerry Leichtling'
+go
+inserirScreenPlay 130, 'Arlene Sarner'
+go
+inserirScreenPlay 131, 'Jean Shepherd'
+go
+inserirScreenPlay 132, 'Bob Clark'
+go
+inserirScreenPlay 133, 'Leigh Brown'
+go
+inserirScreenPlay 134, 'Leonard Gershe'
+go
+inserirScreenPlay 135, 'Jerry Seinfeld'
+go
+inserirScreenPlay 136, 'Barry Marder'
+go
+inserirScreenPlay 137, 'Andy Robin'
+go
+inserirScreenPlay 138, 'Spike Feresten'
+go
+inserirScreenPlay 139, 'William Nicholson'
+go
+inserirScreenPlay 140, 'Marilyn Sadler'
+go
+inserirScreenPlay 141, 'Roger Bollen'
+go
+inserirScreenPlay 142, 'Sheila Burnford'
+go
+inserirScreenPlay 143, 'Julie Hickson'
+go
+inserirScreenPlay 144, 'Chris Hauty'
+go
+inserirScreenPlay 145, 'John Patrick Shanley'
+go
+inserirScreenPlay 146, 'Borden Chase'
+go
+inserirScreenPlay 147, 'Horace McCoy'
+go
+inserirScreenPlay 148, 'Pierre Adidge'
+go
+inserirScreenPlay 149, 'Robert Abel'
+go
+inserirScreenPlay 150, 'Ernest Pascal'
+go
+inserirScreenPlay 151, 'Walter Bullock'
+go
+inserirScreenPlay 152, 'Ted Sherdeman'
+go
+inserirScreenPlay 153, 'Sam Rolfe'
+go
+inserirScreenPlay 154, 'Eddie Moran'
+go
+inserirScreenPlay 155, 'Jack Jevne'
+go
+inserirScreenPlay 156, 'Eric S. Hatch'
+go
+inserirScreenPlay 157, 'Jim Cash'
+go
+inserirScreenPlay 158, 'Jack Epps Jr.'
+go
+inserirScreenPlay 159, 'Warren Skaaren'
+go
+inserirScreenPlay 160, 'Yves Robert'
+go
+inserirScreenPlay 161, 'Robert Klane'
+go
+inserirScreenPlay 162, 'Francis Veber'
+go
+inserirScreenPlay 163, 'Francis Edward Faragoh'
+go
+inserirScreenPlay 164, 'Stewart Schill'
+go
+inserirScreenPlay 165, 'Mike Werb'
+go
+inserirScreenPlay 166, 'Michael Colleary'
+go
+inserirScreenPlay 167, 'Claire-Dee Lim'
+go
+inserirScreenPlay 168, 'Barry B. Longyear'
+go
+inserirScreenPlay 169, 'Edward Khmara'
+go
+inserirScreenPlay 170, 'Edmund Beloin'
+go
+inserirScreenPlay 171, 'Henry Garson'
+go
+inserirScreenPlay 172, 'Sérgio G. Sanchez'
+go
+inserirScreenPlay 173, 'Sergio G. Sánchez'
+go
+inserirScreenPlay 174, 'Phil Lord'
+go
+inserirScreenPlay 175, 'Chris Miller'
+go
+inserirScreenPlay 176, 'Rob Greenberg'
+go
+inserirScreenPlay 177, 'David Soren'
+go
+inserirScreenPlay 178, 'Darren Lemke'
+go
+inserirScreenPlay 179, 'Robert Siegel'
+go
+inserirScreenPlay 180, 'Don Rhymer'
+go
+inserirScreenPlay 181, 'Mark Christopher'
+go
+inserirScreenPlay 182, 'Stuart Beattie'
+go
+inserirScreenPlay 183, 'Deanna Oliver'
+go
+inserirScreenPlay 184, 'Sherri Stoner'
+go
+inserirScreenPlay 185, 'Seymour Reit'
+go
+inserirScreenPlay 186, 'Jeanne Rosenberg'
+go
+inserirScreenPlay 187, 'Walter Murch'
+go
+inserirScreenPlay 188, 'William D. Wittliff'
+go
+inserirScreenPlay 189, 'Sy Gomberg'
+go
+inserirScreenPlay 190, 'George Wells'
+go
+inserirScreenPlay 191, 'Eddie Guzelian'
+go
+inserirScreenPlay 192, 'Caroline Thompson'
+go
+inserirScreenPlay 193, 'Linda Woolverton'
+go
+inserirScreenPlay 194, 'Jonathan Roberts'
+go
+inserirScreenPlay 195, 'Guerdon Trueblood'
+go
+inserirScreenPlay 196, 'Doug Jung'
+go
+inserirScreenPlay 197, 'Alan Trustman'
+go
+inserirScreenPlay 198, 'Charles Wood'
+go
+inserirScreenPlay 199, 'Charlie Fletcher'
+go
+inserirScreenPlay 200, 'Walter Bernstein'
+go
+inserirScreenPlay 201, 'James Jeremias'
+go
+inserirScreenPlay 202, 'Janice Fischer'
+go
+inserirScreenPlay 203, 'Cameron Crowe'
+go
+inserirScreenPlay 204, 'Charles Shyer'
+go
+inserirScreenPlay 205, 'Robert L. Levy'
+go
+inserirScreenPlay 206, 'James Lee Barrett'
+go
+inserirScreenPlay 207, 'Alan Mandel'
+go
+inserirScreenPlay 208, 'Alexi Kaye Campbell'
+go
+inserirScreenPlay 209, 'A. I. Bezzerides'
+go
+inserirScreenPlay 210, 'Brian Hooker'
+go
+inserirScreenPlay 211, 'Herman J. Mankiewicz'
+go
+inserirScreenPlay 212, 'Dorothy Kingsley'
+go
+inserirScreenPlay 213, 'Allen Boretz'
+go
+inserirScreenPlay 214, 'Frank Waldman'
+go
+inserirScreenPlay 215, 'Marcos Bernstein'
+go
+inserirScreenPlay 216, 'Melanie Dimantas'
+go
+inserirScreenPlay 217, 'Hervé Palud'
+go
+inserirScreenPlay 218, 'Thierry Lhermitte'
+go
+inserirScreenPlay 219, 'Bruce A. Evans'
+go
+inserirScreenPlay 220, 'Raynold Gideon'
+go
+inserirScreenPlay 221, 'Bonnie Turner'
+go
+inserirScreenPlay 222, 'Fred Wolf'
+go
+inserirScreenPlay 223, 'Terry Turner'
+go
+inserirScreenPlay 224, 'Martin Brest'
+go
+inserirScreenPlay 225, 'Peter Sattler'
+go
+inserirScreenPlay 226, 'Larry Gelbart'
+go
+inserirScreenPlay 227, 'Lenore Coffee'
+go
+inserirScreenPlay 228, 'Marion Hargrove'
+go
+inserirScreenPlay 229, 'Guel Arraes'
+go
+inserirScreenPlay 230, 'Thalita Rebouças'
+go
+inserirScreenPlay 231, 'Tati Ingrid Adão'
+go
+inserirScreenPlay 232, 'William Bowers'
+go
+inserirScreenPlay 233, 'Eric Wald'
+go
+inserirScreenPlay 234, 'Gregory Poppen'
+go
+inserirScreenPlay 235, 'Sam Resnick'
+go
+inserirScreenPlay 236, 'John McGrath'
+go
+inserirScreenPlay 237, 'Mario Andreacchio'
+go
+inserirScreenPlay 238, 'Michael Bourchier'
+go
+inserirScreenPlay 239, 'Mark Saltzman'
+go
+inserirScreenPlay 240, 'Ivan Menchell'
+go
+inserirScreenPlay 241, 'Gerald Di Pego'
+go
+inserirScreenPlay 242, 'Alan Ormsby'
+go
+inserirScreenPlay 243, 'George Baker'
+go
+inserirScreenPlay 244, 'Nate Monaster'
+go
+inserirScreenPlay 245, 'Sabrina Garcia'
+go
+inserirScreenPlay 246, 'Rodrigo Goulart'
+go
+inserirScreenPlay 247, 'Leandro Muniz'
+go
+inserirScreenPlay 248, 'Steven Conrad'
+go
+inserirScreenPlay 249, 'Jackie Chan'
+go
+inserirScreenPlay 250, 'Paul Clay'
+go
+inserirScreenPlay 251, 'Barry Haigh'
+go
+inserirScreenPlay 252, 'Sylvester Stallone'
+go
+inserirScreenPlay 253, 'Andrew Bergman'
+go
+inserirScreenPlay 254, 'Lester Cole'
+go
+inserirScreenPlay 255, 'George Bruce'
+go
+inserirScreenPlay 256, 'Robert Burke'
+go
+inserirScreenPlay 257, 'Robert Karl Burke'
+go
+inserirScreenPlay 258, 'Carol Black'
+go
+inserirScreenPlay 259, 'Jesse L. Lasky Jr.'
+go
+inserirScreenPlay 260, 'David Lindsay-Abaire'
+go
+inserirScreenPlay 261, 'Ron Clements'
+go
+inserirScreenPlay 262, 'John Musker'
+go
+inserirScreenPlay 263, 'Terry Rossio'
+go
+inserirScreenPlay 264, 'Ted Elliott'
+go
+inserirScreenPlay 265, 'Steven Long Mitchell'
+go
+inserirScreenPlay 266, 'Craig W. Van Sickle'
+go
+inserirScreenPlay 267, 'George Gallo'
+go
+inserirScreenPlay 268, 'Marjorie Lawrence'
+go
+inserirScreenPlay 269, 'William Ludwig'
+go
+inserirScreenPlay 270, 'Sonya Levien'
+go
+inserirScreenPlay 271, 'Christian Vuissa'
+go
+inserirScreenPlay 272, 'Aurania Rouverol'
+go
+inserirScreenPlay 273, 'Carey Wilson'
+go
+inserirScreenPlay 274, 'David O. Russell'
+go
+inserirScreenPlay 275, 'Daniel Barnz'
+go
+inserirScreenPlay 276, 'Brin Hill'
+go
+inserirScreenPlay 277, 'Evgeniy Emelin'
+go
+inserirScreenPlay 278, 'John Hamburg'
+go
+inserirScreenPlay 279, 'Jim Herzfeld'
+go
+inserirScreenPlay 280, 'Chris Denk'
+go
+inserirScreenPlay 281, 'Scott Clevenger'
+go
+inserirScreenPlay 282, 'Timothy Wayne Peternel'
+go
+inserirScreenPlay 283, 'Alan Alda'
+go
+inserirScreenPlay 284, 'Convite à Dança'
+go
+inserirScreenPlay 285, 'Dan Schneider'
+go
+inserirScreenPlay 286, 'Marc Stirdivant'
+go
+inserirScreenPlay 287, 'Mickey Rose'
+go
+inserirScreenPlay 288, 'Robert Sheckley'
+go
+inserirScreenPlay 289, 'Deborah Kaplan'
+go
+inserirScreenPlay 290, 'Adam Sztykiel'
+go
+inserirScreenPlay 291, 'Harry Elfont'
+go
+inserirScreenPlay 292, 'Robert Pulcini'
+go
+inserirScreenPlay 293, 'Shari Springer Berman'
+go
+inserirScreenPlay 294, 'Cara Lockwood'
+go
+inserirScreenPlay 295, 'Eric C. Charmelo'
+go
+inserirScreenPlay 296, 'Nicole Snyder'
+go
+inserirScreenPlay 297, 'Jerome Armstrong'
+go
+inserirScreenPlay 298, 'Billy Ray'
+go
+inserirScreenPlay 299, 'Douglas Day Stewart'
+go
+inserirScreenPlay 300, 'Lea Schmidbauer'
+go
+inserirScreenPlay 301, 'Kristina Magdalena Henn'
+go
+inserirScreenPlay 302, 'J. J. Abrams'
+go
+inserirScreenPlay 303, 'Jill Mazursky'
+go
+inserirScreenPlay 304, 'Stephen Black'
+go
+inserirScreenPlay 305, 'Henry Stern'
+go
+inserirScreenPlay 306, 'Stanley Shapiro'
+go
+inserirScreenPlay 307, 'Oscar Brodney'
+go
+inserirScreenPlay 308, 'Robert Harling'
+go
+inserirScreenPlay 309, 'Paul Rudnick'
+go
+inserirScreenPlay 310, 'Jill Craigie'
+go
+inserirScreenPlay 311, 'Rod Amateau'
+go
+inserirScreenPlay 312, 'Nora Ephron'
+go
+inserirScreenPlay 313, 'Adam McKay'
+go
+inserirScreenPlay 314, 'Delia Ephron'
+go
+inserirScreenPlay 315, 'Phil Johnston'
+go
+inserirScreenPlay 316, 'Pamela Wallace'
+go
+inserirScreenPlay 317, 'Rowdy Herrington'
+go
+inserirScreenPlay 318, 'Marty Kaplan'
+go
+inserirScreenPlay 319, 'David Simkins'
+go
+inserirScreenPlay 320, 'Robert V. Barron'
+go
+inserirScreenPlay 321, 'George Tibbles'
+go
+inserirScreenPlay 322, 'Harry Brown'
+go
+inserirScreenPlay 323, 'Jymn Magon'
+go
+inserirScreenPlay 324, 'Thomas Hart'
+go
+inserirScreenPlay 325, 'Michael Haneke'
+go
+inserirScreenPlay 326, 'Diego Muller'
+go
+inserirScreenPlay 327, 'Davi Pires'
+go
+inserirScreenPlay 328, 'Tia Brelis'
+go
+inserirScreenPlay 329, 'Gregory Widen'
+go
+inserirScreenPlay 330, 'Larry Ferguson'
+go
+inserirScreenPlay 331, 'Peter Bellwood'
+go
+inserirScreenPlay 332, 'Thomas Meehan'
+go
+inserirScreenPlay 333, 'Garry Michael White'
+go
+inserirScreenPlay 334, 'Fred Weintraub'
+go
+inserirScreenPlay 335, 'Danielle Steel'
+go
+inserirScreenPlay 336, 'Robert Eisele'
+go
+inserirScreenPlay 337, 'Stefan Barth'
+go
+inserirScreenPlay 338, 'Charles M. Schulz'
+go
+inserirScreenPlay 339, 'Todd Komarnicki'
+go
+inserirScreenPlay 340, 'Boaz Yakin'
+go
+inserirScreenPlay 341, 'Ed Solomon'
+go
+inserirScreenPlay 342, 'Edward Ricourt'
+go
+inserirScreenPlay 343, 'Lars Gudmestad'
+go
+inserirScreenPlay 344, 'Erik Sommers'
+go
+inserirScreenPlay 345, 'Chris McKenna'
+go
+inserirScreenPlay 346, 'Karey Kirkpatrick'
+go
+inserirScreenPlay 347, 'Lorne Cameron'
+go
+inserirScreenPlay 348, 'Len Blum'
+go
+inserirScreenPlay 349, 'David Hoselton'
+go
+inserirScreenPlay 350, 'Jim Fall'
+go
+inserirScreenPlay 351, 'Barbara Kymlicka'
+go
+inserirScreenPlay 352, 'Ronny Graham'
+go
+inserirScreenPlay 353, 'Ruth Rose'
+go
+inserirScreenPlay 354, 'Mark Rosenthal'
+go
+inserirScreenPlay 355, 'Lawrence Konner'
+go
+inserirScreenPlay 356, 'Les Weldon'
+go
+inserirScreenPlay 357, 'Daniel Truly'
+go
+inserirScreenPlay 358, 'Andrew Dettmann'
+go
+inserirScreenPlay 359, 'Barry W. Blaustein'
+go
+inserirScreenPlay 360, 'David Sheffield'
+go
+inserirScreenPlay 361, 'Paul Hogan'
+go
+inserirScreenPlay 362, 'John Cornell'
+go
+inserirScreenPlay 363, 'Ken Shadie'
+go
+inserirScreenPlay 364, 'Erich Segal'
+go
+inserirScreenPlay 365, 'Yoni Brenner'
+go
+inserirScreenPlay 366, 'Carlos Kotkin'
+go
+inserirScreenPlay 367, 'Jenny Bicks'
+go
+inserirScreenPlay 368, 'Kim Fuller'
+go
+inserirScreenPlay 369, 'Bill Peet'
+go
+inserirScreenPlay 370, 'William Goldman'
+go
+inserirScreenPlay 371, 'Jerome Chodorov'
+go
+inserirScreenPlay 372, 'Joseph Fields'
+go
+inserirScreenPlay 373, 'Paul Mooney'
+go
+inserirScreenPlay 374, 'Sara Bernstein'
+go
+inserirScreenPlay 375, 'Ziggy Steinberg'
+go
+inserirScreenPlay 376, 'Robert Zemeckis'
+go
+inserirScreenPlay 377, 'Bob Gale'
+go
+inserirScreenPlay 378, 'PJ Torokvei'
+go
+inserirScreenPlay 379, 'Gideon Defoe'
+go
+inserirScreenPlay 380, 'Michael Lucker'
+go
+inserirScreenPlay 381, 'Roger S.H. Schulman'
+go
+inserirScreenPlay 382, 'Chris Parker'
+go
+inserirScreenPlay 383, 'Walter Hill'
+go
+inserirScreenPlay 384, 'Larry Gross'
+go
+inserirScreenPlay 385, 'Michelle Lovretta'
+go
+inserirScreenPlay 386, 'Paul Newman'
+go
+inserirScreenPlay 387, 'Ronald Buck'
+go
+inserirScreenPlay 388, 'Robert E. Kent'
+go
+inserirScreenPlay 389, 'Betty Comden'
+go
+inserirScreenPlay 390, 'Adolph Green'
+go
+inserirScreenPlay 391, 'Federico Fellini'
+go
+inserirScreenPlay 392, 'Bernardino Zapponi'
+go
+inserirScreenPlay 393, 'David Andrew Goldstein'
+go
+inserirScreenPlay 394, 'David Benullo'
+go
+inserirScreenPlay 395, 'Paul Mayhew-Archer'
+go
+inserirScreenPlay 396, 'Richard Curtis'
+go
+inserirScreenPlay 397, 'Fabio Piccioni'
+go
+inserirScreenPlay 398, 'John Bryant'
+go
+inserirScreenPlay 399, 'Stuart Gillard'
+go
+inserirScreenPlay 400, 'Rob Hudnut'
+go
+inserirScreenPlay 401, 'Linda Engelsiepen'
+go
+inserirScreenPlay 402, 'Hilary Hinkle'
+go
+inserirScreenPlay 403, 'Robert M. Young'
+go
+inserirScreenPlay 404, 'Robert Malcolm Young'
+go
+inserirScreenPlay 405, 'Tong Lung'
+go
+inserirScreenPlay 406, 'Derek Lowe'
+go
+inserirScreenPlay 407, 'Anthony Patrick Wong'
+go
+inserirScreenPlay 408, 'Lisa Mulcahy'
+go
+inserirScreenPlay 409, 'Nadadja Kemper'
+go
+inserirScreenPlay 410, 'Gwen Eckhaus'
+go
+inserirScreenPlay 411, 'Flávio de Souza'
+go
+inserirScreenPlay 412, 'James Dixon'
+go
+inserirScreenPlay 413, 'William Brookfield'
+go
+inserirScreenPlay 414, 'Paul Bernbaum'
+go
+inserirScreenPlay 415, 'Norm Prescott'
+go
+inserirScreenPlay 416, 'Fred Ladd'
+go
+inserirScreenPlay 417, 'Bernard Evslin'
+go
+inserirScreenPlay 418, 'Charles Goddard'
+go
+inserirScreenPlay 419, 'Albert Beich'
+go
+inserirScreenPlay 420, 'Shin Sang-ok'
+go
+inserirScreenPlay 421, 'Edward Emanuel'
+go
+inserirScreenPlay 422, 'Mel Brooks'
+go
+inserirScreenPlay 423, 'Barry Levinson'
+go
+inserirScreenPlay 424, 'Rudy De Luca'
+go
+inserirScreenPlay 425, 'Ron Clark'
+go
+inserirScreenPlay 426, 'Richard Murphy'
+go
+inserirScreenPlay 427, 'Herbert H. Margolis'
+go
+inserirScreenPlay 428, 'William Raynor'
+go
+inserirScreenPlay 429, 'Myles Connolly'
+go
+inserirScreenPlay 430, 'Paul Gangelin'
+go
+inserirScreenPlay 431, 'Jan de Bont'
+go
+inserirScreenPlay 432, 'Graham Yost'
+go
+inserirScreenPlay 433, 'Randall McCormick'
+go
+inserirScreenPlay 434, 'Jeff Nathanson'
+go
+inserirScreenPlay 435, 'Hugh Lofting'
+go
+inserirScreenPlay 436, 'Nina Colman'
+go
+inserirScreenPlay 437, 'Steven Pressfield'
+go
+inserirScreenPlay 438, 'Alan Hackney'
+go
+inserirScreenPlay 439, 'Oliver Sacks'
+go
+inserirScreenPlay 440, 'Steve Levitt'
+go
+inserirScreenPlay 441, 'Adam Rifkin'
+go
+inserirScreenPlay 442, 'Andrew Stanton'
+go
+inserirScreenPlay 443, 'Pete Docter'
+go
+inserirScreenPlay 444, 'Jim Reardon'
+go
+inserirScreenPlay 445, 'Hal Fimberg'
+go
+inserirScreenPlay 446, 'Ben Starr'
+go
+inserirScreenPlay 447, 'Frank Tarloff'
+go
+inserirScreenPlay 448, 'S. H. Barnett'
+go
+inserirScreenPlay 449, 'Peter Stone'
+go
+inserirScreenPlay 450, 'Daryn Tufts'
+go
+inserirScreenPlay 451, 'Kay Thompson'
+go
+inserirScreenPlay 452, 'Hilary Knight'
+go
+inserirScreenPlay 453, 'Janet Brownell'
+go
+inserirScreenPlay 454, 'Jerry Sackheim'
+go
+inserirScreenPlay 455, 'Theodore J. Flicker'
+go
+inserirScreenPlay 456, 'John D. Hess'
+go
+inserirScreenPlay 457, 'Nancy Meyers'
+go
+inserirScreenPlay 458, 'Malcolm Marmorstein'
+go
+inserirScreenPlay 459, 'Jerry O''Connell'
+go
+inserirScreenPlay 460, 'Jessica Bendinger'
+go
+inserirScreenPlay 461, 'Kate Kondell'
+go
+inserirScreenPlay 462, 'Audrey Wells'
+go
+inserirScreenPlay 463, 'Raymond Wong'
+go
+inserirScreenPlay 464, 'Michael France'
+go
+inserirScreenPlay 465, 'Mark Frost'
+go
+inserirScreenPlay 466, 'Steve Coogan'
+go
+inserirScreenPlay 467, 'Jeff Pope'
+go
+inserirScreenPlay 468, 'Allison Schroeder'
+go
+inserirScreenPlay 469, 'Cliff Ruby'
+go
+inserirScreenPlay 470, 'Elana Lesser'
+go
+inserirScreenPlay 471, 'Blake Masters'
+go
+inserirScreenPlay 472, 'Lawrence Kasdan'
+go
+inserirScreenPlay 473, 'Robert Getchell'
+go
+inserirScreenPlay 474, 'John H. Secondari'
+go
+inserirScreenPlay 475, 'John Patrick'
+go
+inserirScreenPlay 476, 'Lewis Gilbert'
+go
+inserirScreenPlay 477, 'Vernon Harris'
+go
+inserirScreenPlay 478, 'George Miller'
+go
+inserirScreenPlay 479, 'Dick King-Smith'
+go
+inserirScreenPlay 480, 'Judy Morris'
+go
+inserirScreenPlay 481, 'Mark Lamprell'
+go
+inserirScreenPlay 482, 'Chip Rosenbloom'
+go
+inserirScreenPlay 483, 'Harriet Frank Jr.'
+go
+inserirScreenPlay 484, 'Irving Ravetch'
+go
+inserirScreenPlay 485, 'Hugo Butler'
+go
+inserirScreenPlay 486, 'Brenda Chapman'
+go
+inserirScreenPlay 487, 'Mark Andrews'
+go
+inserirScreenPlay 488, 'Steve Purcell'
+go
+inserirScreenPlay 489, 'Irene Mecchi'
+go
+inserirScreenPlay 490, 'Luciano Vincenzoni'
+go
+inserirScreenPlay 491, 'Sergio Donati'
+go
+inserirScreenPlay 492, 'Robert Towne'
+go
+inserirScreenPlay 493, 'William Link'
+go
+inserirScreenPlay 494, 'Richard Levinson'
+go
+inserirScreenPlay 495, 'Matt Lieberman'
+go
+inserirScreenPlay 496, 'Dan Ewen'
+go
+inserirScreenPlay 497, 'Fábio Porchat'
+go
+inserirScreenPlay 498, 'Tati Bernardi'
+go
+inserirScreenPlay 499, 'Patricia Corso'
+go
+inserirScreenPlay 500, 'Amy Engelberg'
+go
+inserirScreenPlay 501, 'Wendy Engelberg'
+go
+inserirScreenPlay 502, 'Lou Holtz Jr.'
+go
+inserirScreenPlay 503, 'Laurice Elehwany'
+go
+inserirScreenPlay 504, 'Jeff Rothberg'
+go
+inserirScreenPlay 505, 'Steven Alldredge'
+go
+inserirScreenPlay 506, 'William N. Panzer'
+go
+inserirScreenPlay 507, 'Brian Clemens'
+go
+inserirScreenPlay 508, 'John August'
+go
+inserirScreenPlay 509, 'William Dear'
+go
+inserirScreenPlay 510, 'Ezra D. Rappaport'
+go
+inserirScreenPlay 511, 'William E. Martin'
+go
+inserirScreenPlay 512, 'Hugh Wilson'
+go
+inserirScreenPlay 513, 'Pat Proft'
+go
+inserirScreenPlay 514, 'Neal Israel'
+go
+inserirScreenPlay 515, 'Ross LaManna'
+go
+inserirScreenPlay 516, 'Diann Hunt'
+go
+inserirScreenPlay 517, 'David M. Evans'
+go
+inserirScreenPlay 518, 'Sergio Corbucci'
+go
+inserirScreenPlay 519, 'Sabatino Ciuffini'
+go
+inserirScreenPlay 520, 'Robert Brodie Booth'
+go
+inserirScreenPlay 521, 'Gordon Wilson Jr.'
+go
+inserirScreenPlay 522, 'Thomas Monroe'
+go
+inserirScreenPlay 523, 'Leonard Wibberley'
+go
+inserirScreenPlay 524, 'Roger MacDougall'
+go
+inserirScreenPlay 525, 'Stanley Mann'
+go
+inserirScreenPlay 526, 'Jessie Nelson'
+go
+inserirScreenPlay 527, 'Shuki Levy'
+go
+inserirScreenPlay 528, 'Shell Danielson'
+go
+inserirScreenPlay 529, 'James L. Brooks'
+go
+inserirScreenPlay 530, 'Dale Wasserman'
+go
+inserirScreenPlay 531, 'David Berenbaum'
+go
+inserirScreenPlay 532, 'Steven Pearl'
+go
+inserirScreenPlay 533, 'Allan Loeb'
+go
+inserirScreenPlay 534, 'Scott Myers'
+go
+inserirScreenPlay 535, 'Steven Siegel'
+go
+inserirScreenPlay 536, 'Julie Brown'
+go
+inserirScreenPlay 537, 'Karin Gist'
+go
+inserirScreenPlay 538, 'Regina Y. Hicks'
+go
+inserirScreenPlay 539, 'Paul Brown'
+go
+inserirScreenPlay 540, 'Eric Luke'
+go
+inserirScreenPlay 541, 'Guillermo del Toro'
+go
+inserirScreenPlay 542, 'Kenya Barris'
+go
+inserirScreenPlay 543, 'Richard Rothstein'
+go
+inserirScreenPlay 544, 'Thomas Hedley'
+go
+inserirScreenPlay 545, 'Robert Rodriguez'
+go
+inserirScreenPlay 546, 'Luiz Villaça'
+go
+inserirScreenPlay 547, 'Mariana Veríssimo'
+go
+inserirScreenPlay 548, 'Maurício Arruda'
+go
+inserirScreenPlay 549, 'José Roberto Torero'
+go
+inserirScreenPlay 550, 'José Alvarenga Júnior'
+go
+inserirScreenPlay 551, 'Maria Carmem Barbosa'
+go
+inserirScreenPlay 552, 'Neal Barbera'
+go
+inserirScreenPlay 553, 'Greg Berlanti'
+go
+inserirScreenPlay 554, 'Michael Goldenberg'
+go
+inserirScreenPlay 555, 'Marc Guggenheim'
+go
+inserirScreenPlay 556, 'Michael Green'
+go
+inserirScreenPlay 557, 'Jenny Arata'
+go
+inserirScreenPlay 558, 'Kelly Senecal'
+go
+inserirScreenPlay 559, 'Robert L. Baird'
+go
+inserirScreenPlay 560, 'Randall Jahnson'
+go
+inserirScreenPlay 561, 'Willard Huyck'
+go
+inserirScreenPlay 562, 'Gloria Katz'
+go
+inserirScreenPlay 563, 'Alfred Lewis Levitt'
+go
+inserirScreenPlay 564, 'Helen Levitt'
+go
+inserirScreenPlay 565, 'Helen Slote Levitt'
+go
+inserirScreenPlay 566, 'Earl Hamner, Jr.'
+go
+inserirScreenPlay 567, 'Dudley Nichols'
+go
+inserirScreenPlay 568, 'Paul B. Clay'
+go
+inserirScreenPlay 569, 'Patrick Sheane Duncan'
+go
+inserirScreenPlay 570, 'Fred Dekker'
+go
+inserirScreenPlay 571, 'Shane Black'
+go
+inserirScreenPlay 572, 'Lucas Reiner'
+go
+inserirScreenPlay 573, 'Roman Coppola'
+go
+inserirScreenPlay 574, 'Warren Murphy'
+go
+inserirScreenPlay 575, 'Richard Sapir'
+go
+inserirScreenPlay 576, 'Christopher Wood'
+go
+inserirScreenPlay 577, 'Anna Hamilton Phelan'
+go
+inserirScreenPlay 578, 'David Koepp'
+go
+inserirScreenPlay 579, 'John Kamps'
+go
+inserirScreenPlay 580, 'Daniel Handler'
+go
+inserirScreenPlay 581, 'Tatiana Suarez Pico'
+go
+inserirScreenPlay 582, 'Joshua Conkel'
+go
+inserirScreenPlay 583, 'Emily Fox'
+go
+inserirScreenPlay 584, 'Scott Sandorf'
+go
+inserirScreenPlay 585, 'Charles Ransom'
+go
+inserirScreenPlay 586, 'Todd Richardson'
+go
+inserirScreenPlay 587, 'Robert T. Megginson'
+go
+inserirScreenPlay 588, 'Gregory Fleeman'
+go
+inserirScreenPlay 589, 'Bill Condon'
+go
+inserirScreenPlay 590, 'Brock Yates'
+go
+inserirScreenPlay 591, 'Rafael Yglesias'
+go
+inserirScreenPlay 592, 'Harry Spalding'
+go
+inserirScreenPlay 593, 'Rosemary Anne Sisson'
+go
+inserirScreenPlay 594, 'Gerry Day'
+go
+inserirScreenPlay 595, 'John Van Druten'
+go
+inserirScreenPlay 596, 'Phillip Rock'
+go
+inserirScreenPlay 597, 'Leigh Dunlap'
+go
+inserirScreenPlay 598, 'Jandira Martini'
+go
+inserirScreenPlay 599, 'Mário Prata'
+go
+inserirScreenPlay 600, 'Marcos Caruso'
+go
+inserirScreenPlay 601, 'John Kingswell'
+go
+inserirScreenPlay 602, 'M. Sussman'
+go
+inserirScreenPlay 603, 'John Bunzel'
+go
+inserirScreenPlay 604, 'Paul Young'
+go
+inserirScreenPlay 605, 'Lo Wei'
+go
+inserirScreenPlay 606, 'Kenneth Tsang'
+go
+inserirScreenPlay 607, 'Sid Campbell'
+go
+inserirScreenPlay 608, 'William C. Martell'
+go
+inserirScreenPlay 609, 'Francis Wallace'
+go
+inserirScreenPlay 610, 'Glendon Swarthout'
+go
+inserirScreenPlay 611, 'Mac Benoff'
+go
+inserirScreenPlay 612, 'Miles Millar'
+go
+inserirScreenPlay 613, 'Alfred Gough'
+go
+inserirScreenPlay 614, 'Tracey Jackson'
+go
+inserirScreenPlay 615, 'Alvin Sargent'
+go
+inserirScreenPlay 616, 'Paul Matthews'
+go
+inserirScreenPlay 617, 'Christopher Atkins'
+go
+inserirScreenPlay 618, 'Milton Wexler'
+go
+inserirScreenPlay 619, 'Czenzi Ormonde'
+go
+inserirScreenPlay 620, 'Dick Kinney'
+go
+inserirScreenPlay 621, 'Ted Allan'
+go
+inserirScreenPlay 622, 'Renato Aragão'
+go
+inserirScreenPlay 623, 'Mauro Wilson'
+go
+inserirScreenPlay 624, 'Paulo Andrade'
+go
+inserirScreenPlay 625, 'Richard Maibaum'
+go
+inserirScreenPlay 626, 'Louis L''Amour'
+go
+inserirScreenPlay 627, 'Frank Gill Jr.'
+go
+inserirScreenPlay 628, 'Jack Natteford'
+go
+inserirScreenPlay 629, 'Valentine Davies'
+go
+inserirScreenPlay 630, 'Ib Melchior'
+go
+inserirScreenPlay 631, 'John C. Higgins'
+go
+inserirScreenPlay 632, 'Toby Genkel'
+go
+inserirScreenPlay 633, 'Richie Conroy'
+go
+inserirScreenPlay 634, 'Mark Hodkinson'
+go
+inserirScreenPlay 635, 'Marteinn Thorisson'
+go
+inserirScreenPlay 636, 'Jack Maeby'
+go
+inserirScreenPlay 637, 'Jon Connolly'
+go
+inserirScreenPlay 638, 'David Loucka'
+go
+inserirScreenPlay 639, 'John P. Connolly'
+go
+inserirScreenPlay 640, 'Dannah Phirman'
+go
+inserirScreenPlay 641, 'Jeffrey Bushell'
+go
+inserirScreenPlay 642, 'Danielle Schneider'
+go
+inserirScreenPlay 643, 'Sacha Gervasi'
+go
+inserirScreenPlay 644, 'Jonathan R. Betuel'
+go
+inserirScreenPlay 645, 'Neil Jordan'
+go
+inserirScreenPlay 646, 'Philip Yordan'
+go
+inserirScreenPlay 647, 'Ray Bradbury'
+go
+inserirScreenPlay 648, 'Jimmy Cannon'
+go
+inserirScreenPlay 649, 'Andrew Nicholls'
+go
+inserirScreenPlay 650, 'Darrell Vickers'
+go
+inserirScreenPlay 651, 'Lorenzo Semple Jr.'
+go
+inserirScreenPlay 652, 'Edgar Wallace'
+go
+inserirScreenPlay 653, 'James Ashmore Creelman'
+go
+inserirScreenPlay 654, 'Jeffrey Kindley'
+go
+inserirScreenPlay 655, 'Pierre Barillet'
+go
+inserirScreenPlay 656, 'Sheldon Lettich'
+go
+inserirScreenPlay 657, 'Paul Mones'
+go
+inserirScreenPlay 658, 'Steve Klein'
+go
+inserirScreenPlay 659, 'Ethan Wiley'
+go
+inserirScreenPlay 660, 'Richard Hughes'
+go
+inserirScreenPlay 661, 'Ronald Harwood'
+go
+inserirScreenPlay 662, 'Denis Cannan'
+go
+inserirScreenPlay 663, 'James Cameron'
+go
+inserirScreenPlay 664, 'Claude Zidi'
+go
+inserirScreenPlay 665, 'Didier Kaminka'
+go
+inserirScreenPlay 666, 'Simon Michaël'
+go
+inserirScreenPlay 667, 'Steve Martin'
+go
+inserirScreenPlay 668, 'Robert Boris'
+go
+inserirScreenPlay 669, 'Geoff Rodkey'
+go
+inserirScreenPlay 670, 'Victor Levin'
+go
+inserirScreenPlay 671, 'Brian Doyle-Murray'
+go
+inserirScreenPlay 672, 'Douglas Kenney'
+go
+inserirScreenPlay 673, 'David H. Steinberg'
+go
+inserirScreenPlay 674, 'Nick Pustay'
+go
+inserirScreenPlay 675, 'Laurie Craig'
+go
+inserirScreenPlay 676, 'Joshua Sternin'
+go
+inserirScreenPlay 677, 'Jeffrey Ventimilia'
+go
+inserirScreenPlay 678, 'Joss Whedon'
+go
+inserirScreenPlay 679, 'Joel Cohen'
+go
+inserirScreenPlay 680, 'Alec Sokolow'
+go
+inserirScreenPlay 681, 'Scott Rosenberg'
+go
+inserirScreenPlay 682, 'Jeff Pinkner'
+go
+inserirScreenPlay 683, 'Léa Fazer'
+go
+inserirScreenPlay 684, 'Benoît Graffin'
+go
+inserirScreenPlay 685, 'Ayelet Menahemi'
+go
+inserirScreenPlay 686, 'Shemi Zarhin'
+go
+inserirScreenPlay 687, 'James Orr'
+go
+inserirScreenPlay 688, 'Judi Ann Mason'
+go
+inserirScreenPlay 689, 'Jim Cruickshank'
+go
+inserirScreenPlay 690, 'Stirling Silliphant'
+go
+inserirScreenPlay 691, 'Kevin DiCicco'
+go
+inserirScreenPlay 692, 'Carlo Carlei'
+go
+inserirScreenPlay 693, 'James Herbert'
+go
+inserirScreenPlay 694, 'James Carrington'
+go
+inserirScreenPlay 695, 'Gene Nelson'
+go
+inserirScreenPlay 696, 'Gerald Drayson Adams'
+go
+inserirScreenPlay 697, 'Norman Wexler'
+go
+inserirScreenPlay 698, 'Nik Cohn'
+go
+inserirScreenPlay 699, 'David Detiege'
+go
+inserirScreenPlay 700, 'John Francis Daley'
+go
+inserirScreenPlay 701, 'Jonathan M. Goldstein'
+go
+inserirScreenPlay 702, 'Erica Rivinoja'
+go
+inserirScreenPlay 703, 'Leslie Dixon'
+go
+inserirScreenPlay 704, 'Peter Tolan'
+go
+inserirScreenPlay 705, 'Nicholas J. Corea'
+go
+inserirScreenPlay 706, 'John Korty'
+go
+inserirScreenPlay 707, 'James Lee'
+go
+inserirScreenPlay 708, 'Eric Bercovici'
+go
+inserirScreenPlay 709, 'S.S. Schweitzer'
+go
+inserirScreenPlay 710, 'Jim McBride'
+go
+inserirScreenPlay 711, 'Jean-Luc Godard'
+go
+inserirScreenPlay 712, 'L. M. Kit Carson'
+go
+inserirScreenPlay 713, 'Frank Nugent'
+go
+inserirScreenPlay 714, 'Abdul Williams'
+go
+inserirScreenPlay 715, 'Jack Amiel'
+go
+inserirScreenPlay 716, 'Michael Begler'
+go
+inserirScreenPlay 717, 'Chuck Norris'
+go
+inserirScreenPlay 718, 'James Bruner'
+go
+inserirScreenPlay 719, 'Gene Quintano'
+go
+inserirScreenPlay 720, 'Lee Reynolds'
+go
+inserirScreenPlay 721, 'Joe Eszterhas'
+go
+inserirScreenPlay 722, 'Ha Jung-woo'
+go
+inserirScreenPlay 723, 'Kim Seong-hun'
+go
+inserirScreenPlay 724, 'Chris Columbus'
+go
+inserirScreenPlay 725, 'David I. Stern'
+go
+inserirScreenPlay 726, 'Wagner de Assis'
+go
+inserirScreenPlay 727, 'George Roy Hill'
+go
+inserirScreenPlay 728, 'Allan Burns'
+go
+inserirScreenPlay 729, 'Braz Chediak'
+go
+inserirScreenPlay 730, 'Anna Muylaert'
+go
+inserirScreenPlay 731, 'Regina Casé'
+go
+inserirScreenPlay 732, 'Gregg Rossen'
+go
+inserirScreenPlay 733, 'Brian Sawyer'
+go
+inserirScreenPlay 734, 'Ron Koslow'
+go
+inserirScreenPlay 735, 'Robert Benton'
+go
+inserirScreenPlay 736, 'Elizabeth Hunter'
+go
+inserirScreenPlay 737, 'Arlene Gibbs'
+go
+inserirScreenPlay 738, 'Debbie Gaughan'
+go
+inserirScreenPlay 739, 'John Donovan'
+go
+inserirScreenPlay 740, 'Lewis Carroll'
+go
+inserirScreenPlay 741, 'Philippe de Chauveron'
+go
+inserirScreenPlay 742, 'Marc de Chauveron'
+go
+inserirScreenPlay 743, 'Guy Laurent'
+go
+inserirScreenPlay 744, 'Maksim Sveshnikov'
+go
+inserirScreenPlay 745, 'Vladlen Barbe'
+go
+inserirScreenPlay 746, 'Vadim Sveshnikov'
+go
+inserirScreenPlay 747, 'Donald Roman Lopez'
+go
+inserirScreenPlay 748, 'Frank Deese'
+go
+inserirScreenPlay 749, 'Daniel Goldberg'
+go
+inserirScreenPlay 750, 'James B. Allardice'
+go
+inserirScreenPlay 751, 'Bel Kaufman'
+go
+inserirScreenPlay 752, 'Tad Mosel'
+go
+inserirScreenPlay 753, 'Anders Ølholm'
+go
+inserirScreenPlay 754, 'Nikolaj Arcel'
+go
+inserirScreenPlay 755, 'Torbjørn Rafn'
+go
+inserirScreenPlay 756, 'Robert Conte'
+go
+inserirScreenPlay 757, 'Peter Martin Wortmann'
+go
+inserirScreenPlay 758, 'Beth Gutcheon'
+go
+inserirScreenPlay 759, 'Brian Helgeland'
+go
+inserirScreenPlay 760, 'Michael Crichton'
+go
+inserirScreenPlay 761, 'John Fenton Murray'
+go
+inserirScreenPlay 762, 'Steve McNeil'
+go
+inserirScreenPlay 763, 'Mark Andrus'
+go
+inserirScreenPlay 764, 'Vivienne De Courcy'
+go
+inserirScreenPlay 765, 'Tommy Blaze'
+go
+inserirScreenPlay 766, 'Henry James'
+go
+inserirScreenPlay 767, 'Chad Hayes'
+go
+inserirScreenPlay 768, 'Carey Hayes'
+go
+inserirScreenPlay 769, 'Jade Bartlett'
+go
+inserirScreenPlay 770, 'Mark Steilen'
+go
+inserirScreenPlay 771, 'Bennett Yellin'
+go
+inserirScreenPlay 772, 'Kevin Kopelow'
+go
+inserirScreenPlay 773, 'Heath Seifert'
+go
+inserirScreenPlay 774, 'Paul Pender'
+go
+inserirScreenPlay 775, 'Luc Besson'
+go
+inserirScreenPlay 776, 'Brad Wright'
+go
+inserirScreenPlay 777, 'Jonathan Glassner'
+go
+inserirScreenPlay 778, 'Edward Neumeier'
+go
+inserirScreenPlay 779, 'Michael Miner'
+go
+inserirScreenPlay 780, 'Edwin Justus Mayer'
+go
+inserirScreenPlay 781, 'Wanda Tuchock'
+go
+inserirScreenPlay 782, 'Robert Mark Kamen'
+go
+inserirScreenPlay 783, 'Arthur Browne Jr.'
+go
+inserirScreenPlay 784, 'Gail Parent'
+go
+inserirScreenPlay 785, 'Kenny Solms'
+go
+inserirScreenPlay 786, 'Alan Shearman'
+go
+inserirScreenPlay 787, 'Joe Camp'
+go
+inserirScreenPlay 788, 'Ben Vaughn'
+go
+inserirScreenPlay 789, 'Albert Hackett'
+go
+inserirScreenPlay 790, 'Frances Goodrich'
+go
+inserirScreenPlay 791, 'James Mangold'
+go
+inserirScreenPlay 792, 'Kirk DeMicco'
+go
+inserirScreenPlay 793, 'Robert Moreland'
+go
+inserirScreenPlay 794, 'Jason Mayland'
+go
+inserirScreenPlay 795, 'Dedé Santana'
+go
+inserirScreenPlay 796, 'Beverley Cross'
+go
+inserirScreenPlay 797, 'Dana Fox'
+go
+inserirScreenPlay 798, 'Rawson Marshall Thurber'
+go
+inserirScreenPlay 799, 'John Mattson'
+go
+inserirScreenPlay 800, 'Corey Blechman'
+go
+inserirScreenPlay 801, 'Karen Janszen'
+go
+inserirScreenPlay 802, 'João Emanuel Carneiro'
+go
+inserirScreenPlay 803, 'Ehren Kruger'
+go
+inserirScreenPlay 804, 'Kang Drama'
+go
+inserirScreenPlay 805, 'David Bowers'
+go
+inserirScreenPlay 806, 'Osamu Tezuka'
+go
+inserirScreenPlay 807, 'Timothy Harris'
+go
+inserirScreenPlay 808, 'Jon Cooksey'
+go
+inserirScreenPlay 809, 'Ali Marie Matheson'
+go
+inserirScreenPlay 810, 'Ricou Browning'
+go
+inserirScreenPlay 811, 'Jack Cowden'
+go
+inserirScreenPlay 812, 'Ivan Tors'
+go
+inserirScreenPlay 813, 'Art Arthur'
+go
+inserirScreenPlay 814, 'Harry Segall'
+go
+inserirScreenPlay 815, 'Don Hartman'
+go
+inserirScreenPlay 816, 'Edwin Blum'
+go
+inserirScreenPlay 817, 'Paulo Cursino'
+go
+inserirScreenPlay 818, 'Gustavo Cerbasi'
+go
+inserirScreenPlay 819, 'Angélica Lopes'
+go
+inserirScreenPlay 820, 'Dennis Feldman'
+go
+inserirScreenPlay 821, 'Mary Hale'
+go
+inserirScreenPlay 822, 'Paul Henning'
+go
+inserirScreenPlay 823, 'Burr Steers'
+go
+inserirScreenPlay 824, 'Kristen Buckley'
+go
+inserirScreenPlay 825, 'Brian Regan'
+go
+inserirScreenPlay 826, 'Amy Heckerling'
+go
+inserirScreenPlay 827, 'Peter Barsocchini'
+go
+inserirScreenPlay 828, 'Juliet Giglio'
+go
+inserirScreenPlay 829, 'Keith Giglio'
+go
+inserirScreenPlay 830, 'Charles F. Bohl'
+go
+inserirScreenPlay 831, 'Danny Byers'
+go
+inserirScreenPlay 832, 'John J. Jordan'
+go
+inserirScreenPlay 833, 'Michael Goldberg'
+go
+inserirScreenPlay 834, 'Tommy Swerdlow'
+go
+inserirScreenPlay 835, 'Damon Wayans'
+go
+inserirScreenPlay 836, 'J. F. Lawton'
+go
+inserirScreenPlay 837, 'Andrew Smith'
+go
+inserirScreenPlay 838, 'Ken Finkleman'
+go
+inserirScreenPlay 839, 'Jim Cox'
+go
+inserirScreenPlay 840, 'Diana Young'
+go
+inserirScreenPlay 841, 'Bruno Corbucci'
+go
+inserirScreenPlay 842, 'Michael Kozoll'
+go
+inserirScreenPlay 843, 'William Sackheim'
+go
+inserirScreenPlay 844, 'Jonathan Newman'
+go
+inserirScreenPlay 845, 'Neil Simon'
+go
+inserirScreenPlay 846, 'Tijs van Marle'
+go
+inserirScreenPlay 847, 'Karen van Holst Pellekaan'
+go
+inserirScreenPlay 848, 'Cláudio Torres'
+go
+inserirScreenPlay 849, 'Claudio Torres'
+go
+inserirScreenPlay 850, 'David França Mendes'
+go
+inserirScreenPlay 851, 'Massimo de Rita'
+go
+inserirScreenPlay 852, 'Simone De Rita'
+go
+inserirScreenPlay 853, 'Roger Donaldson'
+go
+inserirScreenPlay 854, 'Clive Egleton'
+go
+inserirScreenPlay 855, 'Leigh Vance'
+go
+inserirScreenPlay 856, 'Natacha Rambova'
+go
+inserirScreenPlay 857, 'Michael Showalter'
+go
+inserirScreenPlay 858, 'Laura Terruso'
+go
+inserirScreenPlay 859, 'Charles Addams'
+go
+inserirScreenPlay 860, 'Scott Sandin'
+go
+inserirScreenPlay 861, 'Rob Kerchner'
+go
+inserirScreenPlay 862, 'John Paragon'
+go
+inserirScreenPlay 863, 'Jerry Lewis'
+go
+inserirScreenPlay 864, 'Bill Richmond'
+go
+inserirScreenPlay 865, 'Kim Barker'
+go
+inserirScreenPlay 866, 'William Douglas Home'
+go
+inserirScreenPlay 867, 'Julius J. Epstein'
+go
+inserirScreenPlay 868, 'Michael J. Wilson'
+go
+inserirScreenPlay 869, 'Michael J. Leeson'
+go
+inserirScreenPlay 870, 'Art Edler Brown'
+go
+inserirScreenPlay 871, 'Douglas Sloan'
+go
+inserirScreenPlay 872, 'Shauna Cross'
+go
+inserirScreenPlay 873, 'Miguel Falabella'
+go
+inserirScreenPlay 874, 'Stanley Tong'
+go
+inserirScreenPlay 875, 'Frankie Chan'
+go
+inserirScreenPlay 876, 'Daniel Maximilian'
+go
+inserirScreenPlay 877, 'Thomas Pauli'
+go
+inserirScreenPlay 878, 'Sergey Kaluzhanov'
+go
+inserirScreenPlay 879, 'Oleg Pogodin'
+go
+inserirScreenPlay 880, 'Yuri Korotkov'
+go
+inserirScreenPlay 881, 'Gore Vidal'
+go
+inserirScreenPlay 882, 'Mark Burton'
+go
+inserirScreenPlay 883, 'John O''Farrell'
+go
+inserirScreenPlay 884, 'Tina Rathborne'
+go
+inserirScreenPlay 885, 'Peyo'
+go
+inserirScreenPlay 886, 'Stacey Harman'
+go
+inserirScreenPlay 887, 'Pamela Ribon'
+go
+inserirScreenPlay 888, 'Bobby Farrelly'
+go
+inserirScreenPlay 889, 'Peter Farrelly'
+go
+inserirScreenPlay 890, 'Mike Cerrone'
+go
+inserirScreenPlay 891, 'Michael Feifer'
+go
+inserirScreenPlay 892, 'William Hudson'
+go
+inserirScreenPlay 893, 'Kathy Mackel'
+go
+inserirScreenPlay 894, 'Chris Noonan'
+go
+inserirScreenPlay 895, 'Alan B. McElroy'
+go
+inserirScreenPlay 896, 'Vincent Chalvon-Demersay'
+go
+inserirScreenPlay 897, 'David Michel'
+go
+inserirScreenPlay 898, 'Robert Lamoreaux'
+go
+inserirScreenPlay 899, 'Michelle Lamoreaux'
+go
+inserirScreenPlay 900, 'Thiago Dottori'
+go
+inserirScreenPlay 901, 'Tom McGrath'
+go
+inserirScreenPlay 902, 'Eric Darnell'
+go
+inserirScreenPlay 903, 'Etan Cohen'
+go
+inserirScreenPlay 904, 'Alan Silberberg'
+go
+inserirScreenPlay 905, 'Jennifer Flackett'
+go
+inserirScreenPlay 906, 'Mark Levin'
+go
+inserirScreenPlay 907, 'Malia Scotch Marmo'
+go
+inserirScreenPlay 908, 'Ian McEwan'
+go
+inserirScreenPlay 909, 'Brad Ingelsby'
+go
+inserirScreenPlay 910, 'J. B. Tanko'
+go
+inserirScreenPlay 911, 'Jonathan Reynolds'
+go
+inserirScreenPlay 912, 'Stanley Roberts'
+go
+inserirScreenPlay 913, 'Michael Blankfort'
+go
+inserirScreenPlay 914, 'Anne-Marie Martin'
+go
+inserirScreenPlay 915, 'John Lee Mahin'
+go
+inserirScreenPlay 916, 'S.N. Behrman'
+go
+inserirScreenPlay 917, 'Jon Vitti'
+go
+inserirScreenPlay 918, 'Chris Viscardi'
+go
+inserirScreenPlay 919, 'Will McRobb'
+go
+inserirScreenPlay 920, 'David Peckinpah'
+go
+inserirScreenPlay 921, 'Suzanne Clauser'
+go
+inserirScreenPlay 922, 'Jennifer Jan'
+go
+inserirScreenPlay 923, 'Brittany Wiscombe'
+go
+inserirScreenPlay 924, 'Roland Emmerich'
+go
+inserirScreenPlay 925, 'Dean Devlin'
+go
+inserirScreenPlay 926, 'Michael Braverman'
+go
+inserirScreenPlay 927, 'Jeb Rosebrook'
+go
+inserirScreenPlay 928, 'Luis Valdez'
+go
+inserirScreenPlay 929, 'John Gilbert Barrett'
+go
+inserirScreenPlay 930, 'Emil Kolbe'
+go
+inserirScreenPlay 931, 'Tom Waldman'
+go
+inserirScreenPlay 932, 'Eleanore Griffin'
+go
+inserirScreenPlay 933, 'Allison Burnett'
+go
+inserirScreenPlay 934, 'John Logan'
+go
+inserirScreenPlay 935, 'Greg Michael'
+go
+inserirScreenPlay 936, 'Roberto Farias'
+go
+inserirScreenPlay 937, 'Don DaGradi'
+go
+inserirScreenPlay 938, 'Charlie Peters'
+go
+inserirScreenPlay 939, 'Daniel Gerson'
+go
+inserirScreenPlay 940, 'Jordan Roberts'
+go
+inserirScreenPlay 941, 'Elizabeth Chandler'
+go
+inserirScreenPlay 942, 'William Luce'
+go
+inserirScreenPlay 943, 'Victor Lustosa'
+go
+inserirScreenPlay 944, 'Eric Besnard'
+go
+inserirScreenPlay 945, 'Jordi Gasull'
+go
+inserirScreenPlay 946, 'Javier López Barreira'
+go
+inserirScreenPlay 947, 'Patxi Amezcua'
+go
+inserirScreenPlay 948, 'Neil Landau'
+go
+inserirScreenPlay 949, 'Doreen Spicer'
+go
+inserirScreenPlay 950, 'Samuel A. Taylor'
+go
+inserirScreenPlay 951, 'Ruth Brooks Flippen'
+go
+inserirScreenPlay 952, 'Katherine Albert'
+go
+inserirScreenPlay 953, 'Dale Eunson'
+go
+inserirScreenPlay 954, 'Mary Chase'
+go
+inserirScreenPlay 955, 'Theodore Reeves'
+go
+inserirScreenPlay 956, 'J. Mills Goodloe'
+go
+inserirScreenPlay 957, 'Billy Frolick'
+go
+inserirScreenPlay 958, 'Mark Seidenberg'
+go
+inserirScreenPlay 959, 'Rich Fogel'
+go
+inserirScreenPlay 960, 'Sarah Bird'
+go
+inserirScreenPlay 961, 'Michael Landon'
+go
+inserirScreenPlay 962, 'Dana Starfield'
+go
+inserirScreenPlay 963, 'Douglas Langdale'
+go
+inserirScreenPlay 964, 'Jim Abrahams'
+go
+inserirScreenPlay 965, 'Arthur Rankin, Jr.'
+go
+inserirScreenPlay 966, 'Len Korobkin'
+go
+inserirScreenPlay 967, 'Harvey Kurtzman'
+go
+inserirScreenPlay 968, 'Ben Queen'
+go
+inserirScreenPlay 969, 'Coline Serreau'
+go
+inserirScreenPlay 970, 'Stephen Mazur'
+go
+inserirScreenPlay 971, 'Paul Guay'
+go
+inserirScreenPlay 972, 'Lawrence Gay'
+go
+inserirScreenPlay 973, 'Michael J. Di Gaetano'
+go
+inserirScreenPlay 974, 'Mark Herman'
+go
+inserirScreenPlay 975, 'Maryam Keshavarz'
+go
+inserirScreenPlay 976, 'Jonathan Mastro'
+go
+inserirScreenPlay 977, 'Richard Matheson'
+go
+inserirScreenPlay 978, 'Anita Loos'
+go
+inserirScreenPlay 979, 'Charles Lederer'
+go
+inserirScreenPlay 980, 'Anthony Horowitz'
+go
+inserirScreenPlay 981, 'Michael Elliot'
+go
+inserirScreenPlay 982, 'Albert Brooks'
+go
+inserirScreenPlay 983, 'Marcus Figueiredo'
+go
+inserirScreenPlay 984, 'Guto Franco'
+go
+inserirScreenPlay 985, 'Lawrence Edward Watkin'
+go
+inserirScreenPlay 986, 'Vittorio Cottafavi'
+go
+inserirScreenPlay 987, 'Arnaldo Marrosu'
+go
+inserirScreenPlay 988, 'Giorgio Cristallini'
+go
+inserirScreenPlay 989, 'Ennio de Concini'
+go
+inserirScreenPlay 990, 'Gary Goldman'
+go
+inserirScreenPlay 991, 'David Z. Weinstein'
+go
+inserirScreenPlay 992, 'Colin Higgins'
+go
+inserirScreenPlay 993, 'Patricia Resnick'
+go
+inserirScreenPlay 994, 'Charles MacArthur'
+go
+inserirScreenPlay 995, 'Hal Barwood'
+go
+inserirScreenPlay 996, 'David L. Paterson'
+go
+inserirScreenPlay 997, 'Frederic Lebow'
+go
+inserirScreenPlay 998, 'Daniel G. Sullivan'
+go
+inserirScreenPlay 999, 'David Ronn'
+go
+inserirScreenPlay 1000, 'Jay Scherick'
+go
+inserirScreenPlay 1001, 'Andres Heinz'
+go
+inserirScreenPlay 1002, 'Mark Heyman'
+go
+inserirScreenPlay 1003, 'John J. McLaughlin'
+go
+inserirScreenPlay 1004, 'Steven Kampmann'
+go
+inserirScreenPlay 1005, 'William Porter'
+go
+inserirScreenPlay 1006, 'Laurie Finstad-Knizhnik'
+go
+inserirScreenPlay 1007, 'Oscar Hammerstein II'
+go
+inserirScreenPlay 1008, 'Paul Green'
+go
+inserirScreenPlay 1009, 'Knate Lee'
+go
+inserirScreenPlay 1010, 'Doug Lefler'
+go
+inserirScreenPlay 1011, 'William Davies'
+go
+inserirScreenPlay 1012, 'Herschel Weingrod'
+go
+inserirScreenPlay 1013, 'William Osborne'
+go
+inserirScreenPlay 1014, 'Willy Russell'
+go
+inserirScreenPlay 1015, 'Ed Ferrara'
+go
+inserirScreenPlay 1016, 'David Swift'
+go
+inserirScreenPlay 1017, 'Erich Kästner'
+go
+inserirScreenPlay 1018, 'John Carpenter'
+go
+inserirScreenPlay 1019, 'William Gray'
+go
+inserirScreenPlay 1020, 'Desmond Nakano'
+go
+inserirScreenPlay 1021, 'Gene Wilder'
+go
+inserirScreenPlay 1022, 'Corinne Griffith'
+go
+inserirScreenPlay 1023, 'Jack Rose'
+go
+inserirScreenPlay 1024, 'Ranveer Singh'
+go
+inserirScreenPlay 1025, 'Peter Yeldham'
+go
+inserirScreenPlay 1026, 'Geoffrey Orme'
+go
+inserirScreenPlay 1027, 'Ernst Bornemann'
+go
+inserirScreenPlay 1028, 'Lewis Colick'
+go
+inserirScreenPlay 1029, 'Lou Illar'
+go
+inserirScreenPlay 1030, 'Galen Thompson'
+go
+inserirScreenPlay 1031, 'James Clavell'
+go
+inserirScreenPlay 1032, 'Alex Kurtzman'
+go
+inserirScreenPlay 1033, 'Roberto Orci'
+go
+inserirScreenPlay 1034, 'Robert Kurtzman'
+go
+inserirScreenPlay 1035, 'James Hill'
+go
+inserirScreenPlay 1036, 'Wolf Mankowitz'
+go
+inserirScreenPlay 1037, 'Artur Brauner'
+go
+inserirScreenPlay 1038, 'Pedro Samu'
+go
+inserirScreenPlay 1039, 'John Fusco'
+go
+inserirScreenPlay 1040, 'Katherine Fugate'
+go
+inserirScreenPlay 1041, 'Don Holley'
+go
+inserirScreenPlay 1042, 'Tori Tellem'
+go
+inserirScreenPlay 1043, 'Bill Travers'
+go
+inserirScreenPlay 1044, 'Gavin Maxwell'
+go
+inserirScreenPlay 1045, 'Jack Couffer'
+go
+inserirScreenPlay 1046, 'Darryl F. Zanuck'
+go
+inserirScreenPlay 1047, 'Agnes Christine Johnston'
+go
+inserirScreenPlay 1048, 'Kay Van Riper'
+go
+inserirScreenPlay 1049, 'Chris Buck'
+go
+inserirScreenPlay 1050, 'Ash Brannon'
+go
+inserirScreenPlay 1051, 'Chris Jenkins'
+go
+inserirScreenPlay 1052, 'Joe Connelly'
+go
+inserirScreenPlay 1053, 'Brian Levant'
+go
+inserirScreenPlay 1054, 'Lon Diamond'
+go
+inserirScreenPlay 1055, 'David Newman'
+go
+inserirScreenPlay 1056, 'Edmilson Filho'
+go
+inserirScreenPlay 1057, 'Halder Gomes'
+go
+inserirScreenPlay 1058, 'L.G. Bayão'
+go
+inserirScreenPlay 1059, 'George Seaton'
+go
+inserirScreenPlay 1060, 'Len Deighton'
+go
+inserirScreenPlay 1061, 'Evan Jones'
+go
+inserirScreenPlay 1062, 'Bill Motz'
+go
+inserirScreenPlay 1063, 'Flip Kobler'
+go
+inserirScreenPlay 1064, 'Cindy Marcus'
+go
+inserirScreenPlay 1065, 'Bob Roth'
+go
+inserirScreenPlay 1066, 'Peter Benchley'
+go
+inserirScreenPlay 1067, 'Michael De Guzman'
+go
+inserirScreenPlay 1068, 'Dalton Trumbo'
+go
+inserirScreenPlay 1069, 'Ian McLellan Hunter'
+go
+inserirScreenPlay 1070, 'John Dighton'
+go
+inserirScreenPlay 1071, 'Filippo Sanjust'
+go
+inserirScreenPlay 1072, 'Cláudia Levay'
+go
+inserirScreenPlay 1073, 'Adam Sandler'
+go
+inserirScreenPlay 1074, 'Robert Smigel'
+go
+inserirScreenPlay 1075, 'Chris Dowling'
+go
+inserirScreenPlay 1076, 'James D. Parriott'
+go
+inserirScreenPlay 1077, 'Edmund L. Hartmann'
+go
+inserirScreenPlay 1078, 'Elwood Ullman'
+go
+inserirScreenPlay 1079, 'Rodman Philbrick'
+go
+inserirScreenPlay 1080, 'Charles Leavitt'
+go
+inserirScreenPlay 1081, 'Olivier Nakache'
+go
+inserirScreenPlay 1082, 'Éric Toledano'
+go
+inserirScreenPlay 1083, 'Marco Barboni'
+go
+inserirScreenPlay 1084, 'Orville H. Hampton'
+go
+inserirScreenPlay 1085, 'David Weissman'
+go
+inserirScreenPlay 1086, 'David Diamond'
+go
+inserirScreenPlay 1087, 'Pen Densham'
+go
+inserirScreenPlay 1088, 'John Watson'
+go
+inserirScreenPlay 1089, 'Richard Goudreau'
+go
+inserirScreenPlay 1090, 'David Sherman'
+go
+inserirScreenPlay 1091, 'Ken Annakin'
+go
+inserirScreenPlay 1092, 'Jack Davies'
+go
+inserirScreenPlay 1093, 'Danny Kallis'
+go
+inserirScreenPlay 1094, 'Jim Geoghan'
+go
+inserirScreenPlay 1095, 'Robert Horn'
+go
+inserirScreenPlay 1096, 'Michael Saltzman'
+go
+inserirScreenPlay 1097, 'Carolina Castro'
+go
+inserirScreenPlay 1098, 'Marcelo Saback'
+go
+inserirScreenPlay 1099, 'Jô Abdu'
+go
+inserirScreenPlay 1100, 'Ann Austen'
+go
+inserirScreenPlay 1101, 'Abraham Polonsky'
+go
+inserirScreenPlay 1102, 'Bruce Jay Friedman'
+go
+inserirScreenPlay 1103, 'Maggie Peren'
+go
+inserirScreenPlay 1104, 'Andi Rogenhagen'
+go
+inserirScreenPlay 1105, 'Chris Matheson'
+go
+inserirScreenPlay 1106, 'Frédéric Videau'
+go
+inserirScreenPlay 1107, 'Jurgen Wolff'
+go
+inserirScreenPlay 1108, 'Anne Brooksbank'
+go
+inserirScreenPlay 1109, 'John Chua'
+go
+inserirScreenPlay 1110, 'Alexander Talal'
+go
+inserirScreenPlay 1111, 'David DiGilio'
+go
+inserirScreenPlay 1112, 'Mike Rich'
+go
+inserirScreenPlay 1113, 'Michael Stokes'
+go
+inserirScreenPlay 1114, 'Max Shulman'
+go
+inserirScreenPlay 1115, 'Samuel Newman'
+go
+inserirScreenPlay 1116, 'Herbert Kline'
+go
+inserirScreenPlay 1117, 'John O''Dea'
+go
+inserirScreenPlay 1118, 'Kevin James'
+go
+inserirScreenPlay 1119, 'Nick Bakay'
+go
+inserirScreenPlay 1120, 'Steven Molaro'
+go
+inserirScreenPlay 1121, 'Michael J. Nathanson'
+go
+inserirScreenPlay 1122, 'Seth Winston'
+go
+inserirScreenPlay 1123, 'Paul A. Castleton'
+go
+inserirScreenPlay 1124, 'Wilfred H. Petitt'
+go
+inserirScreenPlay 1125, 'Melvin Levy'
+go
+inserirScreenPlay 1126, 'Nils Tavernier'
+go
+inserirScreenPlay 1127, 'Pierre Leyssieux'
+go
+inserirScreenPlay 1128, 'Laurent Bertoni'
+go
+inserirScreenPlay 1129, 'Joe Morhaim'
+go
+inserirScreenPlay 1130, 'Laurent Chalumeau'
+go
+inserirScreenPlay 1131, 'David Mamet'
+go
+inserirScreenPlay 1132, 'Shel Silverstein'
+go
+inserirScreenPlay 1133, 'Robert Rossen'
+go
+inserirScreenPlay 1134, 'Harry Kleiner'
+go
+inserirScreenPlay 1135, 'William Peter Blatty'
+go
+inserirScreenPlay 1136, 'Sergio Leone'
+go
+inserirScreenPlay 1137, 'Damiano Damiani'
+go
+inserirScreenPlay 1138, 'Fulvio Morsella'
+go
+inserirScreenPlay 1139, 'Ernesto Gastaldi'
+go
+inserirScreenPlay 1140, 'Matt Lopez'
+go
+inserirScreenPlay 1141, 'Flávio Migliaccio'
+go
+inserirScreenPlay 1142, 'Neena Beber'
+go
+inserirScreenPlay 1143, 'Craig Shapiro'
+go
+inserirScreenPlay 1144, 'Elizabeth Kruger'
+go
+inserirScreenPlay 1145, 'Daniel Pyne'
+go
+inserirScreenPlay 1146, 'Laurian Leggett'
+go
+inserirScreenPlay 1147, 'Jeffrey Price'
+go
+inserirScreenPlay 1148, 'Peter S. Seaman'
+go
+inserirScreenPlay 1149, 'Peter Crabbe'
+go
+inserirScreenPlay 1150, 'Andy Rose'
+go
+inserirScreenPlay 1151, 'Gary Conway'
+go
+inserirScreenPlay 1152, 'Gideon Amir'
+go
+inserirScreenPlay 1153, 'Avi Kleinberger'
+go
+inserirScreenPlay 1154, 'Elvira Lindo'
+go
+inserirScreenPlay 1155, 'Pamela Norris'
+go
+inserirScreenPlay 1156, 'Margaret Oberman'
+go
+inserirScreenPlay 1157, 'John Ehle'
+go
+inserirScreenPlay 1158, 'Carol Sobieski'
+go
+inserirScreenPlay 1159, 'David P. Harmon'
+go
+inserirScreenPlay 1160, 'William Faulkner'
+go
+inserirScreenPlay 1161, 'Susan Estelle Jansen'
+go
+inserirScreenPlay 1162, 'Ed Decter'
+go
+inserirScreenPlay 1163, 'John J. Strauss'
+go
+inserirScreenPlay 1164, 'Blayne Weaver'
+go
+inserirScreenPlay 1165, 'William Broyles, Jr.'
+go
+inserirScreenPlay 1166, 'Lee Hall'
+go
+inserirScreenPlay 1167, 'Bruce Joel Rubin'
+go
+inserirScreenPlay 1168, 'Michael Tolkin'
+go
+inserirScreenPlay 1169, 'Randy Kornfield'
+go
+inserirScreenPlay 1170, 'Ken Hixon'
+go
+inserirScreenPlay 1171, 'Nicholas Stoller'
+go
+inserirScreenPlay 1172, 'Tina Fey'
+go
+inserirScreenPlay 1173, 'Robert Shallcross'
+go
+inserirScreenPlay 1174, 'James Ferguson'
+go
+inserirScreenPlay 1175, 'Dan Gilroy'
+go
+inserirScreenPlay 1176, 'Ronald Shusett'
+go
+inserirScreenPlay 1177, 'Tom Mankiewicz'
+go
+inserirScreenPlay 1178, 'Jack Webb'
+go
+inserirScreenPlay 1179, 'Alan Zweibel'
+go
+inserirScreenPlay 1180, 'John Gilling'
+go
+inserirScreenPlay 1181, 'Earl Felton'
+go
+inserirScreenPlay 1182, 'Marcel Rodriguez'
+go
+inserirScreenPlay 1183, 'Tippi Dobrofsky'
+go
+inserirScreenPlay 1184, 'Neal Dobrofsky'
+go
+inserirScreenPlay 1185, 'Stanford Sherman'
+go
+inserirScreenPlay 1186, 'Richard Hooker'
+go
+inserirScreenPlay 1187, 'Ring Lardner Jr.'
+go
+inserirScreenPlay 1188, 'Maurice Capovilla'
+go
+inserirScreenPlay 1189, 'João Antônio Ferreira Filho'
+go
+inserirScreenPlay 1190, 'Gianfrancesco Guarnieri'
+go
+inserirScreenPlay 1191, 'Fil Braz'
+go
+inserirScreenPlay 1192, 'Vitor Brandt'
+go
+inserirScreenPlay 1193, 'Clare Sera'
+go
+inserirScreenPlay 1194, 'Eyal Podell'
+go
+inserirScreenPlay 1195, 'Jonathon E. Stewart'
+go
+inserirScreenPlay 1196, 'Lynn Siefert'
+go
+inserirScreenPlay 1197, 'Ben Roberts'
+go
+inserirScreenPlay 1198, 'Ivan Goff'
+go
+inserirScreenPlay 1199, 'John Strauss'
+go
+inserirScreenPlay 1200, 'Paul Armont'
+go
+inserirScreenPlay 1201, 'Jean Manoussi'
+go
+inserirScreenPlay 1202, 'Alex Ranarivelo'
+go
+inserirScreenPlay 1203, 'Joey Dedio'
+go
+inserirScreenPlay 1204, 'Brian Herskowitz'
+go
+inserirScreenPlay 1205, 'Kathryn Price'
+go
+inserirScreenPlay 1206, 'Nichole Millard'
+go
+inserirScreenPlay 1207, 'Jim Strain'
+go
+inserirScreenPlay 1208, 'Burt Kennedy'
+go
+inserirScreenPlay 1209, 'Jackie Gleason'
+go
+inserirScreenPlay 1210, 'A.-J. Russell'
+go
+inserirScreenPlay 1211, 'Cyril Hume'
+go
+inserirScreenPlay 1212, 'Ivor Novello'
+go
+inserirScreenPlay 1213, 'Júlia Rezende'
+go
+inserirScreenPlay 1214, 'Ingrid Guimarães'
+go
+inserirScreenPlay 1215, 'Lusa Silvestre'
+go
+inserirScreenPlay 1216, 'Simon Nye'
+go
+inserirScreenPlay 1217, 'Fabrizia Pinto'
+go
+inserirScreenPlay 1218, 'Daniela Thomas'
+go
+inserirScreenPlay 1219, 'Earl Richey Jones'
+go
+inserirScreenPlay 1220, 'Todd R. Jones'
+go
+inserirScreenPlay 1221, 'Jason Filardi'
+go
+inserirScreenPlay 1222, 'Turk Pipkin'
+go
+inserirScreenPlay 1223, 'Lou Berney'
+go
+inserirScreenPlay 1224, 'Shonda Rhimes'
+go
+inserirScreenPlay 1225, 'Ellen Green'
+go
+inserirScreenPlay 1226, 'Clifford Green'
+go
+inserirScreenPlay 1227, 'Clifford Scott Green'
+go
+inserirScreenPlay 1228, 'Piotr Ilitch Tchaikovski'
+go
+inserirScreenPlay 1229, 'Terry Cunningham'
+go
+inserirScreenPlay 1230, 'Steven Jones'
+go
+inserirScreenPlay 1231, 'Michael Palmieri'
+go
+inserirScreenPlay 1232, 'Hal Needham'
+go
+inserirScreenPlay 1233, 'Jerry Belson'
+go
+inserirScreenPlay 1234, 'Mike Binder'
+go
+inserirScreenPlay 1235, 'Ivan Reitman'
+go
+inserirScreenPlay 1236, 'Marguerite Roberts'
+go
+inserirScreenPlay 1237, 'Malcolm Stuart Boylan'
+go
+inserirScreenPlay 1238, 'Tom Reed'
+go
+inserirScreenPlay 1239, 'Marjory Gaffney'
+go
+inserirScreenPlay 1240, 'Aline Brosh McKenna'
+go
+inserirScreenPlay 1241, 'Dougal Robertson'
+go
+inserirScreenPlay 1242, 'Fred Haines'
+go
+inserirScreenPlay 1243, 'Carlos Alberto de Nóbrega'
+go
+inserirScreenPlay 1244, 'Gilberto Garcia'
+go
+inserirScreenPlay 1245, 'Wilson Vaz'
+go
+inserirScreenPlay 1246, 'Girls Town'
+go
+inserirScreenPlay 1247, 'Kazuo Fukazawa'
+go
+inserirScreenPlay 1248, 'Bill Dubuque'
+go
+inserirScreenPlay 1249, 'John Blumenthal'
+go
+inserirScreenPlay 1250, 'Michael Berry'
+go
+inserirScreenPlay 1251, 'Stephen Carpenter'
+go
+inserirScreenPlay 1252, 'Eduardo Coutinho'
+go
+inserirScreenPlay 1253, 'Tim McCanlies'
+go
+inserirScreenPlay 1254, 'Maria Nation'
+go
+inserirScreenPlay 1255, 'Sterling Anderson'
+go
+inserirScreenPlay 1256, 'Jill E. Blotevogel'
+go
+inserirScreenPlay 1257, 'Cathy Yuspa'
+go
+inserirScreenPlay 1258, 'Josh Goldsmith'
+go
+inserirScreenPlay 1259, 'Jeff Sherman'
+go
+inserirScreenPlay 1260, 'Cheryl Saban'
+go
+inserirScreenPlay 1261, 'John Leguizamo'
+go
+inserirScreenPlay 1262, 'David Bar Katz'
+go
+inserirScreenPlay 1263, 'Steve Rudnick'
+go
+inserirScreenPlay 1264, 'Leo Benvenuti'
+go
+inserirScreenPlay 1265, 'Debra Hill'
+go
+inserirScreenPlay 1266, 'Daniel Farrands'
+go
+inserirScreenPlay 1267, 'David Greenwalt'
+go
+inserirScreenPlay 1268, 'Jim Kouf'
+go
+inserirScreenPlay 1269, 'Paul Mazursky'
+go
+inserirScreenPlay 1270, 'Leon Capetanos'
+go
+inserirScreenPlay 1271, 'Sol Hurok'
+go
+inserirScreenPlay 1272, 'George Oppenheimer'
+go
+inserirScreenPlay 1273, 'Ruth Goode'
+go
+inserirScreenPlay 1274, 'Heidi Ferrer'
+go
+inserirScreenPlay 1275, 'Robert Collector'
+go
+inserirScreenPlay 1276, 'Matt Ember'
+go
+inserirScreenPlay 1277, 'Tom Astle'
+go
+inserirScreenPlay 1278, 'David Twohy'
+go
+inserirScreenPlay 1279, 'Jeb Stuart'
+go
+inserirScreenPlay 1280, 'Norman Steinberg'
+go
+inserirScreenPlay 1281, 'Bob Greene'
+go
+inserirScreenPlay 1282, 'David Frankel'
+go
+inserirScreenPlay 1283, 'George Axelrod'
+go
+inserirScreenPlay 1284, 'Tony Lazzarino'
+go
+inserirScreenPlay 1285, 'James Warner Bellah'
+go
+inserirScreenPlay 1286, 'Jack Pulman'
+go
+inserirScreenPlay 1287, 'Teena Booth'
+go
+inserirScreenPlay 1288, 'Suzette Couture'
+go
+inserirScreenPlay 1289, 'Diane Thomas'
+go
+inserirScreenPlay 1290, 'Treva Silverman'
+go
+inserirScreenPlay 1291, 'Lem Dobbs'
+go
+inserirScreenPlay 1292, 'Howard Franklin'
+go
+inserirScreenPlay 1293, 'William Gough'
+go
+inserirScreenPlay 1294, 'Anna Sandor'
+go
+inserirScreenPlay 1295, 'Barry Primus'
+go
+inserirScreenPlay 1296, 'John O''Hara'
+go
+inserirScreenPlay 1297, 'Shinichi Sekizawa'
+go
+inserirScreenPlay 1298, 'Robert Day'
+go
+inserirScreenPlay 1299, 'Edgar Rice Burroughs'
+go
+inserirScreenPlay 1300, 'Berne Giler'
+go
+inserirScreenPlay 1301, 'Bob Peterson'
+go
+inserirScreenPlay 1302, 'David Reynolds'
+go
+inserirScreenPlay 1303, 'Annie DeYoung'
+go
+inserirScreenPlay 1304, 'John Grogan'
+go
+inserirScreenPlay 1305, 'Don Roos'
+go
+inserirScreenPlay 1306, 'Scott Frank'
+go
+inserirScreenPlay 1307, 'Reinaldo Moraes'
+go
+inserirScreenPlay 1308, 'Caspian Tredwell-Owen'
+go
+inserirScreenPlay 1309, 'Ed Haas'
+go
+inserirScreenPlay 1310, 'Lawrence Roman'
+go
+inserirScreenPlay 1311, 'Rick Famuyiwa'
+go
+inserirScreenPlay 1312, 'Wayne Conley'
+go
+inserirScreenPlay 1313, 'Malcolm Spellman'
+go
+inserirScreenPlay 1314, 'Gina Prince-Bythewood'
+go
+inserirScreenPlay 1315, 'Dennis Marks'
+go
+inserirScreenPlay 1316, 'Harry Love'
+go
+inserirScreenPlay 1317, 'Blanche Hanalis'
+go
+inserirScreenPlay 1318, 'Derry Quinn'
+go
+inserirScreenPlay 1319, 'Emeric Pressburger'
+go
+inserirScreenPlay 1320, 'Ray Rigby'
+go
+inserirScreenPlay 1321, 'Monica Macer'
+go
+inserirScreenPlay 1322, 'Ludovica Rampoldi'
+go
+inserirScreenPlay 1323, 'Stefano Sardo'
+go
+inserirScreenPlay 1324, 'Alessandro Fabbri'
+go
+inserirScreenPlay 1325, 'Brent Forrester'
+go
+inserirScreenPlay 1326, 'Dean Pitchford'
+go
+inserirScreenPlay 1327, 'Eric Knight'
+go
+inserirScreenPlay 1328, 'Jeanne Bartlett'
+go
+inserirScreenPlay 1329, 'Helen Deutsch'
+go
+inserirScreenPlay 1330, 'Howard Dimsdale'
+go
+inserirScreenPlay 1331, 'Mitch Markowitz'
+go
+inserirScreenPlay 1332, 'Janus Cercone'
+go
+inserirScreenPlay 1333, 'Brad Hall'
+go
+inserirScreenPlay 1334, 'Gary David Goldberg'
+go
+inserirScreenPlay 1335, 'Rob Edwards'
+go
+inserirScreenPlay 1336, 'Jeremias Moreira Filho'
+go
+inserirScreenPlay 1337, 'Carlos Nascimbeni'
+go
+inserirScreenPlay 1338, 'Bruce Malmuth'
+go
+inserirScreenPlay 1339, 'Gary T. McDonald'
+go
+inserirScreenPlay 1340, 'Gary DeVore'
+go
+inserirScreenPlay 1341, 'William Stadiem'
+go
+inserirScreenPlay 1342, 'Vern Sneider'
+go
+inserirScreenPlay 1343, 'Rodney Dangerfield'
+go
+inserirScreenPlay 1344, 'Dennis Blair'
+go
+inserirScreenPlay 1345, 'Michael Endler'
+go
+inserirScreenPlay 1346, 'P. J. O''Rourke'
+go
+inserirScreenPlay 1347, 'Alan Parker'
+go
+inserirScreenPlay 1348, 'Newton Moreno'
+go
+inserirScreenPlay 1349, 'José Carvalho'
+go
+inserirScreenPlay 1350, 'Kate Angelo'
+go
+inserirScreenPlay 1351, 'Thomas Lennon'
+go
+inserirScreenPlay 1352, 'Robert Ben Garant'
+go
+inserirScreenPlay 1353, 'Rob Hedden'
+go
+inserirScreenPlay 1354, 'Emi Mochizuki'
+go
+inserirScreenPlay 1355, 'Carrie Evans'
+go
+inserirScreenPlay 1356, 'Ken Daurio'
+go
+inserirScreenPlay 1357, 'Cinco Paul'
+go
+inserirScreenPlay 1358, 'Alicia Kirk'
+go
+inserirScreenPlay 1359, 'Maurice Richlin'
+go
+inserirScreenPlay 1360, 'Russell Rouse'
+go
+inserirScreenPlay 1361, 'Clarence Greene'
+go
+inserirScreenPlay 1362, 'Charlotte Brontë'
+go
+inserirScreenPlay 1363, 'Jordan Mechner'
+go
+inserirScreenPlay 1364, 'Doug Miro'
+go
+inserirScreenPlay 1365, 'Carlo Bernard'
+go
+inserirScreenPlay 1366, 'Mark Stouffer'
+go
+inserirScreenPlay 1367, 'Dennis S. Johnson'
+go
+inserirScreenPlay 1368, 'James Carabatsos'
+go
+inserirScreenPlay 1369, 'Joseph Stinson'
+go
+inserirScreenPlay 1370, 'Dennis Hackin'
+go
+inserirScreenPlay 1371, 'Frederic Raphael'
+go
+inserirScreenPlay 1372, 'Aaron Sorkin'
+go
+inserirScreenPlay 1373, 'Tom Hanks'
+go
+inserirScreenPlay 1374, 'Kevin Wade'
+go
+inserirScreenPlay 1375, 'John Lee Hancock'
+go
+inserirScreenPlay 1376, 'Ernest K. Gann'
+go
+inserirScreenPlay 1377, 'Frank Miller'
+go
+inserirScreenPlay 1378, 'J. David Stem'
+go
+inserirScreenPlay 1379, 'David N. Weiss'
+go
+inserirScreenPlay 1380, 'Travis Cluff'
+go
+inserirScreenPlay 1381, 'Chris Lofing'
+go
+inserirScreenPlay 1382, 'David Loughery'
+go
+inserirScreenPlay 1383, 'Dan Gordon'
+go
+inserirScreenPlay 1384, 'Ian Abrams'
+go
+inserirScreenPlay 1385, 'Ray Harryhausen'
+go
+inserirScreenPlay 1386, 'Pierre Boulle'
+go
+inserirScreenPlay 1387, 'Paul Dehn'
+go
+inserirScreenPlay 1388, 'Edgar Wright'
+go
+inserirScreenPlay 1389, 'Steven Moffat'
+go
+inserirScreenPlay 1390, 'Joe Cornish'
+go
+inserirScreenPlay 1391, 'M. Night Shyamalan'
+go
+inserirScreenPlay 1392, 'Greg Brooker'
+go
+inserirScreenPlay 1393, 'Cassandra Peterson'
+go
+inserirScreenPlay 1394, 'Sam Egan'
+go
+inserirScreenPlay 1395, 'David E. Talbert'
+go
+inserirScreenPlay 1396, 'Ramón Menéndez'
+go
+inserirScreenPlay 1397, 'Tom Musca'
+go
+inserirScreenPlay 1398, 'John R. Cherry III'
+go
+inserirScreenPlay 1399, 'Coke Sams'
+go
+inserirScreenPlay 1400, 'Carl Gottlieb'
+go
+inserirScreenPlay 1401, 'Howard Sackler'
+go
+inserirScreenPlay 1402, 'Michael Bortman'
+go
+inserirScreenPlay 1403, 'Everett Freeman'
+go
+inserirScreenPlay 1404, 'Claude Magnier'
+go
+inserirScreenPlay 1405, 'Helen Hunt'
+go
+inserirScreenPlay 1406, 'David Zucker'
+go
+inserirScreenPlay 1407, 'Chris Weitz'
+go
+inserirScreenPlay 1408, 'Paul Weitz'
+go
+inserirScreenPlay 1409, 'Todd Alcott'
+go
+inserirScreenPlay 1410, 'Don Jakoby'
+go
+inserirScreenPlay 1411, 'Wesley Strick'
+go
+inserirScreenPlay 1412, 'Carl Kleinschmidt'
+go
+inserirScreenPlay 1413, 'Javier Abad'
+go
+inserirScreenPlay 1414, 'Marcos Martínez'
+go
+inserirScreenPlay 1415, 'Joe Stillman'
+go
+inserirScreenPlay 1416, 'Richard C. Okie'
+go
+inserirScreenPlay 1417, 'Danny Bilson'
+go
+inserirScreenPlay 1418, 'Paul De Meo'
+go
+inserirScreenPlay 1419, 'Martin Davidson'
+go
+inserirScreenPlay 1420, 'Stephen F. Verona'
+go
+inserirScreenPlay 1421, 'Gayle Gleckler'
+go
+inserirScreenPlay 1422, 'Rudyard Kipling'
+go
+inserirScreenPlay 1423, 'Justin Marks'
+go
+inserirScreenPlay 1424, 'Jerry Zucker'
+go
+inserirScreenPlay 1425, 'Hélio Ribeiro'
+go
+inserirScreenPlay 1426, 'Joseph Brooks'
+go
+inserirScreenPlay 1427, 'Bernard Rose'
+go
+inserirScreenPlay 1428, 'Brian Hayles'
+go
+inserirScreenPlay 1429, 'Roy Boulting'
+go
+inserirScreenPlay 1430, 'Marti Leimbach'
+go
+inserirScreenPlay 1431, 'Richard Friedenberg'
+go
+inserirScreenPlay 1432, 'Michael Hitchcock'
+go
+inserirScreenPlay 1433, 'Robert L. Joseph'
+go
+inserirScreenPlay 1434, 'Meyer Dolinsky'
+go
+inserirScreenPlay 1435, 'Wendell Morris'
+go
+inserirScreenPlay 1436, 'Sholom Gelt'
+go
+inserirScreenPlay 1437, 'Masanori Hata'
+go
+inserirScreenPlay 1438, 'Steve Franks'
+go
+inserirScreenPlay 1439, 'Temple Mathews'
+go
+inserirScreenPlay 1440, 'Carter Crocker'
+go
+inserirScreenPlay 1441, 'John Rice'
+go
+inserirScreenPlay 1442, 'Wolfgang Petersen'
+go
+inserirScreenPlay 1443, 'Robert Easton'
+go
+inserirScreenPlay 1444, 'Herman Weigel'
+go
+inserirScreenPlay 1445, 'Eddie O''Flaherty'
+go
+inserirScreenPlay 1446, 'J. P. Davis'
+go
+inserirScreenPlay 1447, 'Eliana Fonseca'
+go
+inserirScreenPlay 1448, 'Evandro Mesquita'
+go
+inserirScreenPlay 1449, 'Cristiana Mesquita'
+go
+inserirScreenPlay 1450, 'George Arthur Bloom'
+go
+inserirScreenPlay 1451, 'Sandy Glass'
+go
+inserirScreenPlay 1452, 'Steven W. Carabatsos'
+go
+inserirScreenPlay 1453, 'Lloyd Fonvielle'
+go
+inserirScreenPlay 1454, 'Michael Almereyda'
+go
+inserirScreenPlay 1455, 'Lionel Jeffries'
+go
+inserirScreenPlay 1456, 'Mike Kenny'
+go
+inserirScreenPlay 1457, 'Cynthia Riddle'
+go
+inserirScreenPlay 1458, 'Peter Hunziker'
+go
+inserirScreenPlay 1459, 'Meg Cabot'
+go
+inserirScreenPlay 1460, 'Julie Sherman Wolfe'
+go
+inserirScreenPlay 1461, 'Amy Talkington'
+go
+inserirScreenPlay 1462, 'Craig Detweiler'
+go
+inserirScreenPlay 1463, 'Michael Davis'
+go
+inserirScreenPlay 1464, 'David Seidler'
+go
+inserirScreenPlay 1465, 'Jacqueline Feather'
+go
+inserirScreenPlay 1466, 'William Schifrin'
+go
+inserirScreenPlay 1467, 'Michael McDowell'
+go
+inserirScreenPlay 1468, 'Larry Wilson'
+go
+inserirScreenPlay 1469, 'Mark Twain'
+go
+inserirScreenPlay 1470, 'Patrick J. Clifton'
+go
+inserirScreenPlay 1471, 'Arthur Weiss'
+go
+inserirScreenPlay 1472, 'Charles O''Neal'
+go
+inserirScreenPlay 1473, 'Monroe Manning'
+go
+inserirScreenPlay 1474, 'Ernest Cline'
+go
+inserirScreenPlay 1475, 'Zak Penn'
+go
+inserirScreenPlay 1476, 'Kayla Alpert'
+go
+inserirScreenPlay 1477, 'Tim Firth'
+go
+inserirScreenPlay 1478, 'Bryan Goluboff'
+go
+inserirScreenPlay 1479, 'James Fargo'
+go
+inserirScreenPlay 1480, 'Franklin Thompson'
+go
+inserirScreenPlay 1481, 'Samuel Fuller'
+go
+inserirScreenPlay 1482, 'Curtis Hanson'
+go
+inserirScreenPlay 1483, 'William Joyce'
+go
+inserirScreenPlay 1484, 'Wayne Allan Rice'
+go
+inserirScreenPlay 1485, 'Doris Hume'
+go
+inserirScreenPlay 1486, 'Delmer Daves'
+go
+inserirScreenPlay 1487, 'George Wing'
+go
+inserirScreenPlay 1488, 'Mitch Glazer'
+go
+inserirScreenPlay 1489, 'Michael O''Donoghue'
+go
+inserirScreenPlay 1490, 'Richard Alan Simmons'
+go
+inserirScreenPlay 1491, 'Alan Plater'
+go
+inserirScreenPlay 1492, 'Steve Gordon'
+go
+inserirScreenPlay 1493, 'Tina Gordon Chism'
+go
+inserirScreenPlay 1494, 'Dani Valente'
+go
+inserirScreenPlay 1495, 'Laura Malin'
+go
+inserirScreenPlay 1496, 'Stuart Ross Fink'
+go
+inserirScreenPlay 1497, 'Leora Barish'
+go
+inserirScreenPlay 1498, 'Antônio Calmon'
+go
+inserirScreenPlay 1499, 'Willis Goldbeck'
+go
+inserirScreenPlay 1500, 'Roland Kibbee'
+go
+inserirScreenPlay 1501, 'Frank Davis'
+go
+inserirScreenPlay 1502, 'Danny Arnold'
+go
+inserirScreenPlay 1503, 'BenDavid Grabinski'
+go
+inserirScreenPlay 1504, 'Jay Longino'
+go
+inserirScreenPlay 1505, 'Norm Hunter'
+go
+inserirScreenPlay 1506, 'Tony Vidal'
+go
+inserirScreenPlay 1507, 'Oriol Paulo'
+go
+inserirScreenPlay 1508, 'Jordi Vallejo'
+go
+inserirScreenPlay 1509, 'Guillem Clua'
+go
+inserirScreenPlay 1510, 'Luis Lucas Ojeda'
+go
+inserirScreenPlay 1511, 'José Gallardo'
+go
+inserirScreenPlay 1512, 'Mae West'
+go
+inserirScreenPlay 1513, 'Marion Morgan'
+go
+inserirScreenPlay 1514, 'John Hodge'
+go
+inserirScreenPlay 1515, 'Mark Steven Johnson'
+go
+inserirScreenPlay 1516, 'Wells Root'
+go
+inserirScreenPlay 1517, 'Harold Greene'
+go
+inserirScreenPlay 1518, 'John Gay'
+go
+inserirScreenPlay 1519, 'René Hardy'
+go
+inserirScreenPlay 1520, 'William Marchant'
+go
+inserirScreenPlay 1521, 'Michael Golamco'
+go
+inserirScreenPlay 1522, 'Deborah Gregory'
+go
+inserirScreenPlay 1523, 'Alison Taylor'
+go
+inserirScreenPlay 1524, 'Bethesda Brown'
+go
+inserirScreenPlay 1525, 'Felicia Henderson'
+go
+inserirScreenPlay 1526, 'John Cleese'
+go
+inserirScreenPlay 1527, 'Emma Thompson'
+go
+inserirScreenPlay 1528, 'Nick Cassavetes'
+go
+inserirScreenPlay 1529, 'Jeremy Leven'
+go
+inserirScreenPlay 1530, 'Claudia Grazioso'
+go
+inserirScreenPlay 1531, 'Steven Gary Banks'
+go
+inserirScreenPlay 1532, 'Mark Jean'
+go
+inserirScreenPlay 1533, 'Michael Souther'
+go
+inserirScreenPlay 1534, 'Teza Lawrence'
+go
+inserirScreenPlay 1535, 'Kellie Ann Benz'
+go
+inserirScreenPlay 1536, 'Harry Crane'
+go
+inserirScreenPlay 1537, 'Michael H. Weber'
+go
+inserirScreenPlay 1538, 'Scott Neustadter'
+go
+inserirScreenPlay 1539, 'Cherie Bennett'
+go
+inserirScreenPlay 1540, 'Alan Marc Levy'
+go
+inserirScreenPlay 1541, 'Ernest Thompson'
+go
+inserirScreenPlay 1542, 'Laurent Tirard'
+go
+inserirScreenPlay 1543, 'Alain Chabat'
+go
+inserirScreenPlay 1544, 'Grégoire Vigneron'
+go
+inserirScreenPlay 1545, 'Sue Kramer'
+go
+inserirScreenPlay 1546, 'Dick Wolf'
+go
+inserirScreenPlay 1547, 'David Duncan'
+go
+inserirScreenPlay 1548, 'Peter Sauder'
+go
+inserirScreenPlay 1549, 'Norman Katkov'
+go
+inserirScreenPlay 1550, 'Max Wilk'
+go
+inserirScreenPlay 1551, 'Sally Meyer'
+go
+inserirScreenPlay 1552, 'Nelson Nadotti'
+go
+inserirScreenPlay 1553, 'Robert Presnell Jr.'
+go
+inserirScreenPlay 1554, 'Ben Hecht'
+go
+inserirScreenPlay 1555, 'Norman Taurog'
+go
+inserirScreenPlay 1556, 'Preston Sturges'
+go
+inserirScreenPlay 1557, 'Sidney Sheldon'
+go
+inserirScreenPlay 1558, 'John Michael Hayes'
+go
+inserirScreenPlay 1559, 'Giuseppe Colizzi'
+go
+inserirScreenPlay 1560, 'Herb Meadow'
+go
+inserirScreenPlay 1561, 'Harold Medford'
+go
+inserirScreenPlay 1562, 'Lowell S. Hawley'
+go
+inserirScreenPlay 1563, 'T.C. Smith'
+go
+inserirScreenPlay 1564, 'Roger Young'
+go
+inserirScreenPlay 1565, 'Dana Baratta'
+go
+inserirScreenPlay 1566, 'Paul Brickman'
+go
+inserirScreenPlay 1567, 'Barbara Benedek'
+go
+inserirScreenPlay 1568, 'Moshé Mizrahi'
+go
+inserirScreenPlay 1569, 'Paul Osborn'
+go
+inserirScreenPlay 1570, 'Silvia Reinhardt'
+go
+inserirScreenPlay 1571, 'Jan Lustig'
+go
+inserirScreenPlay 1572, 'Robert Shaw'
+go
+inserirScreenPlay 1573, 'Anthony Kimmins'
+go
+inserirScreenPlay 1574, 'Rex Rienits'
+go
+inserirScreenPlay 1575, 'Leigh Whannell'
+go
+inserirScreenPlay 1576, 'Larry McMurtry'
+go
+inserirScreenPlay 1577, 'David Gerrold'
+go
+inserirScreenPlay 1578, 'Seth Bass'
+go
+inserirScreenPlay 1579, 'Jonathan Tolins'
+go
+inserirScreenPlay 1580, 'Rick Rapoza'
+go
+inserirScreenPlay 1581, 'Matt Wheeler'
+go
+inserirScreenPlay 1582, 'Matt JL Wheeler'
+go
+inserirScreenPlay 1583, 'Peter Buchman'
+go
+inserirScreenPlay 1584, 'Jesse Wigutow'
+go
+inserirScreenPlay 1585, 'Josann McGibbon'
+go
+inserirScreenPlay 1586, 'Sara Parriott'
+go
+inserirScreenPlay 1587, 'June Diane Raphael'
+go
+inserirScreenPlay 1588, 'Casey Wilson'
+go
+inserirScreenPlay 1589, 'Greg DePaul'
+go
+inserirScreenPlay 1590, 'Jim Carrey'
+go
+inserirScreenPlay 1591, 'Tom Shadyac'
+go
+inserirScreenPlay 1592, 'Jack Bernstein'
+go
+inserirScreenPlay 1593, 'Richard Brooks'
+go
+inserirScreenPlay 1594, 'Sinclair Lewis'
+go
+inserirScreenPlay 1595, 'Bob Dolman'
+go
+inserirScreenPlay 1596, 'Jean-Jacques Sempé'
+go
+inserirScreenPlay 1597, 'Jaco Van Dormael'
+go
+inserirScreenPlay 1598, 'Ben Stassen'
+go
+inserirScreenPlay 1599, 'Domonic Paris'
+go
+inserirScreenPlay 1600, 'Dominic Paris'
+go
+inserirScreenPlay 1601, 'James R. Silke'
+go
+inserirScreenPlay 1602, 'John Farrow'
+go
+inserirScreenPlay 1603, 'Roberto Gianviti'
+go
+inserirScreenPlay 1604, 'Italo De Tuddo'
+go
+inserirScreenPlay 1605, 'Jason Keller'
+go
+inserirScreenPlay 1606, 'Marc Klein'
+go
+inserirScreenPlay 1607, 'Jon Lucas'
+go
+inserirScreenPlay 1608, 'Scott Moore'
+go
+inserirScreenPlay 1609, 'Daniel Altiere'
+go
+inserirScreenPlay 1610, 'Steven Altiere'
+go
+inserirScreenPlay 1611, 'John Landis'
+go
+inserirScreenPlay 1612, 'George Pal'
+go
+inserirScreenPlay 1613, 'Mario Puzo'
+go
+inserirScreenPlay 1614, 'Leslie Newman'
+go
+inserirScreenPlay 1615, 'Phillips'
+go
+inserirScreenPlay 1616, 'Maurice'
+go
+inserirScreenPlay 1617, 'Eduardo Schuldt'
+go
+inserirScreenPlay 1618, 'Michael Wogh'
+go
+inserirScreenPlay 1619, 'Judy Kellem'
+go
+inserirScreenPlay 1620, 'Pete Chiarelli'
+go
+inserirScreenPlay 1621, 'Peter Hedges'
+go
+inserirScreenPlay 1622, 'Marco Tullio Barboni'
+go
+inserirScreenPlay 1623, 'Leo Gordon'
+go
+inserirScreenPlay 1624, 'Mitchell Klebanoff'
+go
+inserirScreenPlay 1625, 'Mark Feldberg'
+go
+inserirScreenPlay 1626, 'Brian Hohlfeld'
+go
+inserirScreenPlay 1627, 'Bryan Forbes'
+go
+inserirScreenPlay 1628, 'Dava Savel'
+go
+inserirScreenPlay 1629, 'James Krieg'
+go
+inserirScreenPlay 1630, 'Rich Burns'
+go
+inserirScreenPlay 1631, 'Mort Nathan'
+go
+inserirScreenPlay 1632, 'Barry Fanaro'
+go
+inserirScreenPlay 1633, 'Maite Alberdi'
+go
+inserirScreenPlay 1634, 'Richard H. Landau'
+go
+inserirScreenPlay 1635, 'Anthony Peckham'
+go
+inserirScreenPlay 1636, 'Ziraldo Alves Pinto'
+go
+inserirScreenPlay 1637, 'Maria Gessy'
+go
+inserirScreenPlay 1638, 'Herman Raucher'
+go
+inserirScreenPlay 1639, 'Richard Pryor'
+go
+inserirScreenPlay 1640, 'Lonne Elder III'
+go
+inserirScreenPlay 1641, 'Roger L. Simon'
+go
+inserirScreenPlay 1642, 'Shimon Wincelberg'
+go
+inserirScreenPlay 1643, 'Francis Cockrell'
+go
+inserirScreenPlay 1644, 'Francis M. Cockrell'
+go
+inserirScreenPlay 1645, 'Don Payne'
+go
+inserirScreenPlay 1646, 'Jack Black'
+go
+inserirScreenPlay 1647, 'Rob Letterman'
+go
+inserirScreenPlay 1648, 'Heather Hach'
+go
+inserirScreenPlay 1649, 'Israel Horovitz'
+go
+inserirScreenPlay 1650, 'Fred Freeman'
+go
+inserirScreenPlay 1651, 'Larry Cohen'
+go
+inserirScreenPlay 1652, 'Lawrence J. Cohen'
+go
+inserirScreenPlay 1653, 'Pat Silver'
+go
+inserirScreenPlay 1654, 'Stanley Sheff'
+go
+inserirScreenPlay 1655, 'Bob Greenberg'
+go
+inserirScreenPlay 1656, 'Danilo Bach'
+go
+inserirScreenPlay 1657, 'Dan Scanlon'
+go
+inserirScreenPlay 1658, 'Lee Rose'
+go
+inserirScreenPlay 1659, 'Charles Schnee'
+go
+inserirScreenPlay 1660, 'John Sayles'
+go
+inserirScreenPlay 1661, 'Anne Dyer'
+go
+inserirScreenPlay 1662, 'Jonathan Kahn'
+go
+inserirScreenPlay 1663, 'Jonathan Cahn'
+go
+inserirScreenPlay 1664, 'Tim Hunter'
+go
+inserirScreenPlay 1665, 'Charles S. Haas'
+go
+inserirScreenPlay 1666, 'Jack DeWitt'
+go
+inserirScreenPlay 1667, 'Paul King'
+go
+inserirScreenPlay 1668, 'Joseph J. Stone'
+go
+inserirScreenPlay 1669, 'Stanley J. Shapiro'
+go
+inserirScreenPlay 1670, 'Lisa-Maria Radano'
+go
+inserirScreenPlay 1671, 'Phoef Sutton'
+go
+inserirScreenPlay 1672, 'Brian Pimental'
+go
+inserirScreenPlay 1673, 'Francisco Roncal'
+go
+inserirScreenPlay 1674, 'Jorge Lara'
+go
+inserirScreenPlay 1675, 'David Giler'
+go
+inserirScreenPlay 1676, 'Terry Hayes'
+go
+inserirScreenPlay 1677, 'Peter Ivan'
+go
+inserirScreenPlay 1678, 'Richard LaGravenese'
+go
+inserirScreenPlay 1679, 'Fred Gipson'
+go
+inserirScreenPlay 1680, 'William Tunberg'
+go
+inserirScreenPlay 1681, 'Marty Feldman'
+go
+inserirScreenPlay 1682, 'Chris Allen'
+go
+inserirScreenPlay 1683, 'Cacá Diegues'
+go
+inserirScreenPlay 1684, 'Chris Sanders'
+go
+inserirScreenPlay 1685, 'Dean DeBlois'
+go
+inserirScreenPlay 1686, 'Shawn Schepps'
+go
+inserirScreenPlay 1687, 'George Zaloom'
+go
+inserirScreenPlay 1688, 'Rob Lieber'
+go
+inserirScreenPlay 1689, 'Stu Silver'
+go
+inserirScreenPlay 1690, 'Kevan Peterson'
+go
+inserirScreenPlay 1691, 'Arthur Qwak'
+go
+inserirScreenPlay 1692, 'Frédéric Lenoir'
+go
+inserirScreenPlay 1693, 'Denise DeClue'
+go
+inserirScreenPlay 1694, 'Tim Kazurinsky'
+go
+inserirScreenPlay 1695, 'Ron L. Brinkerhoff'
+go
+inserirScreenPlay 1696, 'James Vanderbilt'
+go
+inserirScreenPlay 1697, 'Shana Feste'
+go
+inserirScreenPlay 1698, 'Marc Warren'
+go
+inserirScreenPlay 1699, 'Dennis Rinsler'
+go
+inserirScreenPlay 1700, 'Sean McNamara'
+go
+inserirScreenPlay 1701, 'Jeff Phillips'
+go
+inserirScreenPlay 1702, 'Ellis Kadison'
+go
+inserirScreenPlay 1703, 'Nelson Gidding'
+go
+inserirScreenPlay 1704, 'Andrea Gyertson Nasfell'
+go
+inserirScreenPlay 1705, 'Jonah Lisa Dyer'
+go
+inserirScreenPlay 1706, 'Stephen Dyer'
+go
+inserirScreenPlay 1707, 'Jorge R. Gutierrez'
+go
+inserirScreenPlay 1708, 'Larry Levinson'
+go
+inserirScreenPlay 1709, 'Steve Bing'
+go
+inserirScreenPlay 1710, 'Arthur Silver'
+go
+inserirScreenPlay 1711, 'Nigel Kneale'
+go
+inserirScreenPlay 1712, 'Jan Read'
+go
+inserirScreenPlay 1713, 'Sean Anders'
+go
+inserirScreenPlay 1714, 'Brian Burns'
+go
+inserirScreenPlay 1715, 'John Morris'
+go
+inserirScreenPlay 1716, 'Sidney Buchman'
+go
+inserirScreenPlay 1717, 'Harry Chandlee'
+go
+inserirScreenPlay 1718, 'Stephen Longstreet'
+go
+inserirScreenPlay 1719, 'Andrew Solt'
+go
+inserirScreenPlay 1720, 'Nina Weinman'
+go
+inserirScreenPlay 1721, 'Talia Green'
+go
+inserirScreenPlay 1722, 'Michael Vickerman'
+go
+inserirScreenPlay 1723, 'Hugh Kelley'
+go
+inserirScreenPlay 1724, 'Patrick Read Johnson'
+go
+inserirScreenPlay 1725, 'Scott L Alexander'
+go
+inserirScreenPlay 1726, 'Charlotte de Turckheim'
+go
+inserirScreenPlay 1727, 'Gladys Marciano'
+go
+inserirScreenPlay 1728, 'Jeanne Le Guillou'
+go
+inserirScreenPlay 1729, 'John Loy'
+go
+inserirScreenPlay 1730, 'Arthur Laurents'
+go
+inserirScreenPlay 1731, 'Guy Bolton'
+go
+inserirScreenPlay 1732, 'John Trevor Wolff'
+go
+inserirScreenPlay 1733, 'Bryant Christ'
+go
+inserirScreenPlay 1734, 'Barry Pullman'
+go
+inserirScreenPlay 1735, 'Jacques Demy'
+go
+inserirScreenPlay 1736, 'Andrew Birkin'
+go
+inserirScreenPlay 1737, 'Mark Peploe'
+go
+inserirScreenPlay 1738, 'Mark Rosman'
+go
+inserirScreenPlay 1739, 'Stephanie Moore'
+go
+inserirScreenPlay 1740, 'Jeff Kanew'
+go
+inserirScreenPlay 1741, 'Milt Banta'
+go
+inserirScreenPlay 1742, 'Joe Rinaldi'
+go
+inserirScreenPlay 1743, 'April Kelly'
+go
+inserirScreenPlay 1744, 'Park Jae Woo'
+go
+inserirScreenPlay 1745, 'James Greco'
+go
+inserirScreenPlay 1746, 'Zachary Rosenblatt'
+go
+inserirScreenPlay 1747, 'Adam Beechen'
+go
+inserirScreenPlay 1748, 'James J. Greco'
+go
+inserirScreenPlay 1749, 'Martyn Burke'
+go
+inserirScreenPlay 1750, 'Carl Reiner'
+go
+inserirScreenPlay 1751, 'Aaron Ruben'
+go
+inserirScreenPlay 1752, 'Marianne Wibberley'
+go
+inserirScreenPlay 1753, 'Cormac Wibberley'
+go
+inserirScreenPlay 1754, 'Richard Quine'
+go
+inserirScreenPlay 1755, 'Brent McCorkle'
+go
+inserirScreenPlay 1756, 'Ol Parker'
+go
+inserirScreenPlay 1757, 'Jenny Downham'
+go
+inserirScreenPlay 1758, 'Melissa Rosenberg'
+go
+inserirScreenPlay 1759, 'Richard Rush'
+go
+inserirScreenPlay 1760, 'John Eskow'
+go
+inserirScreenPlay 1761, 'Don Tait'
+go
+inserirScreenPlay 1762, 'Felix Salten'
+go
+inserirScreenPlay 1763, 'John Pielmeier'
+go
+inserirScreenPlay 1764, 'Sy Bartlett'
+go
+inserirScreenPlay 1765, 'Robert Pirosh'
+go
+inserirScreenPlay 1766, 'Paulo Mendes Campos'
+go
+inserirScreenPlay 1767, 'Pedro Amorim'
+go
+inserirScreenPlay 1768, 'Ricardo Tiezzi'
+go
+inserirScreenPlay 1769, 'Rafinha Bastos'
+go
+inserirScreenPlay 1770, 'Camila Raffanti'
+go
+inserirScreenPlay 1771, 'Turi Meyer'
+go
+inserirScreenPlay 1772, 'Michael Angeli'
+go
+inserirScreenPlay 1773, 'Al Septien'
+go
+inserirScreenPlay 1774, 'Parker Bennett'
+go
+inserirScreenPlay 1775, 'Terry Runte'
+go
+inserirScreenPlay 1776, 'Jerry Sterner'
+go
+inserirScreenPlay 1777, 'Leo McCarey'
+go
+inserirScreenPlay 1778, 'Donald Ogden Stewart'
+go
+inserirScreenPlay 1779, 'Cynthia Cherbak'
+go
+inserirScreenPlay 1780, 'Michael Wing'
+go
+inserirScreenPlay 1781, 'Richard Altabef'
+go
+inserirScreenPlay 1782, 'Barry Glasser'
+go
+inserirScreenPlay 1783, 'Richard Kletter'
+go
+inserirScreenPlay 1784, 'Jerome Kass'
+go
+inserirScreenPlay 1785, 'Edward Childs Carpenter'
+go
+inserirScreenPlay 1786, 'Theodore Pratt'
+go
+inserirScreenPlay 1787, 'John C Rose'
+go
+inserirScreenPlay 1788, 'Jameson Brewer'
+go
+inserirScreenPlay 1789, 'Ken Scott'
+go
+inserirScreenPlay 1790, 'Martin Petit'
+go
+inserirScreenPlay 1791, 'Jeff Nimoy'
+go
+inserirScreenPlay 1792, 'Akiyoshi Hongo'
+go
+inserirScreenPlay 1793, 'Reiko Yoshida'
+go
+inserirScreenPlay 1794, 'Bob Buchholz'
+go
+inserirScreenPlay 1795, 'Nia Vardalos'
+go
+inserirScreenPlay 1796, 'Arne Olsen'
+go
+inserirScreenPlay 1797, 'Caliope Brattlestreet'
+go
+inserirScreenPlay 1798, 'Stephen Glantz'
+go
+inserirScreenPlay 1799, 'Rick Riordan'
+go
+inserirScreenPlay 1800, 'Craig Titley'
+go
+inserirScreenPlay 1801, 'Stephen P. Lindsey'
+go
+inserirScreenPlay 1802, 'Chuck Konzelman'
+go
+inserirScreenPlay 1803, 'Cary Solomon'
+go
+inserirScreenPlay 1804, 'R. Lee Fleming Jr.'
+go
+inserirScreenPlay 1805, 'Moe Jelline'
+go
+inserirScreenPlay 1806, 'Karen McCullah'
+go
+inserirScreenPlay 1807, 'Kirsten Smith'
+go
+inserirScreenPlay 1808, 'Jan Sardi'
+go
+inserirScreenPlay 1809, 'Juan José Jusid'
+go
+inserirScreenPlay 1810, 'Oliver Kolker'
+go
+inserirScreenPlay 1811, 'Cesar Gomez Copello'
+go
+inserirScreenPlay 1812, 'Nicholas DiBella'
+go
+inserirScreenPlay 1813, 'Chris Haddock'
+go
+inserirScreenPlay 1814, 'Michael Deakin'
+go
+inserirScreenPlay 1815, 'Harv Zimmel'
+go
+inserirScreenPlay 1816, 'Daniel Petrie Jr.'
+go
+inserirScreenPlay 1817, 'Winston Miller'
+go
+inserirScreenPlay 1818, 'Edmund H. North'
+go
+inserirScreenPlay 1819, 'Larry Rhine'
+go
+inserirScreenPlay 1820, 'Juan Vera'
+go
+inserirScreenPlay 1821, 'Mariano Vera'
+go
+inserirScreenPlay 1822, 'Andy Breckman'
+go
+inserirScreenPlay 1823, 'Steno'
+go
+inserirScreenPlay 1824, 'Adriano Bolzoni'
+go
+inserirScreenPlay 1825, 'Massimo Franciosa'
+go
+inserirScreenPlay 1826, 'Harry Alan Towers'
+go
+inserirScreenPlay 1827, 'Dave Freeman'
+go
+inserirScreenPlay 1828, 'David Freeman'
+go
+inserirScreenPlay 1829, 'Kathryn McCullough'
+go
+inserirScreenPlay 1830, 'David Kendall'
+go
+inserirScreenPlay 1831, 'Bob Young'
+go
+inserirScreenPlay 1832, 'Vivian Perl'
+go
+inserirScreenPlay 1833, 'Jane Wagner'
+go
+inserirScreenPlay 1834, 'Aguinaldo Silva'
+go
+inserirScreenPlay 1835, 'Ricardo Linhares'
+go
+inserirScreenPlay 1836, 'Nell Scovell'
+go
+inserirScreenPlay 1837, 'Gerald Gardner'
+go
+inserirScreenPlay 1838, 'Dee Caruso'
+go
+inserirScreenPlay 1839, 'Justin Zackham'
+go
+inserirScreenPlay 1840, 'Kristofor Brown'
+go
+inserirScreenPlay 1841, 'Noel Black'
+go
+inserirScreenPlay 1842, 'Douglas Grossman'
+go
+inserirScreenPlay 1843, 'Leslie Stevens'
+go
+inserirScreenPlay 1844, 'Allan Weiss'
+go
+inserirScreenPlay 1845, 'Harry Essex'
+go
+inserirScreenPlay 1846, 'William H. Wright'
+go
+inserirScreenPlay 1847, 'C. S. Forester'
+go
+inserirScreenPlay 1848, 'Aeneas MacKenzie'
+go
+inserirScreenPlay 1849, 'James Justinian Morier'
+go
+inserirScreenPlay 1850, 'Richard Collins'
+go
+inserirScreenPlay 1851, 'Tim Doyle'
+go
+inserirScreenPlay 1852, 'Savage Steve Holland'
+go
+inserirScreenPlay 1853, 'Charles Parker'
+go
+inserirScreenPlay 1854, 'Allen DeBevoise'
+go
+inserirScreenPlay 1855, 'Julie Reichert'
+go
+inserirScreenPlay 1856, 'Jan Ventura'
+go
+inserirScreenPlay 1857, 'Steven Lisberger'
+go
+inserirScreenPlay 1858, 'Andy Berg'
+go
+inserirScreenPlay 1859, 'Andy Burg'
+go
+inserirScreenPlay 1860, 'Mary Walsh'
+go
+inserirScreenPlay 1861, 'Heather Conkie'
+go
+inserirScreenPlay 1862, 'Valerie Curtin'
+go
+inserirScreenPlay 1863, 'Aleksej Kapler'
+go
+inserirScreenPlay 1864, 'Alfred Hayes'
+go
+inserirScreenPlay 1865, 'Hugh Whitemore'
+go
+inserirScreenPlay 1866, 'Irene Kamp'
+go
+inserirScreenPlay 1867, 'Louis Kamp'
+go
+inserirScreenPlay 1868, 'Michael Wilson'
+go
+inserirScreenPlay 1869, 'Roald Dahl'
+go
+inserirScreenPlay 1870, 'Ken Hughes'
+go
+inserirScreenPlay 1871, 'The Birthday Cake'
+go
+inserirScreenPlay 1872, 'Queen Of Carthage'
+go
+inserirScreenPlay 1873, 'Victor Lima'
+go
+inserirScreenPlay 1874, 'Mitch Davis'
+go
+inserirScreenPlay 1875, 'Parker Davis'
+go
+inserirScreenPlay 1876, 'Benny Chan'
+go
+inserirScreenPlay 1877, 'Alan Yuen'
+go
+inserirScreenPlay 1878, 'Deborah Dean Davis'
+go
+inserirScreenPlay 1879, 'Ray Galton'
+go
+inserirScreenPlay 1880, 'Alan Simpson'
+go
+inserirScreenPlay 1881, 'William Asher'
+go
+inserirScreenPlay 1882, 'Leo Townsend'
+go
+inserirScreenPlay 1883, 'Andrew Lowery'
+go
+inserirScreenPlay 1884, 'Andrew Miller'
+go
+inserirScreenPlay 1885, 'Richard L. Breen'
+go
+inserirScreenPlay 1886, 'T. E. B. Clarke'
+go
+inserirScreenPlay 1887, 'James Goldman'
+go
+inserirScreenPlay 1888, 'Timothy Dowling'
+go
+inserirScreenPlay 1889, 'I. A. L. Diamond'
+go
+inserirScreenPlay 1890, 'Marc Silverstein'
+go
+inserirScreenPlay 1891, 'Abby Kohn'
+go
+inserirScreenPlay 1892, 'Christopher Nolan'
+go
+inserirScreenPlay 1893, 'Laurie Nolan'
+go
+inserirScreenPlay 1894, 'Chris Nolan'
+go
+inserirScreenPlay 1895, 'Steven Bloom'
+go
+inserirScreenPlay 1896, 'Sylvio Tabet'
+go
+inserirScreenPlay 1897, 'Don Coscarelli'
+go
+inserirScreenPlay 1898, 'Ken Hauser'
+go
+inserirScreenPlay 1899, 'R.J. Robertson'
+go
+inserirScreenPlay 1900, 'Jim Wynorski'
+go
+inserirScreenPlay 1901, 'Doug Miles'
+go
+inserirScreenPlay 1902, 'Paul Pepperman'
+go
+inserirScreenPlay 1903, 'Robert E. Howard'
+go
+inserirScreenPlay 1904, 'Thomas Lilti'
+go
+inserirScreenPlay 1905, 'Baya Kasmi'
+go
+inserirScreenPlay 1906, 'Rock Reuben'
+go
+inserirScreenPlay 1907, 'Bradley Raymond'
+go
+inserirScreenPlay 1908, 'Jeffrey M. Howard'
+go
+inserirScreenPlay 1909, 'Ann M. Martin'
+go
+inserirScreenPlay 1910, 'Rachel Shukert'
+go
+inserirScreenPlay 1911, 'Marcello Fondato'
+go
+inserirScreenPlay 1912, 'Jesús R. Folgar'
+go
+inserirScreenPlay 1913, 'Francesco Scardamaglia'
+go
+inserirScreenPlay 1914, 'Vicente Coello'
+go
+inserirScreenPlay 1915, 'Julian Fellowes'
+go
+inserirScreenPlay 1916, 'Arthur Brooke'
+go
+inserirScreenPlay 1917, 'Susannah Grant'
+go
+inserirScreenPlay 1918, 'Arthur Sheekman'
+go
+inserirScreenPlay 1919, 'James R. Webb'
+go
+inserirScreenPlay 1920, 'Helen Logan'
+go
+inserirScreenPlay 1921, 'Joseph Schrank'
+go
+inserirScreenPlay 1922, 'Robert Ellis'
+go
+inserirScreenPlay 1923, 'John Gatins'
+go
+inserirScreenPlay 1924, 'Leslie Bohem'
+go
+inserirScreenPlay 1925, 'José Joffily'
+go
+inserirScreenPlay 1926, 'Johnston McCulley'
+go
+inserirScreenPlay 1927, 'Hal Dresner'
+go
+inserirScreenPlay 1928, 'David Odell'
+go
+inserirScreenPlay 1929, 'Mônica Martelli'
+go
+inserirScreenPlay 1930, 'Susana Garcia'
+go
+inserirScreenPlay 1931, 'Jessica Barondes'
+go
+inserirScreenPlay 1932, 'Mark Cullen'
+go
+inserirScreenPlay 1933, 'Robb Cullen'
+go
+inserirScreenPlay 1934, 'Paul Dini'
+go
+inserirScreenPlay 1935, 'Peter Gould'
+go
+inserirScreenPlay 1936, 'Caleb Carr'
+go
+inserirScreenPlay 1937, 'William Roberts'
+go
+inserirScreenPlay 1938, 'Todd Graff'
+go
+inserirScreenPlay 1939, 'Charles McCarry'
+go
+inserirScreenPlay 1940, 'George B. Seitz'
+go
+inserirScreenPlay 1941, 'Basil Dickey'
+go
+inserirScreenPlay 1942, 'Aury Wallington'
+go
+inserirScreenPlay 1943, 'Leonardo Levis'
+go
+inserirScreenPlay 1944, 'Jule Selbo'
+go
+inserirScreenPlay 1945, 'James Flynn'
+go
+inserirScreenPlay 1946, 'Alexandre Dumas, pai'
+go
+inserirScreenPlay 1947, 'Philip Dunne'
+go
+inserirScreenPlay 1948, 'Jerome Cady'
+go
+inserirScreenPlay 1949, 'Miguel Tejada-Flores'
+go
+inserirScreenPlay 1950, 'James Bridges'
+go
+inserirScreenPlay 1951, 'Craig Pearce'
+go
+inserirScreenPlay 1952, 'Jon Erwin'
+go
+inserirScreenPlay 1953, 'Pete McCormack'
+go
+inserirScreenPlay 1954, 'Brian Grazer'
+go
+inserirScreenPlay 1955, 'James Keach'
+go
+inserirScreenPlay 1956, 'Donald Wrye'
+go
+inserirScreenPlay 1957, 'Gary L. Baim'
+go
+inserirScreenPlay 1958, 'Donald'
+go
+inserirScreenPlay 1959, 'Wrye'
+go
+inserirScreenPlay 1960, 'Gill Dennis'
+go
+inserirScreenPlay 1961, 'Corey Allen'
+go
+inserirScreenPlay 1962, 'Frances Doel'
+go
+inserirScreenPlay 1963, 'Claude Pola'
+go
+inserirScreenPlay 1964, 'Gavin Lambert'
+go
+inserirScreenPlay 1965, 'Roy Blount Jr.'
+go
+inserirScreenPlay 1966, 'Vince Vaughn'
+go
+inserirScreenPlay 1967, 'Jared Stern'
+go
+inserirScreenPlay 1968, 'Joe Wiesenfeld'
+go
+inserirScreenPlay 1969, 'Noel Langley'
+go
+inserirScreenPlay 1970, 'Charles Z. Wick'
+go
+inserirScreenPlay 1971, 'Duccio Tessari'
+go
+inserirScreenPlay 1972, 'Alfonso Balcázar'
+go
+inserirScreenPlay 1973, 'Fernando Di Leo'
+go
+inserirScreenPlay 1974, 'David Hayter'
+go
+inserirScreenPlay 1975, 'Michael Dougherty'
+go
+inserirScreenPlay 1976, 'Dan Harris'
+go
+inserirScreenPlay 1977, 'Bart Baker'
+go
+inserirScreenPlay 1978, 'Paul W. S. Anderson'
+go
+inserirScreenPlay 1979, 'Andrew Davies'
+go
+inserirScreenPlay 1980, 'Alex Litvak'
+go
+inserirScreenPlay 1981, 'Aaron Mendelsohn'
+go
+inserirScreenPlay 1982, 'Paul Tamasy'
+go
+inserirScreenPlay 1983, 'Michael LeSieur'
+go
+inserirScreenPlay 1984, 'Michael Schiffer'
+go
+inserirScreenPlay 1985, 'Cláudio Torres Gonzaga'
+go
+inserirScreenPlay 1986, 'Carlos Cardoso'
+go
+inserirScreenPlay 1987, 'Peter Baynham'
+go
+inserirScreenPlay 1988, 'Gavin Scott'
+go
+inserirScreenPlay 1989, 'W. Peter Iliff'
+go
+inserirScreenPlay 1990, 'Scott Lewis'
+go
+inserirScreenPlay 1991, 'Catherine Cyran'
+go
+inserirScreenPlay 1992, 'James Edward Grant'
+go
+inserirScreenPlay 1993, 'James A. Michener'
+go
+inserirScreenPlay 1994, 'Tracy Keenan Wynn'
+go
+inserirScreenPlay 1995, 'Marshall Thompson'
+go
+inserirScreenPlay 1996, 'Alan Caillou'
+go
+inserirScreenPlay 1997, 'Tim Rasmussen'
+go
+inserirScreenPlay 1998, 'Vince Di Meglio'
+go
+inserirScreenPlay 1999, 'Jeff Franklin'
+go
+inserirScreenPlay 2000, 'Penelope Spheeris'
+go
+inserirScreenPlay 2001, 'R. S. Allen'
+go
+inserirScreenPlay 2002, 'Harvey Bullock'
+go
+inserirScreenPlay 2003, 'Peter Howitt'
+go
+inserirScreenPlay 2004, 'Erik Patterson'
+go
+inserirScreenPlay 2005, 'Danielle Joseph'
+go
+inserirScreenPlay 2006, 'Jessica Scott'
+go
+inserirScreenPlay 2007, 'Lawrence Lasker'
+go
+inserirScreenPlay 2008, 'Stanley Weiser'
+go
+inserirScreenPlay 2009, 'Maxwell Shane'
+go
+inserirScreenPlay 2010, 'Allan Scott'
+go
+inserirScreenPlay 2011, 'Gwen Bagni'
+go
+inserirScreenPlay 2012, 'Paul Dubov'
+go
+inserirScreenPlay 2013, 'Peter Berneis'
+go
+inserirScreenPlay 2014, 'L. Frank Baum'
+go
+inserirScreenPlay 2015, 'Joel Schumacher'
+go
+inserirScreenPlay 2016, 'Nancey Silvers'
+go
+inserirScreenPlay 2017, 'Grímur Hákonarson'
+go
+inserirScreenPlay 2018, 'Bennett Tramer'
+go
+inserirScreenPlay 2019, 'Talbot Jennings'
+go
+inserirScreenPlay 2020, 'Kevin Bisch'
+go
+inserirScreenPlay 2021, 'Sam Harper'
+go
+inserirScreenPlay 2022, 'Randolph Davis'
+go
+inserirScreenPlay 2023, 'Michele S. Chodos'
+go
+inserirScreenPlay 2024, 'Dan Harmon'
+go
+inserirScreenPlay 2025, 'Pamela Pettler'
+go
+inserirScreenPlay 2026, 'Rob Schrab'
+go
+inserirScreenPlay 2027, 'Ron Schrab'
+go
+inserirScreenPlay 2028, 'Joseph Hoffman'
+go
+inserirScreenPlay 2029, 'Paul Wayne'
+go
+inserirScreenPlay 2030, 'Flávia Lins e Silva'
+go
+inserirScreenPlay 2031, 'Mirna Nogueira'
+go
+inserirScreenPlay 2032, 'Peter Seaman'
+go
+inserirScreenPlay 2033, 'Andrei Konchalovsky'
+go
+inserirScreenPlay 2034, 'Chris Solimine'
+go
+inserirScreenPlay 2035, 'Shari Goodhartz'
+go
+inserirScreenPlay 2036, 'Stephen Curwick'
+go
+inserirScreenPlay 2037, 'Bill Forsyth'
+go
+inserirScreenPlay 2038, 'Todd W. Langen'
+go
+inserirScreenPlay 2039, '???? ?. ??????'
+go
+inserirScreenPlay 2040, 'Michael Preminger'
+go
+inserirScreenPlay 2041, 'Rick Podell'
+go
+inserirScreenPlay 2042, 'Heloísa Périssé'
+go
+inserirScreenPlay 2043, 'Tiza Lobo'
+go
+inserirScreenPlay 2044, 'Larry Karaszewski'
+go
+inserirScreenPlay 2045, 'Scott Alexander'
+go
+inserirScreenPlay 2046, 'Matthew Berry'
+go
+inserirScreenPlay 2047, 'Eric Abrams'
+go
+inserirScreenPlay 2048, 'Anna Sewell'
+go
+inserirScreenPlay 2049, 'Ashley Avis'
+go
+inserirScreenPlay 2050, 'Max Botkin'
+go
+inserirScreenPlay 2051, 'Avi Arad'
+go
+inserirScreenPlay 2052, 'Peter Glenville'
+go
+inserirScreenPlay 2053, 'Jean-Claude Carrière'
+go
+inserirScreenPlay 2054, 'Sean Moynihan'
+go
+inserirScreenPlay 2055, 'Stefan Westerwelle'
+go
+inserirScreenPlay 2056, 'Hannah Schweier'
+go
+inserirScreenPlay 2057, 'Andrew Price'
+go
+inserirScreenPlay 2058, 'Mark Edward Edens'
+go
+inserirScreenPlay 2059, 'Stuart Morse'
+go
+inserirScreenPlay 2060, 'Adam Rockoff'
+go
+inserirScreenPlay 2061, 'Jonathan Demme'
+go
+inserirScreenPlay 2062, 'Hadley Davis'
+go
+inserirScreenPlay 2063, 'Jenni Konner'
+go
+inserirScreenPlay 2064, 'Nanea Miyata'
+go
+inserirScreenPlay 2065, 'Marcos Carnevale'
+go
+inserirScreenPlay 2066, 'Albert Maltz'
+go
+inserirScreenPlay 2067, 'Bruno Vailati'
+go
+inserirScreenPlay 2068, 'Augusto Frassineti'
+go
+inserirScreenPlay 2069, 'Douglas McGrath'
+go
+inserirScreenPlay 2070, 'Joe Gayton'
+go
+inserirScreenPlay 2071, 'Donald Gordon Payne'
+go
+inserirScreenPlay 2072, 'John Whedon'
+go
+inserirScreenPlay 2073, 'Dennis Gansel'
+go
+inserirScreenPlay 2074, 'Peter Thorwarth'
+go
+inserirScreenPlay 2075, 'Ron Birnbach'
+go
+inserirScreenPlay 2076, 'Johnny Dawkins'
+go
+inserirScreenPlay 2077, 'Robert Smith'
+go
+inserirScreenPlay 2078, 'John Herzfeld'
+go
+inserirScreenPlay 2079, 'Albert Husson'
+go
+inserirScreenPlay 2080, 'Ranald MacDougall'
+go
+inserirScreenPlay 2081, 'Boaz Davidson'
+go
+inserirScreenPlay 2082, 'Klay Hall'
+go
+inserirScreenPlay 2083, 'Evan Spiliotopoulos'
+go
+inserirScreenPlay 2084, 'Jonathan M. Shiff'
+go
+inserirScreenPlay 2085, 'David Phillips'
+go
+inserirScreenPlay 2086, 'Aldo Barni'
+go
+inserirScreenPlay 2087, 'Dean Vert'
+go
+inserirScreenPlay 2088, 'Giorgio Costantini'
+go
+inserirScreenPlay 2089, 'Dino Sant''Ambrogio'
+go
+inserirScreenPlay 2090, 'Lewis Meltzer'
+go
+inserirScreenPlay 2091, 'Norman Corwin'
+go
+inserirScreenPlay 2092, 'Oscar Saul'
+go
+inserirScreenPlay 2093, 'Irving Fineman'
+go
+inserirScreenPlay 2094, 'Matthew Vaughn'
+go
+inserirScreenPlay 2095, 'Jane Goldman'
+go
+inserirScreenPlay 2096, 'Matthew Vaughan'
+go
+inserirScreenPlay 2097, 'Robert Wolterstorff'
+go
+inserirScreenPlay 2098, 'Mike Scott'
+go
+inserirScreenPlay 2099, 'Buck Henry'
+go
+inserirScreenPlay 2100, 'John Lyde'
+go
+inserirScreenPlay 2101, 'John Mowod'
+go
+inserirScreenPlay 2102, 'Larry Richert'
+go
+inserirScreenPlay 2103, 'Linda Morris'
+go
+inserirScreenPlay 2104, 'Barry Strugatz'
+go
+inserirScreenPlay 2105, 'Mark R. Burns'
+go
+inserirScreenPlay 2106, 'James Becket'
+go
+inserirScreenPlay 2107, 'Ángel García Roldán'
+go
+inserirScreenPlay 2108, 'Piti Español'
+go
+inserirScreenPlay 2109, 'Michael D. Weiss'
+go
+inserirScreenPlay 2110, 'Theresa Preston'
+go
+inserirScreenPlay 2111, 'Darryl Quarles'
+go
+inserirScreenPlay 2112, 'Matthew Fogel'
+go
+inserirScreenPlay 2113, 'Mauricio de Sousa'
+go
+inserirScreenPlay 2114, 'A. J. Carothers'
+go
+inserirScreenPlay 2115, 'Barney Dean'
+go
+inserirScreenPlay 2116, 'Frank Butler'
+go
+inserirScreenPlay 2117, 'Michael Gottlieb'
+go
+inserirScreenPlay 2118, 'Dick Clair'
+go
+inserirScreenPlay 2119, 'Tyler Perry'
+go
+inserirScreenPlay 2120, 'Nancy Dowd'
+go
+inserirScreenPlay 2121, 'Tom Holland'
+go
+inserirScreenPlay 2122, 'Cornell Woolrich'
+go
+inserirScreenPlay 2123, 'Bob Ross'
+go
+inserirScreenPlay 2124, 'Thomas Rickman'
+go
+inserirScreenPlay 2125, 'Henri Jeanson'
+go
+inserirScreenPlay 2126, 'Julien Duvivier'
+go
+inserirScreenPlay 2127, 'Augustus Goetz'
+go
+inserirScreenPlay 2128, 'Ruth Goetz'
+go
+inserirScreenPlay 2129, 'Mark Bomback'
+go
+inserirScreenPlay 2130, 'Mandie Fletcher'
+go
+inserirScreenPlay 2131, 'Vanessa Davies'
+go
+inserirScreenPlay 2132, 'Paul de Vos'
+go
+inserirScreenPlay 2133, 'Anna Penido'
+go
+inserirScreenPlay 2134, 'E. C. Segar'
+go
+inserirScreenPlay 2135, 'Jules Feiffer'
+go
+inserirScreenPlay 2136, 'Lewis R. Foster'
+go
+inserirScreenPlay 2137, 'Christian Clavier'
+go
+inserirScreenPlay 2138, 'Jean-Marie Poiré'
+go
+inserirScreenPlay 2139, 'Joel Paul Reisig'
+go
+inserirScreenPlay 2140, 'Jeffrey Nachmanoff'
+go
+inserirScreenPlay 2141, 'Rick Friedberg'
+go
+inserirScreenPlay 2142, 'Jason Friedberg'
+go
+inserirScreenPlay 2143, 'Aaron Seltzer'
+go
+inserirScreenPlay 2144, 'Dick Chudnow'
+go
+inserirScreenPlay 2145, 'Jim Jennewein'
+go
+inserirScreenPlay 2146, 'Tom S. Parker'
+go
+inserirScreenPlay 2147, 'Scott Martin'
+go
+inserirScreenPlay 2148, 'Peter Sullivan'
+go
+inserirScreenPlay 2149, 'Rasheeda Garner'
+go
+inserirScreenPlay 2150, 'Pete Sullivan'
+go
+inserirScreenPlay 2151, 'Brian Moore'
+go
+inserirScreenPlay 2152, 'Keith Waterhouse'
+go
+inserirScreenPlay 2153, 'Willis Hall'
+go
+inserirScreenPlay 2154, 'Bruce Hart'
+go
+inserirScreenPlay 2155, 'Carole Hart'
+go
+inserirScreenPlay 2156, 'Reem Kherici'
+go
+inserirScreenPlay 2157, 'Philippe Lacheau'
+go
+inserirScreenPlay 2158, 'Morgan Spillemaecker'
+go
+inserirScreenPlay 2159, 'Carrie Fisher'
+go
+inserirScreenPlay 2160, 'Sheridan Gibney'
+go
+inserirScreenPlay 2161, 'James Wong'
+go
+inserirScreenPlay 2162, 'Akira Toriyama'
+go
+inserirScreenPlay 2163, 'Ben Ramsey'
+go
+inserirScreenPlay 2164, 'Jay Ward'
+go
+inserirScreenPlay 2165, 'Bill Scott'
+go
+inserirScreenPlay 2166, 'Jordan Moffet'
+go
+inserirScreenPlay 2167, 'Cynthia Whitcomb'
+go
+inserirScreenPlay 2168, 'Holly Goldberg Sloan'
+go
+inserirScreenPlay 2169, 'Marti Noxon'
+go
+inserirScreenPlay 2170, 'Mary O''Hara'
+go
+inserirScreenPlay 2171, 'Glenn Leopold'
+go
+inserirScreenPlay 2172, 'Steven Brill'
+go
+inserirScreenPlay 2173, 'Jim Burnstein'
+go
+inserirScreenPlay 2174, 'Kenneth Johnson'
+go
+inserirScreenPlay 2175, 'Stan Daniels'
+go
+inserirScreenPlay 2176, 'Ed. Weinberger'
+go
+inserirScreenPlay 2177, 'Sally Benson'
+go
+inserirScreenPlay 2178, 'Sarah Smith'
+go
+inserirScreenPlay 2179, 'Jamie Uys'
+go
+inserirScreenPlay 2180, 'Greg Glienna'
+go
+inserirScreenPlay 2181, 'Larry Stuckey'
+go
+inserirScreenPlay 2182, 'Mary Ruth Clarke'
+go
+inserirScreenPlay 2183, 'Greg Erb'
+go
+inserirScreenPlay 2184, 'Craig Mazin'
+go
+inserirScreenPlay 2185, 'Leon Griffiths'
+go
+inserirScreenPlay 2186, 'Gerald Drayson'
+go
+inserirScreenPlay 2187, 'Ron McGee'
+go
+inserirScreenPlay 2188, 'Steve Haberman'
+go
+inserirScreenPlay 2189, 'Robert Totten'
+go
+inserirScreenPlay 2190, 'John Steinbeck'
+go
+inserirScreenPlay 2191, 'Ron Bishop'
+go
+inserirScreenPlay 2192, 'Gabrielle Upton'
+go
+inserirScreenPlay 2193, 'Peter Gaulke'
+go
+inserirScreenPlay 2194, 'Gerry Swallow'
+go
+inserirScreenPlay 2195, 'Richard Chapman'
+go
+inserirScreenPlay 2196, 'Michael Kraike'
+go
+inserirScreenPlay 2197, 'William Goldstein'
+go
+inserirScreenPlay 2198, 'Emmanuelle Cosso'
+go
+inserirScreenPlay 2199, 'Kad Merad'
+go
+inserirScreenPlay 2200, 'Anne Valton'
+go
+inserirScreenPlay 2201, 'Luc Chaumar'
+go
+inserirScreenPlay 2202, 'Jane Ainscough'
+go
+inserirScreenPlay 2203, 'Christoph Silber'
+go
+inserirScreenPlay 2204, 'Enid Blyton'
+go
+inserirScreenPlay 2205, 'Sherry Mills'
+go
+inserirScreenPlay 2206, 'Tom Sheppard'
+go
+inserirScreenPlay 2207, 'John L. Balderston'
+go
+inserirScreenPlay 2208, 'William Tennant'
+go
+inserirScreenPlay 2209, 'Gérard Pirès'
+go
+inserirScreenPlay 2210, 'Mark Ezra'
+go
+inserirScreenPlay 2211, 'Michael McCullers'
+go
+inserirScreenPlay 2212, 'Martin Dewitte'
+go
+inserirScreenPlay 2213, 'Nancy Stevelinck'
+go
+inserirScreenPlay 2214, 'Wijo Koek'
+go
+inserirScreenPlay 2215, 'Jeferson De'
+go
+inserirScreenPlay 2216, 'Hélio de la Peña'
+go
+inserirScreenPlay 2217, 'Armyan Bernstein'
+go
+inserirScreenPlay 2218, 'James Fritzell'
+go
+inserirScreenPlay 2219, 'Everett Greenbaum'
+go
+inserirScreenPlay 2220, 'Mario Amendola'
+go
+inserirScreenPlay 2221, 'Gary Whitta'
+go
+inserirScreenPlay 2222, 'Ewan Leslie'
+go
+inserirScreenPlay 2223, 'David Kirschner'
+go
+inserirScreenPlay 2224, 'Judy Freudberg'
+go
+inserirScreenPlay 2225, 'Tony Geiss'
+go
+inserirScreenPlay 2226, 'John Mortimer'
+go
+inserirScreenPlay 2227, 'Michael Soccio'
+go
+inserirScreenPlay 2228, 'Max Catto'
+go
+inserirScreenPlay 2229, 'Irwin Shaw'
+go
+inserirScreenPlay 2230, 'Steve Tesich'
+go
+inserirScreenPlay 2231, 'William Lederer'
+go
+inserirScreenPlay 2232, 'Theodore Simonson'
+go
+inserirScreenPlay 2233, 'Cy Chermak'
+go
+inserirScreenPlay 2234, 'Keith Mitchell'
+go
+inserirScreenPlay 2235, 'Allie Dvorin'
+go
+inserirScreenPlay 2236, 'Michael Pertwee'
+go
+inserirScreenPlay 2237, 'Loring Mandel'
+go
+inserirScreenPlay 2238, 'Alan Jay Glueckman'
+go
+inserirScreenPlay 2239, 'Michael Nankin'
+go
+inserirScreenPlay 2240, 'Jon Zack'
+go
+inserirScreenPlay 2241, 'Tom Wheeler'
+go
+inserirScreenPlay 2242, 'Joseph Ruben'
+go
+inserirScreenPlay 2243, 'Chuck Russell'
+go
+inserirScreenPlay 2244, 'W. R. Burnett'
+go
+inserirScreenPlay 2245, 'Ted Griffin'
+go
+inserirScreenPlay 2246, 'Bob DeRosa'
+go
+inserirScreenPlay 2247, 'Del Rangel'
+go
+inserirScreenPlay 2248, 'Enzo Barboni'
+go
+inserirScreenPlay 2249, 'Ángel G. Gauna'
+go
+inserirScreenPlay 2250, 'J. Fortini'
+go
+inserirScreenPlay 2251, 'Tulio Demicheli'
+go
+inserirScreenPlay 2252, 'Marie-Claire Solleville'
+go
+inserirScreenPlay 2253, 'Tom Ropelewski'
+go
+inserirScreenPlay 2254, 'Mark Medoff'
+go
+inserirScreenPlay 2255, 'Woody Allen'
+go
+inserirScreenPlay 2256, 'Dee McLachlan'
+go
+inserirScreenPlay 2257, 'Stuart Paul'
+go
+inserirScreenPlay 2258, 'Andrea Buck'
+go
+inserirScreenPlay 2259, 'Steven Paul'
+go
+inserirScreenPlay 2260, 'Tiago Mata Machado'
+go
+inserirScreenPlay 2261, 'Cinthia Marcelle'
+go
+inserirScreenPlay 2262, 'Emílio Maciel'
+go
+inserirScreenPlay 2263, 'Arthur Alsberg'
+go
+inserirScreenPlay 2264, 'Don Nelson'
+go
+inserirScreenPlay 2265, 'Derek Partridge'
+go
+inserirScreenPlay 2266, 'Jon Pierre Ratte'
+go
+inserirScreenPlay 2267, 'Julien Hilmoine'
+go
+inserirScreenPlay 2268, 'Frank Fenton'
+go
+inserirScreenPlay 2269, 'Michael Pate'
+go
+inserirScreenPlay 2270, 'Stuart Gibbs'
+go
+inserirScreenPlay 2271, 'Jim Mulholland'
+go
+inserirScreenPlay 2272, 'Michael Barrie'
+go
+inserirScreenPlay 2273, 'Laurence Stallings'
+go
+inserirScreenPlay 2274, 'William Henry Hudson'
+go
+inserirScreenPlay 2275, 'Franklin J. Schaffner'
+go
+inserirScreenPlay 2276, 'Rod Serling'
+go
+inserirScreenPlay 2277, 'Tennessee Williams'
+go
+inserirScreenPlay 2278, 'Dana Carvey'
+go
+inserirScreenPlay 2279, 'Harris Goldberg'
+go
+inserirScreenPlay 2280, 'Irving Wallace'
+go
+inserirScreenPlay 2281, 'Massy Tadjedin'
+go
+inserirScreenPlay 2282, 'Rita Hsiao'
+go
+inserirScreenPlay 2283, 'Niels Mueller'
+go
+inserirScreenPlay 2284, 'Howard March'
+go
+inserirScreenPlay 2285, 'Neal Shusterman'
+go
+inserirScreenPlay 2286, 'Alan Sacks'
+go
+inserirScreenPlay 2287, 'Gail Gilchriest'
+go
+inserirScreenPlay 2288, 'Hallie Einhorn'
+go
+inserirScreenPlay 2289, 'Philip LaZebnik'
+go
+inserirScreenPlay 2290, 'Nicholas Meyer'
+go
+inserirScreenPlay 2291, 'Raphael Hayes'
+go
+inserirScreenPlay 2292, 'Jamie Linden'
+go
+inserirScreenPlay 2293, 'Milan Trenc'
+go
+inserirScreenPlay 2294, 'Jay Cipriani'
+go
+inserirScreenPlay 2295, 'Bradley Cooper'
+go
+inserirScreenPlay 2296, 'Will Fetters'
+go
+inserirScreenPlay 2297, 'Eric Roth'
+go
+inserirScreenPlay 2298, 'Russell S. Hughes'
+go
+inserirScreenPlay 2299, 'Pierre De Clercq'
+go
+inserirScreenPlay 2300, 'Andrew Fleming'
+go
+inserirScreenPlay 2301, 'Peter Filardi'
+go
+inserirScreenPlay 2302, 'Mike Reiss'
+go
+inserirScreenPlay 2303, 'Al Jean'
+go
+inserirScreenPlay 2304, 'Jack Turley'
+go
+inserirScreenPlay 2305, 'Matt Manfredi'
+go
+inserirScreenPlay 2306, 'Travis Beacham'
+go
+inserirScreenPlay 2307, 'Phil Hay'
+go
+inserirScreenPlay 2308, 'Menahem Golan'
+go
+inserirScreenPlay 2309, 'Dennis Shryack'
+go
+inserirScreenPlay 2310, 'Michael Blodgett'
+go
+inserirScreenPlay 2311, 'Sara Paretsky'
+go
+inserirScreenPlay 2312, 'David Aaron Cohen'
+go
+inserirScreenPlay 2313, 'Edward Taylor'
+go
+inserirScreenPlay 2314, 'Nick Thiel'
+go
+inserirScreenPlay 2315, 'Aaron Latham'
+go
+inserirScreenPlay 2316, 'David Nicholls'
+go
+inserirScreenPlay 2317, 'Adam ''Tex'' Davis'
+go
+inserirScreenPlay 2318, 'Heather Rutman'
+go
+inserirScreenPlay 2319, 'Matt Heller'
+go
+inserirScreenPlay 2320, 'Richard Preston'
+go
+inserirScreenPlay 2321, 'Andre Norton'
+go
+inserirScreenPlay 2322, 'Marita Giovanni'
+go
+inserirScreenPlay 2323, 'Madeleine L''Engle'
+go
+inserirScreenPlay 2324, 'Stephen Langford'
+go
+inserirScreenPlay 2325, 'Georgia Byng'
+go
+inserirScreenPlay 2326, 'Tom Butterworth'
+go
+inserirScreenPlay 2327, 'Chris Hurford'
+go
+inserirScreenPlay 2328, 'Craig A. Williams'
+go
+inserirScreenPlay 2329, 'Joe Piscatella'
+go
+inserirScreenPlay 2330, 'Christopher Murphey'
+go
+inserirScreenPlay 2331, 'Kathleen Laccinole'
+go
+inserirScreenPlay 2332, 'Tommy Sledge'
+go
+inserirScreenPlay 2333, 'Larry Levin'
+go
+inserirScreenPlay 2334, 'Marc Lawrence'
+go
+inserirScreenPlay 2335, 'Cláudio Paiva'
+go
+inserirScreenPlay 2336, 'Barbara Jones'
+go
+inserirScreenPlay 2337, 'Frank D. Gilroy'
+go
+inserirScreenPlay 2338, 'James Poe'
+go
+inserirScreenPlay 2339, 'Miguel Gonçalves Mendes'
+go
+inserirScreenPlay 2340, 'Earl W. Wallace'
+go
+inserirScreenPlay 2341, 'William Kelley'
+go
+inserirScreenPlay 2342, 'Jerome Kern'
+go
+inserirScreenPlay 2343, 'Edna Ferber'
+go
+inserirScreenPlay 2344, 'Heather Robinson'
+go
+inserirScreenPlay 2345, 'Gina Wendkos'
+go
+inserirScreenPlay 2346, 'Michael McQuown'
+go
+inserirScreenPlay 2347, 'Gary Trousdale'
+go
+inserirScreenPlay 2348, 'Tab Murphy'
+go
+inserirScreenPlay 2349, 'Perry Howze'
+go
+inserirScreenPlay 2350, 'Randy Howze'
+go
+inserirScreenPlay 2351, 'Dominique Deruddere'
+go
+inserirScreenPlay 2352, 'Thomas Anstey Guthrie'
+go
+inserirScreenPlay 2353, 'Remy Four'
+go
+inserirScreenPlay 2354, 'Julien War'
+go
+inserirScreenPlay 2355, 'Jennings Lang'
+go
+inserirScreenPlay 2356, 'Kevin Elders'
+go
+inserirScreenPlay 2357, 'Sydney Boehm'
+go
+inserirScreenPlay 2358, 'Walter Reisch'
+go
+inserirScreenPlay 2359, 'Lydia Look'
+go
+inserirScreenPlay 2360, 'Vince Cheung'
+go
+inserirScreenPlay 2361, 'Ben Montanio'
+go
+inserirScreenPlay 2362, 'B. Mark Seabrooks'
+go
+inserirScreenPlay 2363, 'Rafael Moreu'
+go
+inserirScreenPlay 2364, 'Yann Samuell'
+go
+inserirScreenPlay 2365, 'David Solomons'
+go
+inserirScreenPlay 2366, 'Anthony Lawrence'
+go
+inserirScreenPlay 2367, 'Monja Danischewsky'
+go
+inserirScreenPlay 2368, 'Bob Rafelson'
+go
+inserirScreenPlay 2369, 'Jack Nicholson'
+go
+inserirScreenPlay 2370, 'Jay Tarses'
+go
+inserirScreenPlay 2371, 'Linda Feferman'
+go
+inserirScreenPlay 2372, 'Jane Bernstein'
+go
+inserirScreenPlay 2373, 'Robert Ardrey'
+go
+inserirScreenPlay 2374, 'Alexandre Dumas'
+go
+inserirScreenPlay 2375, 'Phoebe Ephron'
+go
+inserirScreenPlay 2376, 'Robert Gordon'
+go
+inserirScreenPlay 2377, 'Stephen Schiff'
+go
+inserirScreenPlay 2378, 'Gary Scott Thompson'
+go
+inserirScreenPlay 2379, 'Michelle Gallagher'
+go
+inserirScreenPlay 2380, 'Jerry Davis'
+go
+inserirScreenPlay 2381, 'Mervin Houser'
+go
+inserirScreenPlay 2382, 'Ed McBain'
+go
+inserirScreenPlay 2383, 'Flávia Moraes'
+go
+inserirScreenPlay 2384, 'Claudio Galperin'
+go
+inserirScreenPlay 2385, 'Anne Giafferi'
+go
+inserirScreenPlay 2386, 'Murielle Magellan'
+go
+inserirScreenPlay 2387, 'Anne Le Ny'
+go
+inserirScreenPlay 2388, 'Geneva Robertson-Dworet'
+go
+inserirScreenPlay 2389, 'Alastair Siddons'
+go
+inserirScreenPlay 2390, 'Erica Oyama'
+go
+inserirScreenPlay 2391, 'Elissa Matsueda'
+go
+inserirScreenPlay 2392, 'Brian Lynch'
+go
+inserirScreenPlay 2393, 'Jennie Snyder Urman'
+go
+inserirScreenPlay 2394, 'Mark Freiburger'
+go
+inserirScreenPlay 2395, 'Robert Whitlow'
+go
+inserirScreenPlay 2396, 'Gary Wheeler'
+go
+inserirScreenPlay 2397, 'Charlie Murphy'
+go
+inserirScreenPlay 2398, 'Randy Newman'
+go
+inserirScreenPlay 2399, 'Lorne Michaels'
+go
+inserirScreenPlay 2400, 'Geeta Anand'
+go
+inserirScreenPlay 2401, 'Robert Nelson Jacobs'
+go
+inserirScreenPlay 2402, 'Dana Stevens'
+go
+inserirScreenPlay 2403, 'Frank Yerby'
+go
+inserirScreenPlay 2404, 'Matt Dorff'
+go
+inserirScreenPlay 2405, 'Aleks Horvat'
+go
+inserirScreenPlay 2406, 'Geoffrey Baere'
+go
+inserirScreenPlay 2407, 'Melville Shavelson'
+go
+inserirScreenPlay 2408, 'Nicholas Kazan'
+go
+inserirScreenPlay 2409, 'Michael A. Hoey'
+go
+inserirScreenPlay 2410, 'Dan Greenburg'
+go
+inserirScreenPlay 2411, 'Leonardo Moreira'
+go
+inserirScreenPlay 2412, 'Rafael Gomes'
+go
+inserirScreenPlay 2413, 'Sérgio Roveri'
+go
+inserirScreenPlay 2414, 'Adam Horowitz'
+go
+inserirScreenPlay 2415, 'Edward Kitsis'
+go
+inserirScreenPlay 2416, 'Janeen Damian'
+go
+inserirScreenPlay 2417, 'Michael Damian'
+go
+inserirScreenPlay 2418, 'Jeff Lieberman'
+go
+inserirScreenPlay 2419, 'Judd Apatow'
+go
+inserirScreenPlay 2420, 'Ronald Parker'
+go
+inserirScreenPlay 2421, 'Frederic E. Wakeman, Sr.'
+go
+inserirScreenPlay 2422, 'Jorge Fernando'
+go
+inserirScreenPlay 2423, 'Patricya Travassos'
+go
+inserirScreenPlay 2424, 'Randi Mayem Singer'
+go
+inserirScreenPlay 2425, 'Michal Vinik'
+go
+inserirScreenPlay 2426, 'Susanna Fogel'
+go
+inserirScreenPlay 2427, 'Dan Hernandez'
+go
+inserirScreenPlay 2428, 'Benji Samit'
+go
+inserirScreenPlay 2429, 'Márcio Garcia'
+go
+inserirScreenPlay 2430, 'Bráulio Mantovani'
+go
+inserirScreenPlay 2431, 'Doc Comparato'
+go
+inserirScreenPlay 2432, 'Joseph Merhi'
+go
+inserirScreenPlay 2433, 'Gary Goldstein'
+go
+inserirScreenPlay 2434, 'Jon Maas'
+go
+inserirScreenPlay 2435, 'Donald C. Yost'
+go
+inserirScreenPlay 2436, 'Joel Kauffmann'
+go
+inserirScreenPlay 2437, 'Paul Ziller'
+go
+inserirScreenPlay 2438, 'Bob Jason'
+go
+inserirScreenPlay 2439, 'Antony Anderson'
+go
+inserirScreenPlay 2440, 'Jane Rouen'
+go
+inserirScreenPlay 2441, 'P. J. Hogan'
+go
+inserirScreenPlay 2442, 'Monica Johnson'
+go
+inserirScreenPlay 2443, 'John McGreevey'
+go
+inserirScreenPlay 2444, 'Andrew Adamson'
+go
+inserirScreenPlay 2445, 'Christopher Markus'
+go
+inserirScreenPlay 2446, 'Stephen McFeely'
+go
+inserirScreenPlay 2447, 'Ann Peacock'
+go
+inserirScreenPlay 2448, 'Pedro Neschling'
+go
+inserirScreenPlay 2449, 'Bruno Mazzeo'
+go
+inserirScreenPlay 2450, 'Rosana Ferrão'
+go
+inserirScreenPlay 2451, 'Luciana Fregolente'
+go
+inserirScreenPlay 2452, 'Robin Schiff'
+go
+inserirScreenPlay 2453, 'Herbert Baker'
+go
+inserirScreenPlay 2454, 'Garson Kanin'
+go
+inserirScreenPlay 2455, 'Jennifer Lee'
+go
+inserirScreenPlay 2456, 'John Cockrell'
+go
+inserirScreenPlay 2457, 'Scott Jenkins'
+go
+inserirScreenPlay 2458, 'Gordon Chan'
+go
+inserirScreenPlay 2459, 'Sze-to Cheuk-hon'
+go
+inserirScreenPlay 2460, 'John Shepphird'
+go
+inserirScreenPlay 2461, 'Randy Vampotic'
+go
+inserirScreenPlay 2462, 'Steve Jankowski'
+go
+inserirScreenPlay 2463, 'Michael Sorrentino'
+go
+inserirScreenPlay 2464, 'Timothy Armstrong'
+go
+inserirScreenPlay 2465, 'Stephan Blinn'
+go
+inserirScreenPlay 2466, 'Matt Roshkow'
+go
+inserirScreenPlay 2467, 'David Kukoff'
+go
+inserirScreenPlay 2468, 'Madeline Di Maggio'
+go
+inserirScreenPlay 2469, 'Timothy Prager'
+go
+inserirScreenPlay 2470, 'Madeline DiMaggio'
+go
+inserirScreenPlay 2471, 'David J. Kinghorn'
+go
+inserirScreenPlay 2472, 'Jonathan Day'
+go
+inserirScreenPlay 2473, 'Richard English'
+go
+inserirScreenPlay 2474, 'Jack Henley'
+go
+inserirScreenPlay 2475, 'Christian Williams'
+go
+inserirScreenPlay 2476, 'Philip K. Dick'
+go
+inserirScreenPlay 2477, 'Dan O''Bannon'
+go
+inserirScreenPlay 2478, 'Leigh Brackett'
+go
+inserirScreenPlay 2479, 'Randall Wallace'
+go
+inserirScreenPlay 2480, 'Doug Campbell'
+go
+inserirScreenPlay 2481, 'Tim McKay'
+go
+inserirScreenPlay 2482, 'Bibi da Pieve'
+go
+inserirScreenPlay 2483, 'David Wechter'
+go
+inserirScreenPlay 2484, 'Douglas Heyes'
+go
+inserirScreenPlay 2485, 'Mark Lee'
+go
+inserirScreenPlay 2486, 'Ted Key'
+go
+inserirScreenPlay 2487, 'David Dashev'
+go
+inserirScreenPlay 2488, 'Stuart Birnbaum'
+go
+inserirScreenPlay 2489, 'Tito Davison'
+go
+inserirScreenPlay 2490, 'Neftalí Beltrán'
+go
+inserirScreenPlay 2491, 'Solomon J. LeFlore'
+go
+inserirScreenPlay 2492, 'Paulo Gustavo'
+go
+inserirScreenPlay 2493, 'Rafael Dragaud'
+go
+inserirScreenPlay 2494, 'Byron Howard'
+go
+inserirScreenPlay 2495, 'Chris Williams'
+go
+inserirScreenPlay 2496, 'Dan Fogelman'
+go
+inserirScreenPlay 2497, 'John Fante'
+go
+inserirScreenPlay 2498, 'Joseph Calvelli'
+go
+inserirScreenPlay 2499, 'Hilary Galanoy'
+go
+inserirScreenPlay 2500, 'Elizabeth Hackett'
+go
+inserirScreenPlay 2501, 'Robyn Palmer'
+go
+inserirScreenPlay 2502, 'Andy Tennant'
+go
+inserirScreenPlay 2503, 'Daniel Zelman'
+go
+inserirScreenPlay 2504, 'John Claflin'
+go
+inserirScreenPlay 2505, 'John Sacret Young'
+go
+inserirScreenPlay 2506, 'Michael Cristofer'
+go
+inserirScreenPlay 2507, 'Richard Schayer'
+go
+inserirScreenPlay 2508, 'Christopher Canaan'
+go
+inserirScreenPlay 2509, 'Susan Walter'
+go
+inserirScreenPlay 2510, 'Susan E. Walter'
+go
+inserirScreenPlay 2511, 'Lindsay Naythons'
+go
+inserirScreenPlay 2512, 'Robert Keats'
+go
+inserirScreenPlay 2513, 'Mark Spragg'
+go
+inserirScreenPlay 2514, 'Ron Nyswaner'
+go
+inserirScreenPlay 2515, 'Meg Kasdan'
+go
+inserirScreenPlay 2516, 'Lui Farias'
+go
+inserirScreenPlay 2517, 'Riva Farias'
+go
+inserirScreenPlay 2518, 'Bernardo Guilherme'
+go
+inserirScreenPlay 2519, 'Donna Kanter'
+go
+inserirScreenPlay 2520, 'Sarah Y. Mason'
+go
+inserirScreenPlay 2521, 'Victor Heerman'
+go
+inserirScreenPlay 2522, 'Henry Ephron'
+go
+inserirScreenPlay 2523, 'Guy Endore'
+go
+inserirScreenPlay 2524, 'Richard Sale'
+go
+inserirScreenPlay 2525, 'Mary Anita Loos'
+go
+inserirScreenPlay 2526, 'Elizabeth Anderson'
+go
+inserirScreenPlay 2527, 'Alexandra Clarke'
+go
+inserirScreenPlay 2528, 'Jonathan Kaplan'
+go
+inserirScreenPlay 2529, 'Ken Friedman'
+go
+inserirScreenPlay 2530, 'Eric Hughes'
+go
+inserirScreenPlay 2531, 'Joseph Moncure March'
+go
+inserirScreenPlay 2532, 'Eddie Welch'
+go
+inserirScreenPlay 2533, 'Rick Parks'
+go
+inserirScreenPlay 2534, 'Ken Englund'
+go
+inserirScreenPlay 2535, 'Philip Rapp'
+go
+inserirScreenPlay 2536, 'Michael Baumgarten'
+go
+inserirScreenPlay 2537, 'John Guillermin'
+go
+inserirScreenPlay 2538, 'Les Crutchfield'
+go
+inserirScreenPlay 2539, 'Donald McEnery'
+go
+inserirScreenPlay 2540, 'Bob Shaw'
+go
+inserirScreenPlay 2541, 'Howard Koch'
+go
+inserirScreenPlay 2542, 'James Tucker'
+go
+inserirScreenPlay 2543, 'Michael Jelenic'
+go
+inserirScreenPlay 2544, 'Susan Isaacs'
+go
+inserirScreenPlay 2545, 'Keith Walker'
+go
+inserirScreenPlay 2546, 'Rob Schneider'
+go
+inserirScreenPlay 2547, 'Tom Brady'
+go
+inserirScreenPlay 2548, 'Erna Lazarus'
+go
+inserirScreenPlay 2549, 'Sally Robinson'
+go
+inserirScreenPlay 2550, 'Craig J. Nevius'
+go
+inserirScreenPlay 2551, 'Rance Howard'
+go
+inserirScreenPlay 2552, 'Herbert Wright'
+go
+inserirScreenPlay 2553, 'Jarrad Paul'
+go
+inserirScreenPlay 2554, 'Andrew Mogel'
+go
+inserirScreenPlay 2555, 'Finn Taylor'
+go
+inserirScreenPlay 2556, 'Kurt Neumann'
+go
+inserirScreenPlay 2557, 'Carroll Young'
+go
+inserirScreenPlay 2558, 'Jim Staahl'
+go
+inserirScreenPlay 2559, 'Jim Fisher'
+go
+inserirScreenPlay 2560, 'Bill Prady'
+go
+inserirScreenPlay 2561, 'Charles Proser'
+go
+inserirScreenPlay 2562, 'Gregory McDonald'
+go
+inserirScreenPlay 2563, 'Mindret Lord'
+go
+inserirScreenPlay 2564, 'Letícia Wierzchowski'
+go
+inserirScreenPlay 2565, 'Tabajara Ruas'
+go
+inserirScreenPlay 2566, 'Katie Ford'
+go
+inserirScreenPlay 2567, 'Caryn Lucas'
+go
+inserirScreenPlay 2568, 'Suzanne Keilly'
+go
+inserirScreenPlay 2569, 'Paul W. Shapiro'
+go
+inserirScreenPlay 2570, 'Paul Shapiro'
+go
+inserirScreenPlay 2571, 'Raoul Walsh'
+go
+inserirScreenPlay 2572, 'Michael Elkins'
+go
+inserirScreenPlay 2573, 'Warren Beatty'
+go
+inserirScreenPlay 2574, 'Elaine May'
+go
+inserirScreenPlay 2575, 'Brett Hogan'
+go
+inserirScreenPlay 2576, 'N. Richard Nash'
+go
+inserirScreenPlay 2577, 'Bruno Garotti'
+go
+inserirScreenPlay 2578, 'Billy Crystal'
+go
+inserirScreenPlay 2579, 'Joe Syracuse'
+go
+inserirScreenPlay 2580, 'Lisa Addario'
+go
+inserirScreenPlay 2581, 'I. Marlene King'
+go
+inserirScreenPlay 2582, 'Amy B. Harris'
+go
+inserirScreenPlay 2583, 'James Greer'
+go
+inserirScreenPlay 2584, 'Lee Batchler'
+go
+inserirScreenPlay 2585, 'Akiva Goldsman'
+go
+inserirScreenPlay 2586, 'Janet Scott Batchler'
+go
+inserirScreenPlay 2587, 'Paul De Mielche'
+go
+inserirScreenPlay 2588, 'Mel Goldberg'
+go
+inserirScreenPlay 2589, 'William Wood'
+go
+inserirScreenPlay 2590, 'Miguel Gomes'
+go
+inserirScreenPlay 2591, 'Telmo Churro'
+go
+inserirScreenPlay 2592, 'Mariana Ricardo'
+go
+inserirScreenPlay 2593, 'Suso Cecchi D''Amico'
+go
+inserirScreenPlay 2594, 'George Carleton Brown'
+go
+inserirScreenPlay 2595, 'Si Rose'
+go
+inserirScreenPlay 2596, 'Jo Napoleon'
+go
+inserirScreenPlay 2597, 'Art Napoleon'
+go
+inserirScreenPlay 2598, 'George Froeschel'
+go
+inserirScreenPlay 2599, 'Ronald Millar'
+go
+inserirScreenPlay 2600, 'Norman Reilly Raine'
+go
+inserirScreenPlay 2601, 'Rowland Leigh'
+go
+inserirScreenPlay 2602, 'Mark Furey'
+go
+inserirScreenPlay 2603, 'Jason Feffer'
+go
+inserirScreenPlay 2604, 'F. Hugh Herbert'
+go
+inserirScreenPlay 2605, 'Arlene Davidson'
+go
+inserirScreenPlay 2606, 'Tryptyk rzymski'
+go
+inserirScreenPlay 2607, 'Laços de Esperança'
+go
+inserirScreenPlay 2608, 'Steve Marshall'
+go
+inserirScreenPlay 2609, 'Dan Guntzelman'
+go
+inserirScreenPlay 2610, 'Mike White'
+go
+inserirScreenPlay 2611, 'Wanda Birdsong Shope'
+go
+inserirScreenPlay 2612, 'Claude Scasso'
+go
+inserirScreenPlay 2613, 'Peter Svatek'
+go
+inserirScreenPlay 2614, 'Allan Carr'
+go
+inserirScreenPlay 2615, 'Bronte Woodard'
+go
+inserirScreenPlay 2616, 'Robert Desiderio'
+go
+inserirScreenPlay 2617, 'Craig Chester'
+go
+inserirScreenPlay 2618, 'Alan Hines'
+go
+inserirScreenPlay 2619, 'Alan Haines'
+go
+inserirScreenPlay 2620, 'Robert Buckner'
+go
+inserirScreenPlay 2621, 'Helvécio Ratton'
+go
+inserirScreenPlay 2622, 'Alcione Araújo'
+go
+inserirScreenPlay 2623, 'William Mastrosimone'
+go
+inserirScreenPlay 2624, 'Marcius Melhem'
+go
+inserirScreenPlay 2625, 'Celso Taddei'
+go
+inserirScreenPlay 2626, 'Chico Soares'
+go
+inserirScreenPlay 2627, 'Eric Tuchman'
+go
+inserirScreenPlay 2628, 'Michael Kase'
+go
+inserirScreenPlay 2629, 'Barry Morrow'
+go
+inserirScreenPlay 2630, 'Bryan Singer'
+go
+inserirScreenPlay 2631, 'Tom DeSanto'
+go
+inserirScreenPlay 2632, 'Martha Williamson'
+go
+inserirScreenPlay 2633, 'Robert LoCash'
+go
+inserirScreenPlay 2634, 'Nat Hiken'
+go
+inserirScreenPlay 2635, 'Shigeru Miyamoto'
+go
+inserirScreenPlay 2636, 'June Roberts'
+go
+inserirScreenPlay 2637, 'Oren Aviv'
+go
+inserirScreenPlay 2638, 'Clive Exton'
+go
+inserirScreenPlay 2639, 'Glória Perez'
+go
+inserirScreenPlay 2640, 'Sandra Nettelbeck'
+go
+inserirScreenPlay 2641, 'Carol Fuchs'
+go
+inserirScreenPlay 2642, 'Deborah Schwartz'
+go
+inserirScreenPlay 2643, 'Douglas Schwartz'
+go
+inserirScreenPlay 2644, 'Michael Berk'
+go
+inserirScreenPlay 2645, 'Jane Baker'
+go
+inserirScreenPlay 2646, 'Pip Baker'
+go
+inserirScreenPlay 2647, 'Robert Wright Campbell'
+go
+inserirScreenPlay 2648, 'John Romano'
+go
+inserirScreenPlay 2649, 'Paul Feig'
+go
+inserirScreenPlay 2650, 'Mya Stark'
+go
+inserirScreenPlay 2651, 'Jacob Meszaros'
+go
+inserirScreenPlay 2652, 'Sandra Tsing Loh'
+go
+inserirScreenPlay 2653, 'Adam F. Goldberg'
+go
+inserirScreenPlay 2654, 'Adam Goldberg'
+go
+inserirScreenPlay 2655, 'Caroline Labrèche'
+go
+inserirScreenPlay 2656, 'Steeve Léonard'
+go
+inserirScreenPlay 2657, 'Howard Fast'
+go
+inserirScreenPlay 2658, 'Simon Wells'
+go
+inserirScreenPlay 2659, 'Wendy Wells'
+go
+inserirScreenPlay 2660, 'John D''Arco'
+go
+inserirScreenPlay 2661, 'Robert Hardy Andrews'
+go
+inserirScreenPlay 2662, 'Louis Solomon'
+go
+inserirScreenPlay 2663, 'Mark McCorkle'
+go
+inserirScreenPlay 2664, 'Bob Schooley'
+go
+inserirScreenPlay 2665, 'Robert Westerby'
+go
+inserirScreenPlay 2666, 'When You Finish Saving the World'
+go
+inserirScreenPlay 2667, 'Deborah Joy LeVine'
+go
+inserirScreenPlay 2668, 'François Truffaut'
+go
+inserirScreenPlay 2669, 'Jean Gruault'
+go
+inserirScreenPlay 2670, 'Ben Zazove'
+go
+inserirScreenPlay 2671, 'Jim Piddock'
+go
+inserirScreenPlay 2672, 'Matt Williams'
+go
+inserirScreenPlay 2673, 'Oley Sassone'
+go
+inserirScreenPlay 2674, 'Roderick Thorp'
+go
+inserirScreenPlay 2675, 'Doug Richardson'
+go
+inserirScreenPlay 2676, 'Michael Arndt'
+go
+inserirScreenPlay 2677, 'Stephen Sommers'
+go
+inserirScreenPlay 2678, 'Michael Thomas'
+go
+inserirScreenPlay 2679, 'David Webb Peoples'
+go
+inserirScreenPlay 2680, 'Charles Kenyon'
+go
+inserirScreenPlay 2681, 'Robert Lord'
+go
+inserirScreenPlay 2682, 'Philippe de Broca'
+go
+inserirScreenPlay 2683, 'Vittorio Caprioli'
+go
+inserirScreenPlay 2684, 'Jean-Paul Rappeneau'
+go
+inserirScreenPlay 2685, 'Domingos Demasi'
+go
+inserirScreenPlay 2686, 'Rod Browning'
+go
+inserirScreenPlay 2687, 'Bill Lancaster'
+go
+inserirScreenPlay 2688, 'Anthony McCarten'
+go
+inserirScreenPlay 2689, 'Paulo Morelli'
+go
+inserirScreenPlay 2690, 'Alex Lasker'
+go
+inserirScreenPlay 2691, 'Wendell Wellman'
+go
+inserirScreenPlay 2692, 'Ross Maxwell'
+go
+inserirScreenPlay 2693, 'Donna Thorland'
+go
+inserirScreenPlay 2694, 'Lindsay Calhoon Bring'
+go
+inserirScreenPlay 2695, 'Roberto Aguirre-Sacasa'
+go
+inserirScreenPlay 2696, 'Matthew Barry'
+go
+inserirScreenPlay 2697, 'Bill Purple'
+go
+inserirScreenPlay 2698, 'Robbie Pickering'
+go
+inserirScreenPlay 2699, 'Christopher Reed'
+go
+inserirScreenPlay 2700, 'Cynthia Carle'
+go
+inserirScreenPlay 2701, 'Jackie French Koller'
+go
+inserirScreenPlay 2702, 'Michael Kane'
+go
+inserirScreenPlay 2703, 'Jean-Charles Tacchella'
+go
+inserirScreenPlay 2704, 'Stephen Metcalfe'
+go
+inserirScreenPlay 2705, 'Spencer Eastman'
+go
+inserirScreenPlay 2706, 'Leslie Waller'
+go
+inserirScreenPlay 2707, 'Al Kratina'
+go
+inserirScreenPlay 2708, 'Ronald Weir'
+go
+inserirScreenPlay 2709, 'Stephen Belber'
+go
+inserirScreenPlay 2710, 'René Goscinny'
+go
+inserirScreenPlay 2711, 'Gérard Lauzier'
+go
+inserirScreenPlay 2712, 'Terry Jones'
+go
+inserirScreenPlay 2713, 'Matt Greenberg'
+go
+inserirScreenPlay 2714, 'Max Borenstein'
+go
+inserirScreenPlay 2715, 'Steven Knight'
+go
+inserirScreenPlay 2716, 'Patrick Doughtie'
+go
+inserirScreenPlay 2717, 'Art D''Alessandro'
+go
+inserirScreenPlay 2718, 'Sandra Thrift'
+go
+inserirScreenPlay 2719, 'Cullen Douglas'
+go
+inserirScreenPlay 2720, 'Jane Klove'
+go
+inserirScreenPlay 2721, 'Joanna Crawford'
+go
+inserirScreenPlay 2722, 'Jean Craighead George'
+go
+inserirScreenPlay 2723, 'Michael Jacoby'
+go
+inserirScreenPlay 2724, 'Jean Chalopin'
+go
+inserirScreenPlay 2725, 'Steve Zacharias'
+go
+inserirScreenPlay 2726, 'Jeff Buhai'
+go
+inserirScreenPlay 2727, 'J. David Shapiro'
+go
+inserirScreenPlay 2728, 'Evan Chandler'
+go
+inserirScreenPlay 2729, 'Kristin Rusk Robinson'
+go
+inserirScreenPlay 2730, 'Ian Deitchman'
+go
+inserirScreenPlay 2731, 'Daniel Taplitz'
+go
+inserirScreenPlay 2732, 'Hesper Anderson'
+go
+inserirScreenPlay 2733, 'George W. George'
+go
+inserirScreenPlay 2734, 'George F. Slavin'
+go
+inserirScreenPlay 2735, 'Noni White'
+go
+inserirScreenPlay 2736, 'Bob Tzudiker'
+go
+inserirScreenPlay 2737, 'Brian Hannant'
+go
+inserirScreenPlay 2738, 'James L. Conway'
+go
+inserirScreenPlay 2739, 'Ken Pettus'
+go
+inserirScreenPlay 2740, 'Kevin Williamson'
+go
+inserirScreenPlay 2741, 'Lois Duncan'
+go
+inserirScreenPlay 2742, 'Jeff Lowell'
+go
+inserirScreenPlay 2743, 'Noel Quiñones'
+go
+inserirScreenPlay 2744, 'Mark Kemble'
+go
+inserirScreenPlay 2745, 'Aaron Norris'
+go
+inserirScreenPlay 2746, 'Ron Swanson'
+go
+inserirScreenPlay 2747, 'Charles B. Griffith'
+go
+inserirScreenPlay 2748, 'Joshua Logan'
+go
+inserirScreenPlay 2749, 'Peter Feibleman'
+go
+inserirScreenPlay 2750, 'Robin Swicord'
+go
+inserirScreenPlay 2751, 'Nick Kazan'
+go
+inserirScreenPlay 2752, 'Matt Dearborn'
+go
+inserirScreenPlay 2753, 'Clelhio Favretto'
+go
+inserirScreenPlay 2754, 'Chris Nahon'
+go
+inserirScreenPlay 2755, 'Douglas Barr'
+go
+inserirScreenPlay 2756, 'Samuel W. Taylor'
+go
+inserirScreenPlay 2757, 'Peter Hewitt'
+go
+inserirScreenPlay 2758, 'Phil Hughes'
+go
+inserirScreenPlay 2759, 'Sol Saks'
+go
+inserirScreenPlay 2760, 'Noah Baumbach'
+go
+inserirScreenPlay 2761, 'Darnell I Noah Baumbach'
+go
+inserirScreenPlay 2762, 'Jonathan Bernstein'
+go
+inserirScreenPlay 2763, 'Mark Blackwell'
+go
+inserirScreenPlay 2764, 'Michael Auerbach'
+go
+inserirScreenPlay 2765, 'Richard Tuggle'
+go
+inserirScreenPlay 2766, 'Cul Cullen'
+go
+inserirScreenPlay 2767, 'John Dixon'
+go
+inserirScreenPlay 2768, 'Zack Stentz'
+go
+inserirScreenPlay 2769, 'Ashley Miller'
+go
+inserirScreenPlay 2770, 'Jody Lambert'
+go
+inserirScreenPlay 2771, 'Patrick Braoudé'
+go
+inserirScreenPlay 2772, 'Theresa Rebeck'
+go
+inserirScreenPlay 2773, 'Greg Taylor'
+go
+inserirScreenPlay 2774, 'Doug Petrie'
+go
+inserirScreenPlay 2775, 'Joseph Pevney'
+go
+inserirScreenPlay 2776, 'Don McGuire'
+go
+inserirScreenPlay 2777, 'Arnold Schulman'
+go
+inserirScreenPlay 2778, 'John Stockwell'
+go
+inserirScreenPlay 2779, 'Lizzy Weiss'
+go
+inserirScreenPlay 2780, 'Tony Simpson'
+go
+inserirScreenPlay 2781, 'Andrew Gunn'
+go
+inserirScreenPlay 2782, 'Jeff Vintar'
+go
+inserirScreenPlay 2783, 'Gregory Poirier'
+go
+inserirScreenPlay 2784, 'Bill Fritz'
+go
+inserirScreenPlay 2785, 'Michael McDonald'
+go
+inserirScreenPlay 2786, 'Marc Bernardin'
+go
+inserirScreenPlay 2787, 'Eric Carrasco'
+go
+inserirScreenPlay 2788, 'Tim Sheridan'
+go
+inserirScreenPlay 2789, 'Diya Mishra'
+go
+inserirScreenPlay 2790, 'Mildred Nixon Gordon'
+go
+inserirScreenPlay 2791, 'Gordon Gordon'
+go
+inserirScreenPlay 2792, 'Henry Rosenbaum'
+go
+inserirScreenPlay 2793, 'David Taylor'
+go
+inserirScreenPlay 2794, 'Andy White'
+go
+inserirScreenPlay 2795, 'Edward J. Lakso'
+go
+inserirScreenPlay 2796, 'Wallace Wolodarsky'
+go
+inserirScreenPlay 2797, 'Maya Forbes'
+go
+inserirScreenPlay 2798, 'Gabe Sachs'
+go
+inserirScreenPlay 2799, 'Jeff Judah'
+go
+inserirScreenPlay 2800, 'Walon Green'
+go
+inserirScreenPlay 2801, 'Terence Rattigan'
+go
+inserirScreenPlay 2802, 'Dostoiewski Champagnatte'
+go
+inserirScreenPlay 2803, 'Dostoiewski Champangnatte'
+go
+inserirScreenPlay 2804, 'Rich Moore'
+go
+inserirScreenPlay 2805, 'James Booth'
+go
+inserirScreenPlay 2806, 'Nicholas Sparks'
+go
+inserirScreenPlay 2807, 'Jeff Van Wie'
+go
+inserirScreenPlay 2808, 'John K.D. Graham'
+go
+inserirScreenPlay 2809, 'Alexandra Boylan'
+go
+inserirScreenPlay 2810, 'Andrea M. Polnaszek'
+go
+inserirScreenPlay 2811, 'Devery Freeman'
+go
+inserirScreenPlay 2812, 'C. Jay Cox'
+go
+inserirScreenPlay 2813, 'Romain Gary'
+go
+inserirScreenPlay 2814, 'Patrick Leigh Fermor'
+go
+inserirScreenPlay 2815, 'Robbie Fox'
+go
+inserirScreenPlay 2816, 'Florian Gottschick'
+go
+inserirScreenPlay 2817, 'Florian von Bornstädt'
+go
+inserirScreenPlay 2818, 'Alex Zamm'
+go
+inserirScreenPlay 2819, 'William Robertson'
+go
+inserirScreenPlay 2820, 'Ron Anderson'
+go
+inserirScreenPlay 2821, 'Charles Isaacs'
+go
+inserirScreenPlay 2822, 'Alan J. Schoolcraft'
+go
+inserirScreenPlay 2823, 'Brent Simons'
+go
+inserirScreenPlay 2824, 'Harald Rosenløw Eeg'
+go
+inserirScreenPlay 2825, 'David Shore'
+go
+inserirScreenPlay 2826, 'Thomas L. Moran'
+go
+inserirScreenPlay 2827, 'Peter Blake'
+go
+inserirScreenPlay 2828, 'Craig Brewer'
+go
+inserirScreenPlay 2829, 'Millard Kaufman'
+go
+inserirScreenPlay 2830, 'Alê McHaddo'
+go
+inserirScreenPlay 2831, 'Luiz Felipe Mazzoni'
+go
+inserirScreenPlay 2832, 'John Killoran'
+go
+inserirScreenPlay 2833, 'Kurt Luedtke'
+go
+inserirScreenPlay 2834, 'David Rayfiel'
+go
+inserirScreenPlay 2835, 'Phil Alden Robinson'
+go
+inserirScreenPlay 2836, 'Dori Pierson'
+go
+inserirScreenPlay 2837, 'Marc Reid Rubel'
+go
+inserirScreenPlay 2838, 'David N. White'
+go
+inserirScreenPlay 2839, 'Tony Mosher'
+go
+inserirScreenPlay 2840, 'P. J. Wolfson'
+go
+inserirScreenPlay 2841, 'Blake Snyder'
+go
+inserirScreenPlay 2842, 'Colby Carr'
+go
+inserirScreenPlay 2843, 'Carroll Cartwright'
+go
+inserirScreenPlay 2844, 'Topper Lilien'
+go
+inserirScreenPlay 2845, 'Stan Zimmerman'
+go
+inserirScreenPlay 2846, 'James Berg'
+go
+inserirScreenPlay 2847, 'Jennifer Pertsch'
+go
+inserirScreenPlay 2848, 'Tom McGillis'
+go
+inserirScreenPlay 2849, 'Tim Burns'
+go
+inserirScreenPlay 2850, 'Mike Kiss'
+go
+inserirScreenPlay 2851, 'Betsy Drake'
+go
+inserirScreenPlay 2852, 'Ron Hall'
+go
+inserirScreenPlay 2853, 'Michael Carney'
+go
+inserirScreenPlay 2854, 'Alexander Foard'
+go
+inserirScreenPlay 2855, 'Kelly Bowe'
+go
+inserirScreenPlay 2856, 'April Blair'
+go
+inserirScreenPlay 2857, 'Giacomo Campiotti'
+go
+inserirScreenPlay 2858, 'Francesco Arlanch'
+go
+inserirScreenPlay 2859, 'Mauro Lima'
+go
+inserirScreenPlay 2860, 'Christine Hartmann'
+go
+inserirScreenPlay 2861, 'Katharina Reschke'
+go
+inserirScreenPlay 2862, 'Kenneth Lonergan'
+go
+inserirScreenPlay 2863, 'Gordon Buford'
+go
+inserirScreenPlay 2864, 'Philip Halprin'
+go
+inserirScreenPlay 2865, 'Mark Gibson'
+go
+inserirScreenPlay 2866, 'Karl Geurs'
+go
+inserirScreenPlay 2867, 'Michel Audiard'
+go
+inserirScreenPlay 2868, 'Jean Vautrin'
+go
+inserirScreenPlay 2869, 'Nicole Holofcener'
+go
+inserirScreenPlay 2870, 'Steve Moore'
+go
+inserirScreenPlay 2871, 'Marc Norman'
+go
+inserirScreenPlay 2872, 'Robert King'
+go
+inserirScreenPlay 2873, 'Grant Morris'
+go
+inserirScreenPlay 2874, 'Grant Morrison'
+go
+inserirScreenPlay 2875, 'John Huston'
+go
+inserirScreenPlay 2876, 'Tommy Krappweis'
+go
+inserirScreenPlay 2877, 'Sebastian B. Voss'
+go
+inserirScreenPlay 2878, 'Doris Seisenberger'
+go
+inserirScreenPlay 2879, 'Nina Trachte'
+go
+inserirScreenPlay 2880, 'James Gray'
+go
+inserirScreenPlay 2881, 'Matt Reeves'
+go
+inserirScreenPlay 2882, 'Phyllis Reynolds Naylor'
+go
+inserirScreenPlay 2883, 'Jonathan Hensleigh'
+go
+inserirScreenPlay 2884, 'Robert Caswell'
+go
+inserirScreenPlay 2885, 'Caleb Wilson'
+go
+inserirScreenPlay 2886, 'Matt Allen'
+go
+inserirScreenPlay 2887, 'Howard Michael Gould'
+go
+inserirScreenPlay 2888, 'Jane Anderson'
+go
+inserirScreenPlay 2889, 'Richard Christian Matheson'
+go
+inserirScreenPlay 2890, 'Tom Szollosi'
+go
+inserirScreenPlay 2891, 'Thomas Szollosi'
+go
+inserirScreenPlay 2892, 'Charles Beaumont'
+go
+inserirScreenPlay 2893, 'Ed Horowitz'
+go
+inserirScreenPlay 2894, 'Robin Russin'
+go
+inserirScreenPlay 2895, 'James Toback'
+go
+inserirScreenPlay 2896, 'Digby George Gerahty'
+go
+inserirScreenPlay 2897, 'Jean Abounader'
+go
+inserirScreenPlay 2898, 'J.B. White'
+go
+inserirScreenPlay 2899, 'Michael Petroni'
+go
+inserirScreenPlay 2900, 'Claudio Lobato'
+go
+inserirScreenPlay 2901, 'Gabriela Amaral Almeida'
+go
+inserirScreenPlay 2902, 'Claudia Lobato'
+go
+inserirScreenPlay 2903, 'Tara Ison'
+go
+inserirScreenPlay 2904, 'Joan Didion'
+go
+inserirScreenPlay 2905, 'John Gregory Dunne'
+go
+inserirScreenPlay 2906, 'James Mills'
+go
+inserirScreenPlay 2907, 'Larry Forrester'
+go
+inserirScreenPlay 2908, 'Don Ingalls'
+go
+inserirScreenPlay 2909, 'Waldo Salt'
+go
+inserirScreenPlay 2910, 'Masayuki Suo'
+go
+inserirScreenPlay 2911, 'Philip Dalkin'
+go
+inserirScreenPlay 2912, 'Virginia Korus Spragg'
+go
+inserirScreenPlay 2913, 'Jerry Juhl'
+go
+inserirScreenPlay 2914, 'Kenneth Kaufman'
+go
+inserirScreenPlay 2915, 'Joey Mazzarino'
+go
+inserirScreenPlay 2916, 'Kathleen Kinmont'
+go
+inserirScreenPlay 2917, 'Michael January'
+go
+inserirScreenPlay 2918, 'Mike Stone'
+go
+inserirScreenPlay 2919, 'Dick Desmond'
+go
+inserirScreenPlay 2920, 'Jules Levy'
+go
+inserirScreenPlay 2921, 'Michael Harreschou'
+go
+inserirScreenPlay 2922, 'Joseph Barbera'
+go
+inserirScreenPlay 2923, 'William Hanna'
+go
+inserirScreenPlay 2924, 'Paul Hernandez'
+go
+inserirScreenPlay 2925, 'Giovanna Giovanini'
+go
+inserirScreenPlay 2926, 'Glenn Ficarra'
+go
+inserirScreenPlay 2927, 'John Requa'
+go
+inserirScreenPlay 2928, 'Peter Rader'
+go
+inserirScreenPlay 2929, 'Alexandre Aja'
+go
+inserirScreenPlay 2930, 'Grégory Levasseur'
+go
+inserirScreenPlay 2931, 'Boyd Hale'
+go
+inserirScreenPlay 2932, 'Rafael Sabatini'
+go
+inserirScreenPlay 2933, 'Samson Raphaelson'
+go
+inserirScreenPlay 2934, 'Josh Klausner'
+go
+inserirScreenPlay 2935, 'William Steig'
+go
+inserirScreenPlay 2936, 'Neil Tolkin'
+go
+inserirScreenPlay 2937, 'James Salisko'
+go
+inserirScreenPlay 2938, 'Rudy Rupak'
+go
+inserirScreenPlay 2939, 'Jacques Becker'
+go
+inserirScreenPlay 2940, 'Albert Simonin'
+go
+inserirScreenPlay 2941, 'Maurice Griffe'
+go
+inserirScreenPlay 2942, 'Josh Trank'
+go
+inserirScreenPlay 2943, 'Simon Kinberg'
+go
+inserirScreenPlay 2944, 'Jeremy Slater'
+go
+inserirScreenPlay 2945, 'Ed Turner'
+go
+inserirScreenPlay 2946, 'Bosco Kline'
+go
+inserirScreenPlay 2947, 'James Cappe'
+go
+inserirScreenPlay 2948, 'David Arnott'
+go
+inserirScreenPlay 2949, 'William Shakespeare'
+go
+inserirScreenPlay 2950, 'Paul Reubens'
+go
+inserirScreenPlay 2951, 'Phil Hartman'
+go
+inserirScreenPlay 2952, 'Michael Varhol'
+go
+inserirScreenPlay 2953, 'Ralph Nelson'
+go
+inserirScreenPlay 2954, 'Frank Gabrielson'
+go
+inserirScreenPlay 2955, 'Paco Arango'
+go
+inserirScreenPlay 2956, 'Janet Kovalcik'
+go
+inserirScreenPlay 2957, 'Adriana Falcão'
+go
+inserirScreenPlay 2958, 'João Falcão'
+go
+inserirScreenPlay 2959, 'David Magee'
+go
+inserirScreenPlay 2960, 'Murray Salem'
+go
+inserirScreenPlay 2961, 'Naomi Foner Gyllenhaal'
+go
+inserirScreenPlay 2962, 'Andrew Sinclair'
+go
+inserirScreenPlay 2963, 'Mann Rubin'
+go
+inserirScreenPlay 2964, 'Jordan Roter'
+go
+inserirScreenPlay 2965, 'William Edmund Barrett'
+go
+inserirScreenPlay 2966, 'Lord Alfred Hayes'
+go
+inserirScreenPlay 2967, 'José Rivera'
+go
+inserirScreenPlay 2968, 'Tim Sullivan'
+go
+inserirScreenPlay 2969, 'Matt Corman'
+go
+inserirScreenPlay 2970, 'Chris Ord'
+go
+inserirScreenPlay 2971, 'Mark Protosevich'
+go
+inserirScreenPlay 2972, 'Peter Markle'
+go
+inserirScreenPlay 2973, 'John Whitman'
+go
+inserirScreenPlay 2974, '???? ??????'
+go
+inserirScreenPlay 2975, 'Fredric M. Frank'
+go
+inserirScreenPlay 2976, 'Harold Lamb'
+go
+inserirScreenPlay 2977, 'Stephen Ronald Francis'
+go
+inserirScreenPlay 2978, 'Gus Silber'
+go
+inserirScreenPlay 2979, 'Fay Weldon'
+go
+inserirScreenPlay 2980, 'Claude Binyon'
+go
+inserirScreenPlay 2981, 'Alex Kendrick'
+go
+inserirScreenPlay 2982, 'Stephen Kendrick'
+go
+inserirScreenPlay 2983, 'Manya Starr'
+go
+inserirScreenPlay 2984, 'Ernest Kinoy'
+go
+inserirScreenPlay 2985, 'Claude Lelouch'
+go
+inserirScreenPlay 2986, 'Warren Lane'
+go
+inserirScreenPlay 2987, 'Katie Wech'
+go
+inserirScreenPlay 2988, 'Corbin Bernsen'
+go
+inserirScreenPlay 2989, 'Pedro Cardoso'
+go
+inserirScreenPlay 2990, 'Tom Sherohman'
+go
+inserirScreenPlay 2991, 'Patrícia Andrade'
+go
+inserirScreenPlay 2992, 'Carolina Kotscho'
+go
+inserirScreenPlay 2993, 'David McHugh'
+go
+inserirScreenPlay 2994, 'Matthew Flanagan'
+go
+inserirScreenPlay 2995, 'Spike Jonze'
+go
+inserirScreenPlay 2996, 'Mary C. Ryan'
+go
+inserirScreenPlay 2997, 'Jeffrey Alan Schechter'
+go
+inserirScreenPlay 2998, 'Charles Edward Pogue'
+go
+inserirScreenPlay 2999, 'Ed Naha'
+go
+inserirScreenPlay 3000, 'Tom Schulman'
+go
+inserirScreenPlay 3001, 'Edward Anhalt'
+go
+inserirScreenPlay 3002, 'Céline Garcia'
+go
+inserirScreenPlay 3003, 'Patrice Garcia'
+go
+inserirScreenPlay 3004, 'Glauber Rocha'
+go
+inserirScreenPlay 3005, 'Walter Lima Jr.'
+go
+inserirScreenPlay 3006, 'Paulo Gil Soares'
+go
+inserirScreenPlay 3007, 'Bill Corbett'
+go
+inserirScreenPlay 3008, 'Max Enscoe'
+go
+inserirScreenPlay 3009, 'David Wise'
+go
+inserirScreenPlay 3010, 'Mark Bierlein'
+go
+inserirScreenPlay 3011, 'Gina Kaus'
+go
+inserirScreenPlay 3012, 'Irwin Allen'
+go
+inserirScreenPlay 3013, 'John Meredyth Lucas'
+go
+inserirScreenPlay 3014, 'John Milius'
+go
+inserirScreenPlay 3015, 'Oliver Stone'
+go
+inserirScreenPlay 3016, 'Robert I. Holt'
+go
+inserirScreenPlay 3017, 'Jerome Bixby'
+go

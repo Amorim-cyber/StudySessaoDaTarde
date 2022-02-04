@@ -1,0 +1,3018 @@
+ID Roterista	Nome Roterista
+1	Howard Klausner
+2	Pamela Falk
+3	Michael Ellis
+4	null
+5	Mike Thompson
+6	Brandon Camp
+7	David Seltzer
+8	Dale Launer
+9	Bia Crespo
+10	Flávia Guimarães
+11	Jo Heims
+12	Blake Edwards
+13	Geoffrey Edwards
+14	Jorge Furtado
+15	Cláudio Lisboa
+16	Jonathan Aibel
+17	Glenn Berger
+18	Tim Lovestedt
+19	Annie Mumolo
+20	Pamela Gray
+21	Robert Vince
+22	Anne Vince
+23	Anna McRoberts
+24	John Hughes
+25	Amy Holden Jones
+26	Dana Olsen
+27	Benjamin August
+28	Richard Stanley
+29	Ron Hutchinson
+30	Charles Brackett
+31	Billy Wilder
+32	Carlos Gregório
+33	John Hopkins
+34	Bruce Graham
+35	Elan Mastai
+36	Roberto Benigni
+37	Vincenzo Cerami
+38	Steve L. Hayes
+39	Debra Frank
+40	Steven L. Hayes
+41	Robert Connolly
+42	Steve Worland
+43	Steve Oedekerk
+44	Steve Koren
+45	Mark O'Keefe
+46	Eleanor Bergstein
+47	Corra Mae Harris
+48	Lamar Trotti
+49	Henry King
+50	Franco Amurri
+51	Stu Krieger
+52	Babaloo Mandel
+53	Lowell Ganz
+54	Ligiah Villalobos
+55	Daniel Berendsen
+56	Nisha Ganatra
+57	Jen Small
+58	Jeffrey Boam
+59	Eddie Murphy
+60	Darrell Ware
+61	Karl Tunberg
+62	Seton I. Miller
+63	Ronald Bass
+64	Dominique Lapierre
+65	Jan Hartman
+66	Carol Kaplan
+67	Harry Kurnitz
+68	Steven Rogers
+69	Mark H. Baker
+70	Michael Burton
+71	Matt MacManus
+72	Phil Joanou
+73	Harold Ramis
+74	Danny Rubin
+75	Frank Tashlin
+76	Harry Tugend
+77	Hal Kanter
+78	Nunnally Johnson
+79	Adriano Stuart
+80	Cassiano Gabus Mendes
+81	Carlos Lombardi
+82	Bob Kanter
+83	Malcolm D. Lee
+84	Mick Garris
+85	Neil Cuthbert
+86	Vincent Patrick
+87	Richard Boddington
+88	Gary Ross
+89	Anne Spielberg
+90	Darren Star
+91	Sidney J. Furie
+92	Kevin Alyn Elders
+93	Karen Leigh Hopkins
+94	Jim Thomas
+95	John Thomas
+96	Michael J. Henderson
+97	Ernest Lehman
+98	George Hurdalek
+99	William Inge
+100	Daniel Taradash
+101	Seth Rogen
+102	Evan Goldberg
+103	David Titcher
+104	Marco Schnabel
+105	George MacDonald Fraser
+106	Melissa Mathison
+107	Dan Aykroyd
+108	Rick Moranis
+109	Antonio Carlos da Fontoura
+110	Corey Michael Eubanks
+111	Tim Herlihy
+112	Robert Riskin
+113	Edward Tang
+114	Fibe Ma
+115	George Lucas
+116	Bob Carrau
+117	Bill Walsh
+118	Lillie Hayward
+119	Casey Robinson
+120	D. J. MacHale
+121	David Saperstein
+122	Tom Benedek
+123	Matthew Robbins
+124	Brad Bird
+125	Brent Maddock
+126	S. S. Wilson
+127	Daniel Waters
+128	Steven E. de Souza
+129	Jerry Leichtling
+130	Arlene Sarner
+131	Jean Shepherd
+132	Bob Clark
+133	Leigh Brown
+134	Leonard Gershe
+135	Jerry Seinfeld
+136	Barry Marder
+137	Andy Robin
+138	Spike Feresten
+139	William Nicholson
+140	Marilyn Sadler
+141	Roger Bollen
+142	Sheila Burnford
+143	Julie Hickson
+144	Chris Hauty
+145	John Patrick Shanley
+146	Borden Chase
+147	Horace McCoy
+148	Pierre Adidge
+149	Robert Abel
+150	Ernest Pascal
+151	Walter Bullock
+152	Ted Sherdeman
+153	Sam Rolfe
+154	Eddie Moran
+155	Jack Jevne
+156	Eric S. Hatch
+157	Jim Cash
+158	Jack Epps Jr.
+159	Warren Skaaren
+160	Yves Robert
+161	Robert Klane
+162	Francis Veber
+163	Francis Edward Faragoh
+164	Stewart Schill
+165	Mike Werb
+166	Michael Colleary
+167	Claire-Dee Lim
+168	Barry B. Longyear
+169	Edward Khmara
+170	Edmund Beloin
+171	Henry Garson
+172	Sérgio G. Sanchez
+173	Sergio G. Sánchez
+174	Phil Lord
+175	Chris Miller
+176	Rob Greenberg
+177	David Soren
+178	Darren Lemke
+179	Robert Siegel
+180	Don Rhymer
+181	Mark Christopher
+182	Stuart Beattie
+183	Deanna Oliver
+184	Sherri Stoner
+185	Seymour Reit
+186	Jeanne Rosenberg
+187	Walter Murch
+188	William D. Wittliff
+189	Sy Gomberg
+190	George Wells
+191	Eddie Guzelian
+192	Caroline Thompson
+193	Linda Woolverton
+194	Jonathan Roberts
+195	Guerdon Trueblood
+196	Doug Jung
+197	Alan Trustman
+198	Charles Wood
+199	Charlie Fletcher
+200	Walter Bernstein
+201	James Jeremias
+202	Janice Fischer
+203	Cameron Crowe
+204	Charles Shyer
+205	Robert L. Levy
+206	James Lee Barrett
+207	Alan Mandel
+208	Alexi Kaye Campbell
+209	A. I. Bezzerides
+210	Brian Hooker
+211	Herman J. Mankiewicz
+212	Dorothy Kingsley
+213	Allen Boretz
+214	Frank Waldman
+215	Marcos Bernstein
+216	Melanie Dimantas
+217	Hervé Palud
+218	Thierry Lhermitte
+219	Bruce A. Evans
+220	Raynold Gideon
+221	Bonnie Turner
+222	Fred Wolf
+223	Terry Turner
+224	Martin Brest
+225	Peter Sattler
+226	Larry Gelbart
+227	Lenore Coffee
+228	Marion Hargrove
+229	Guel Arraes
+230	Thalita Rebouças
+231	Tati Ingrid Adão
+232	William Bowers
+233	Eric Wald
+234	Gregory Poppen
+235	Sam Resnick
+236	John McGrath
+237	Mario Andreacchio
+238	Michael Bourchier
+239	Mark Saltzman
+240	Ivan Menchell
+241	Gerald Di Pego
+242	Alan Ormsby
+243	George Baker
+244	Nate Monaster
+245	Sabrina Garcia
+246	Rodrigo Goulart
+247	Leandro Muniz
+248	Steven Conrad
+249	Jackie Chan
+250	Paul Clay
+251	Barry Haigh
+252	Sylvester Stallone
+253	Andrew Bergman
+254	Lester Cole
+255	George Bruce
+256	Robert Burke
+257	Robert Karl Burke
+258	Carol Black
+259	Jesse L. Lasky Jr.
+260	David Lindsay-Abaire
+261	Ron Clements
+262	John Musker
+263	Terry Rossio
+264	Ted Elliott
+265	Steven Long Mitchell
+266	Craig W. Van Sickle
+267	George Gallo
+268	Marjorie Lawrence
+269	William Ludwig
+270	Sonya Levien
+271	Christian Vuissa
+272	Aurania Rouverol
+273	Carey Wilson
+274	David O. Russell
+275	Daniel Barnz
+276	Brin Hill
+277	Evgeniy Emelin
+278	John Hamburg
+279	Jim Herzfeld
+280	Chris Denk
+281	Scott Clevenger
+282	Timothy Wayne Peternel
+283	Alan Alda
+284	Convite à Dança
+285	Dan Schneider
+286	Marc Stirdivant
+287	Mickey Rose
+288	Robert Sheckley
+289	Deborah Kaplan
+290	Adam Sztykiel
+291	Harry Elfont
+292	Robert Pulcini
+293	Shari Springer Berman
+294	Cara Lockwood
+295	Eric C. Charmelo
+296	Nicole Snyder
+297	Jerome Armstrong
+298	Billy Ray
+299	Douglas Day Stewart
+300	Lea Schmidbauer
+301	Kristina Magdalena Henn
+302	J. J. Abrams
+303	Jill Mazursky
+304	Stephen Black
+305	Henry Stern
+306	Stanley Shapiro
+307	Oscar Brodney
+308	Robert Harling
+309	Paul Rudnick
+310	Jill Craigie
+311	Rod Amateau
+312	Nora Ephron
+313	Adam McKay
+314	Delia Ephron
+315	Phil Johnston
+316	Pamela Wallace
+317	Rowdy Herrington
+318	Marty Kaplan
+319	David Simkins
+320	Robert V. Barron
+321	George Tibbles
+322	Harry Brown
+323	Jymn Magon
+324	Thomas Hart
+325	Michael Haneke
+326	Diego Muller
+327	Davi Pires
+328	Tia Brelis
+329	Gregory Widen
+330	Larry Ferguson
+331	Peter Bellwood
+332	Thomas Meehan
+333	Garry Michael White
+334	Fred Weintraub
+335	Danielle Steel
+336	Robert Eisele
+337	Stefan Barth
+338	Charles M. Schulz
+339	Todd Komarnicki
+340	Boaz Yakin
+341	Ed Solomon
+342	Edward Ricourt
+343	Lars Gudmestad
+344	Erik Sommers
+345	Chris McKenna
+346	Karey Kirkpatrick
+347	Lorne Cameron
+348	Len Blum
+349	David Hoselton
+350	Jim Fall
+351	Barbara Kymlicka
+352	Ronny Graham
+353	Ruth Rose
+354	Mark Rosenthal
+355	Lawrence Konner
+356	Les Weldon
+357	Daniel Truly
+358	Andrew Dettmann
+359	Barry W. Blaustein
+360	David Sheffield
+361	Paul Hogan
+362	John Cornell
+363	Ken Shadie
+364	Erich Segal
+365	Yoni Brenner
+366	Carlos Kotkin
+367	Jenny Bicks
+368	Kim Fuller
+369	Bill Peet
+370	William Goldman
+371	Jerome Chodorov
+372	Joseph Fields
+373	Paul Mooney
+374	Sara Bernstein
+375	Ziggy Steinberg
+376	Robert Zemeckis
+377	Bob Gale
+378	PJ Torokvei
+379	Gideon Defoe
+380	Michael Lucker
+381	Roger S.H. Schulman
+382	Chris Parker
+383	Walter Hill
+384	Larry Gross
+385	Michelle Lovretta
+386	Paul Newman
+387	Ronald Buck
+388	Robert E. Kent
+389	Betty Comden
+390	Adolph Green
+391	Federico Fellini
+392	Bernardino Zapponi
+393	David Andrew Goldstein
+394	David Benullo
+395	Paul Mayhew-Archer
+396	Richard Curtis
+397	Fabio Piccioni
+398	John Bryant
+399	Stuart Gillard
+400	Rob Hudnut
+401	Linda Engelsiepen
+402	Hilary Hinkle
+403	Robert M. Young
+404	Robert Malcolm Young
+405	Tong Lung
+406	Derek Lowe
+407	Anthony Patrick Wong
+408	Lisa Mulcahy
+409	Nadadja Kemper
+410	Gwen Eckhaus
+411	Flávio de Souza
+412	James Dixon
+413	William Brookfield
+414	Paul Bernbaum
+415	Norm Prescott
+416	Fred Ladd
+417	Bernard Evslin
+418	Charles Goddard
+419	Albert Beich
+420	Shin Sang-ok
+421	Edward Emanuel
+422	Mel Brooks
+423	Barry Levinson
+424	Rudy De Luca
+425	Ron Clark
+426	Richard Murphy
+427	Herbert H. Margolis
+428	William Raynor
+429	Myles Connolly
+430	Paul Gangelin
+431	Jan de Bont
+432	Graham Yost
+433	Randall McCormick
+434	Jeff Nathanson
+435	Hugh Lofting
+436	Nina Colman
+437	Steven Pressfield
+438	Alan Hackney
+439	Oliver Sacks
+440	Steve Levitt
+441	Adam Rifkin
+442	Andrew Stanton
+443	Pete Docter
+444	Jim Reardon
+445	Hal Fimberg
+446	Ben Starr
+447	Frank Tarloff
+448	S. H. Barnett
+449	Peter Stone
+450	Daryn Tufts
+451	Kay Thompson
+452	Hilary Knight
+453	Janet Brownell
+454	Jerry Sackheim
+455	Theodore J. Flicker
+456	John D. Hess
+457	Nancy Meyers
+458	Malcolm Marmorstein
+459	Jerry O'Connell
+460	Jessica Bendinger
+461	Kate Kondell
+462	Audrey Wells
+463	Raymond Wong
+464	Michael France
+465	Mark Frost
+466	Steve Coogan
+467	Jeff Pope
+468	Allison Schroeder
+469	Cliff Ruby
+470	Elana Lesser
+471	Blake Masters
+472	Lawrence Kasdan
+473	Robert Getchell
+474	John H. Secondari
+475	John Patrick
+476	Lewis Gilbert
+477	Vernon Harris
+478	George Miller
+479	Dick King-Smith
+480	Judy Morris
+481	Mark Lamprell
+482	Chip Rosenbloom
+483	Harriet Frank Jr.
+484	Irving Ravetch
+485	Hugo Butler
+486	Brenda Chapman
+487	Mark Andrews
+488	Steve Purcell
+489	Irene Mecchi
+490	Luciano Vincenzoni
+491	Sergio Donati
+492	Robert Towne
+493	William Link
+494	Richard Levinson
+495	Matt Lieberman
+496	Dan Ewen
+497	Fábio Porchat
+498	Tati Bernardi
+499	Patricia Corso
+500	Amy Engelberg
+501	Wendy Engelberg
+502	Lou Holtz Jr.
+503	Laurice Elehwany
+504	Jeff Rothberg
+505	Steven Alldredge
+506	William N. Panzer
+507	Brian Clemens
+508	John August
+509	William Dear
+510	Ezra D. Rappaport
+511	William E. Martin
+512	Hugh Wilson
+513	Pat Proft
+514	Neal Israel
+515	Ross LaManna
+516	Diann Hunt
+517	David M. Evans
+518	Sergio Corbucci
+519	Sabatino Ciuffini
+520	Robert Brodie Booth
+521	Gordon Wilson Jr.
+522	Thomas Monroe
+523	Leonard Wibberley
+524	Roger MacDougall
+525	Stanley Mann
+526	Jessie Nelson
+527	Shuki Levy
+528	Shell Danielson
+529	James L. Brooks
+530	Dale Wasserman
+531	David Berenbaum
+532	Steven Pearl
+533	Allan Loeb
+534	Scott Myers
+535	Steven Siegel
+536	Julie Brown
+537	Karin Gist
+538	Regina Y. Hicks
+539	Paul Brown
+540	Eric Luke
+541	Guillermo del Toro
+542	Kenya Barris
+543	Richard Rothstein
+544	Thomas Hedley
+545	Robert Rodriguez
+546	Luiz Villaça
+547	Mariana Veríssimo
+548	Maurício Arruda
+549	José Roberto Torero
+550	José Alvarenga Júnior
+551	Maria Carmem Barbosa
+552	Neal Barbera
+553	Greg Berlanti
+554	Michael Goldenberg
+555	Marc Guggenheim
+556	Michael Green
+557	Jenny Arata
+558	Kelly Senecal
+559	Robert L. Baird
+560	Randall Jahnson
+561	Willard Huyck
+562	Gloria Katz
+563	Alfred Lewis Levitt
+564	Helen Levitt
+565	Helen Slote Levitt
+566	Earl Hamner, Jr.
+567	Dudley Nichols
+568	Paul B. Clay
+569	Patrick Sheane Duncan
+570	Fred Dekker
+571	Shane Black
+572	Lucas Reiner
+573	Roman Coppola
+574	Warren Murphy
+575	Richard Sapir
+576	Christopher Wood
+577	Anna Hamilton Phelan
+578	David Koepp
+579	John Kamps
+580	Daniel Handler
+581	Tatiana Suarez Pico
+582	Joshua Conkel
+583	Emily Fox
+584	Scott Sandorf
+585	Charles Ransom
+586	Todd Richardson
+587	Robert T. Megginson
+588	Gregory Fleeman
+589	Bill Condon
+590	Brock Yates
+591	Rafael Yglesias
+592	Harry Spalding
+593	Rosemary Anne Sisson
+594	Gerry Day
+595	John Van Druten
+596	Phillip Rock
+597	Leigh Dunlap
+598	Jandira Martini
+599	Mário Prata
+600	Marcos Caruso
+601	John Kingswell
+602	M. Sussman
+603	John Bunzel
+604	Paul Young
+605	Lo Wei
+606	Kenneth Tsang
+607	Sid Campbell
+608	William C. Martell
+609	Francis Wallace
+610	Glendon Swarthout
+611	Mac Benoff
+612	Miles Millar
+613	Alfred Gough
+614	Tracey Jackson
+615	Alvin Sargent
+616	Paul Matthews
+617	Christopher Atkins
+618	Milton Wexler
+619	Czenzi Ormonde
+620	Dick Kinney
+621	Ted Allan
+622	Renato Aragão
+623	Mauro Wilson
+624	Paulo Andrade
+625	Richard Maibaum
+626	Louis L'Amour
+627	Frank Gill Jr.
+628	Jack Natteford
+629	Valentine Davies
+630	Ib Melchior
+631	John C. Higgins
+632	Toby Genkel
+633	Richie Conroy
+634	Mark Hodkinson
+635	Marteinn Thorisson
+636	Jack Maeby
+637	Jon Connolly
+638	David Loucka
+639	John P. Connolly
+640	Dannah Phirman
+641	Jeffrey Bushell
+642	Danielle Schneider
+643	Sacha Gervasi
+644	Jonathan R. Betuel
+645	Neil Jordan
+646	Philip Yordan
+647	Ray Bradbury
+648	Jimmy Cannon
+649	Andrew Nicholls
+650	Darrell Vickers
+651	Lorenzo Semple Jr.
+652	Edgar Wallace
+653	James Ashmore Creelman
+654	Jeffrey Kindley
+655	Pierre Barillet
+656	Sheldon Lettich
+657	Paul Mones
+658	Steve Klein
+659	Ethan Wiley
+660	Richard Hughes
+661	Ronald Harwood
+662	Denis Cannan
+663	James Cameron
+664	Claude Zidi
+665	Didier Kaminka
+666	Simon Michaël
+667	Steve Martin
+668	Robert Boris
+669	Geoff Rodkey
+670	Victor Levin
+671	Brian Doyle-Murray
+672	Douglas Kenney
+673	David H. Steinberg
+674	Nick Pustay
+675	Laurie Craig
+676	Joshua Sternin
+677	Jeffrey Ventimilia
+678	Joss Whedon
+679	Joel Cohen
+680	Alec Sokolow
+681	Scott Rosenberg
+682	Jeff Pinkner
+683	Léa Fazer
+684	Benoît Graffin
+685	Ayelet Menahemi
+686	Shemi Zarhin
+687	James Orr
+688	Judi Ann Mason
+689	Jim Cruickshank
+690	Stirling Silliphant
+691	Kevin DiCicco
+692	Carlo Carlei
+693	James Herbert
+694	James Carrington
+695	Gene Nelson
+696	Gerald Drayson Adams
+697	Norman Wexler
+698	Nik Cohn
+699	David Detiege
+700	John Francis Daley
+701	Jonathan M. Goldstein
+702	Erica Rivinoja
+703	Leslie Dixon
+704	Peter Tolan
+705	Nicholas J. Corea
+706	John Korty
+707	James Lee
+708	Eric Bercovici
+709	S.S. Schweitzer
+710	Jim McBride
+711	Jean-Luc Godard
+712	L. M. Kit Carson
+713	Frank Nugent
+714	Abdul Williams
+715	Jack Amiel
+716	Michael Begler
+717	Chuck Norris
+718	James Bruner
+719	Gene Quintano
+720	Lee Reynolds
+721	Joe Eszterhas
+722	Ha Jung-woo
+723	Kim Seong-hun
+724	Chris Columbus
+725	David I. Stern
+726	Wagner de Assis
+727	George Roy Hill
+728	Allan Burns
+729	Braz Chediak
+730	Anna Muylaert
+731	Regina Casé
+732	Gregg Rossen
+733	Brian Sawyer
+734	Ron Koslow
+735	Robert Benton
+736	Elizabeth Hunter
+737	Arlene Gibbs
+738	Debbie Gaughan
+739	John Donovan
+740	Lewis Carroll
+741	Philippe de Chauveron
+742	Marc de Chauveron
+743	Guy Laurent
+744	Maksim Sveshnikov
+745	Vladlen Barbe
+746	Vadim Sveshnikov
+747	Donald Roman Lopez
+748	Frank Deese
+749	Daniel Goldberg
+750	James B. Allardice
+751	Bel Kaufman
+752	Tad Mosel
+753	Anders Ølholm
+754	Nikolaj Arcel
+755	Torbjørn Rafn
+756	Robert Conte
+757	Peter Martin Wortmann
+758	Beth Gutcheon
+759	Brian Helgeland
+760	Michael Crichton
+761	John Fenton Murray
+762	Steve McNeil
+763	Mark Andrus
+764	Vivienne De Courcy
+765	Tommy Blaze
+766	Henry James
+767	Chad Hayes
+768	Carey Hayes
+769	Jade Bartlett
+770	Mark Steilen
+771	Bennett Yellin
+772	Kevin Kopelow
+773	Heath Seifert
+774	Paul Pender
+775	Luc Besson
+776	Brad Wright
+777	Jonathan Glassner
+778	Edward Neumeier
+779	Michael Miner
+780	Edwin Justus Mayer
+781	Wanda Tuchock
+782	Robert Mark Kamen
+783	Arthur Browne Jr.
+784	Gail Parent
+785	Kenny Solms
+786	Alan Shearman
+787	Joe Camp
+788	Ben Vaughn
+789	Albert Hackett
+790	Frances Goodrich
+791	James Mangold
+792	Kirk DeMicco
+793	Robert Moreland
+794	Jason Mayland
+795	Dedé Santana
+796	Beverley Cross
+797	Dana Fox
+798	Rawson Marshall Thurber
+799	John Mattson
+800	Corey Blechman
+801	Karen Janszen
+802	João Emanuel Carneiro
+803	Ehren Kruger
+804	Kang Drama
+805	David Bowers
+806	Osamu Tezuka
+807	Timothy Harris
+808	Jon Cooksey
+809	Ali Marie Matheson
+810	Ricou Browning
+811	Jack Cowden
+812	Ivan Tors
+813	Art Arthur
+814	Harry Segall
+815	Don Hartman
+816	Edwin Blum
+817	Paulo Cursino
+818	Gustavo Cerbasi
+819	Angélica Lopes
+820	Dennis Feldman
+821	Mary Hale
+822	Paul Henning
+823	Burr Steers
+824	Kristen Buckley
+825	Brian Regan
+826	Amy Heckerling
+827	Peter Barsocchini
+828	Juliet Giglio
+829	Keith Giglio
+830	Charles F. Bohl
+831	Danny Byers
+832	John J. Jordan
+833	Michael Goldberg
+834	Tommy Swerdlow
+835	Damon Wayans
+836	J. F. Lawton
+837	Andrew Smith
+838	Ken Finkleman
+839	Jim Cox
+840	Diana Young
+841	Bruno Corbucci
+842	Michael Kozoll
+843	William Sackheim
+844	Jonathan Newman
+845	Neil Simon
+846	Tijs van Marle
+847	Karen van Holst Pellekaan
+848	Cláudio Torres
+849	Claudio Torres
+850	David França Mendes
+851	Massimo de Rita
+852	Simone De Rita
+853	Roger Donaldson
+854	Clive Egleton
+855	Leigh Vance
+856	Natacha Rambova
+857	Michael Showalter
+858	Laura Terruso
+859	Charles Addams
+860	Scott Sandin
+861	Rob Kerchner
+862	John Paragon
+863	Jerry Lewis
+864	Bill Richmond
+865	Kim Barker
+866	William Douglas Home
+867	Julius J. Epstein
+868	Michael J. Wilson
+869	Michael J. Leeson
+870	Art Edler Brown
+871	Douglas Sloan
+872	Shauna Cross
+873	Miguel Falabella
+874	Stanley Tong
+875	Frankie Chan
+876	Daniel Maximilian
+877	Thomas Pauli
+878	Sergey Kaluzhanov
+879	Oleg Pogodin
+880	Yuri Korotkov
+881	Gore Vidal
+882	Mark Burton
+883	John O'Farrell
+884	Tina Rathborne
+885	Peyo
+886	Stacey Harman
+887	Pamela Ribon
+888	Bobby Farrelly
+889	Peter Farrelly
+890	Mike Cerrone
+891	Michael Feifer
+892	William Hudson
+893	Kathy Mackel
+894	Chris Noonan
+895	Alan B. McElroy
+896	Vincent Chalvon-Demersay
+897	David Michel
+898	Robert Lamoreaux
+899	Michelle Lamoreaux
+900	Thiago Dottori
+901	Tom McGrath
+902	Eric Darnell
+903	Etan Cohen
+904	Alan Silberberg
+905	Jennifer Flackett
+906	Mark Levin
+907	Malia Scotch Marmo
+908	Ian McEwan
+909	Brad Ingelsby
+910	J. B. Tanko
+911	Jonathan Reynolds
+912	Stanley Roberts
+913	Michael Blankfort
+914	Anne-Marie Martin
+915	John Lee Mahin
+916	S.N. Behrman
+917	Jon Vitti
+918	Chris Viscardi
+919	Will McRobb
+920	David Peckinpah
+921	Suzanne Clauser
+922	Jennifer Jan
+923	Brittany Wiscombe
+924	Roland Emmerich
+925	Dean Devlin
+926	Michael Braverman
+927	Jeb Rosebrook
+928	Luis Valdez
+929	John Gilbert Barrett
+930	Emil Kolbe
+931	Tom Waldman
+932	Eleanore Griffin
+933	Allison Burnett
+934	John Logan
+935	Greg Michael
+936	Roberto Farias
+937	Don DaGradi
+938	Charlie Peters
+939	Daniel Gerson
+940	Jordan Roberts
+941	Elizabeth Chandler
+942	William Luce
+943	Victor Lustosa
+944	Eric Besnard
+945	Jordi Gasull
+946	Javier López Barreira
+947	Patxi Amezcua
+948	Neil Landau
+949	Doreen Spicer
+950	Samuel A. Taylor
+951	Ruth Brooks Flippen
+952	Katherine Albert
+953	Dale Eunson
+954	Mary Chase
+955	Theodore Reeves
+956	J. Mills Goodloe
+957	Billy Frolick
+958	Mark Seidenberg
+959	Rich Fogel
+960	Sarah Bird
+961	Michael Landon
+962	Dana Starfield
+963	Douglas Langdale
+964	Jim Abrahams
+965	Arthur Rankin, Jr.
+966	Len Korobkin
+967	Harvey Kurtzman
+968	Ben Queen
+969	Coline Serreau
+970	Stephen Mazur
+971	Paul Guay
+972	Lawrence Gay
+973	Michael J. Di Gaetano
+974	Mark Herman
+975	Maryam Keshavarz
+976	Jonathan Mastro
+977	Richard Matheson
+978	Anita Loos
+979	Charles Lederer
+980	Anthony Horowitz
+981	Michael Elliot
+982	Albert Brooks
+983	Marcus Figueiredo
+984	Guto Franco
+985	Lawrence Edward Watkin
+986	Vittorio Cottafavi
+987	Arnaldo Marrosu
+988	Giorgio Cristallini
+989	Ennio de Concini
+990	Gary Goldman
+991	David Z. Weinstein
+992	Colin Higgins
+993	Patricia Resnick
+994	Charles MacArthur
+995	Hal Barwood
+996	David L. Paterson
+997	Frederic Lebow
+998	Daniel G. Sullivan
+999	David Ronn
+1000	Jay Scherick
+1001	Andres Heinz
+1002	Mark Heyman
+1003	John J. McLaughlin
+1004	Steven Kampmann
+1005	William Porter
+1006	Laurie Finstad-Knizhnik
+1007	Oscar Hammerstein II
+1008	Paul Green
+1009	Knate Lee
+1010	Doug Lefler
+1011	William Davies
+1012	Herschel Weingrod
+1013	William Osborne
+1014	Willy Russell
+1015	Ed Ferrara
+1016	David Swift
+1017	Erich Kästner
+1018	John Carpenter
+1019	William Gray
+1020	Desmond Nakano
+1021	Gene Wilder
+1022	Corinne Griffith
+1023	Jack Rose
+1024	Ranveer Singh
+1025	Peter Yeldham
+1026	Geoffrey Orme
+1027	Ernst Bornemann
+1028	Lewis Colick
+1029	Lou Illar
+1030	Galen Thompson
+1031	James Clavell
+1032	Alex Kurtzman
+1033	Roberto Orci
+1034	Robert Kurtzman
+1035	James Hill
+1036	Wolf Mankowitz
+1037	Artur Brauner
+1038	Pedro Samu
+1039	John Fusco
+1040	Katherine Fugate
+1041	Don Holley
+1042	Tori Tellem
+1043	Bill Travers
+1044	Gavin Maxwell
+1045	Jack Couffer
+1046	Darryl F. Zanuck
+1047	Agnes Christine Johnston
+1048	Kay Van Riper
+1049	Chris Buck
+1050	Ash Brannon
+1051	Chris Jenkins
+1052	Joe Connelly
+1053	Brian Levant
+1054	Lon Diamond
+1055	David Newman
+1056	Edmilson Filho
+1057	Halder Gomes
+1058	L.G. Bayão
+1059	George Seaton
+1060	Len Deighton
+1061	Evan Jones
+1062	Bill Motz
+1063	Flip Kobler
+1064	Cindy Marcus
+1065	Bob Roth
+1066	Peter Benchley
+1067	Michael De Guzman
+1068	Dalton Trumbo
+1069	Ian McLellan Hunter
+1070	John Dighton
+1071	Filippo Sanjust
+1072	Cláudia Levay
+1073	Adam Sandler
+1074	Robert Smigel
+1075	Chris Dowling
+1076	James D. Parriott
+1077	Edmund L. Hartmann
+1078	Elwood Ullman
+1079	Rodman Philbrick
+1080	Charles Leavitt
+1081	Olivier Nakache
+1082	Éric Toledano
+1083	Marco Barboni
+1084	Orville H. Hampton
+1085	David Weissman
+1086	David Diamond
+1087	Pen Densham
+1088	John Watson
+1089	Richard Goudreau
+1090	David Sherman
+1091	Ken Annakin
+1092	Jack Davies
+1093	Danny Kallis
+1094	Jim Geoghan
+1095	Robert Horn
+1096	Michael Saltzman
+1097	Carolina Castro
+1098	Marcelo Saback
+1099	Jô Abdu
+1100	Ann Austen
+1101	Abraham Polonsky
+1102	Bruce Jay Friedman
+1103	Maggie Peren
+1104	Andi Rogenhagen
+1105	Chris Matheson
+1106	Frédéric Videau
+1107	Jurgen Wolff
+1108	Anne Brooksbank
+1109	John Chua
+1110	Alexander Talal
+1111	David DiGilio
+1112	Mike Rich
+1113	Michael Stokes
+1114	Max Shulman
+1115	Samuel Newman
+1116	Herbert Kline
+1117	John O'Dea
+1118	Kevin James
+1119	Nick Bakay
+1120	Steven Molaro
+1121	Michael J. Nathanson
+1122	Seth Winston
+1123	Paul A. Castleton
+1124	Wilfred H. Petitt
+1125	Melvin Levy
+1126	Nils Tavernier
+1127	Pierre Leyssieux
+1128	Laurent Bertoni
+1129	Joe Morhaim
+1130	Laurent Chalumeau
+1131	David Mamet
+1132	Shel Silverstein
+1133	Robert Rossen
+1134	Harry Kleiner
+1135	William Peter Blatty
+1136	Sergio Leone
+1137	Damiano Damiani
+1138	Fulvio Morsella
+1139	Ernesto Gastaldi
+1140	Matt Lopez
+1141	Flávio Migliaccio
+1142	Neena Beber
+1143	Craig Shapiro
+1144	Elizabeth Kruger
+1145	Daniel Pyne
+1146	Laurian Leggett
+1147	Jeffrey Price
+1148	Peter S. Seaman
+1149	Peter Crabbe
+1150	Andy Rose
+1151	Gary Conway
+1152	Gideon Amir
+1153	Avi Kleinberger
+1154	Elvira Lindo
+1155	Pamela Norris
+1156	Margaret Oberman
+1157	John Ehle
+1158	Carol Sobieski
+1159	David P. Harmon
+1160	William Faulkner
+1161	Susan Estelle Jansen
+1162	Ed Decter
+1163	John J. Strauss
+1164	Blayne Weaver
+1165	William Broyles, Jr.
+1166	Lee Hall
+1167	Bruce Joel Rubin
+1168	Michael Tolkin
+1169	Randy Kornfield
+1170	Ken Hixon
+1171	Nicholas Stoller
+1172	Tina Fey
+1173	Robert Shallcross
+1174	James Ferguson
+1175	Dan Gilroy
+1176	Ronald Shusett
+1177	Tom Mankiewicz
+1178	Jack Webb
+1179	Alan Zweibel
+1180	John Gilling
+1181	Earl Felton
+1182	Marcel Rodriguez
+1183	Tippi Dobrofsky
+1184	Neal Dobrofsky
+1185	Stanford Sherman
+1186	Richard Hooker
+1187	Ring Lardner Jr.
+1188	Maurice Capovilla
+1189	João Antônio Ferreira Filho
+1190	Gianfrancesco Guarnieri
+1191	Fil Braz
+1192	Vitor Brandt
+1193	Clare Sera
+1194	Eyal Podell
+1195	Jonathon E. Stewart
+1196	Lynn Siefert
+1197	Ben Roberts
+1198	Ivan Goff
+1199	John Strauss
+1200	Paul Armont
+1201	Jean Manoussi
+1202	Alex Ranarivelo
+1203	Joey Dedio
+1204	Brian Herskowitz
+1205	Kathryn Price
+1206	Nichole Millard
+1207	Jim Strain
+1208	Burt Kennedy
+1209	Jackie Gleason
+1210	A.-J. Russell
+1211	Cyril Hume
+1212	Ivor Novello
+1213	Júlia Rezende
+1214	Ingrid Guimarães
+1215	Lusa Silvestre
+1216	Simon Nye
+1217	Fabrizia Pinto
+1218	Daniela Thomas
+1219	Earl Richey Jones
+1220	Todd R. Jones
+1221	Jason Filardi
+1222	Turk Pipkin
+1223	Lou Berney
+1224	Shonda Rhimes
+1225	Ellen Green
+1226	Clifford Green
+1227	Clifford Scott Green
+1228	Piotr Ilitch Tchaikovski
+1229	Terry Cunningham
+1230	Steven Jones
+1231	Michael Palmieri
+1232	Hal Needham
+1233	Jerry Belson
+1234	Mike Binder
+1235	Ivan Reitman
+1236	Marguerite Roberts
+1237	Malcolm Stuart Boylan
+1238	Tom Reed
+1239	Marjory Gaffney
+1240	Aline Brosh McKenna
+1241	Dougal Robertson
+1242	Fred Haines
+1243	Carlos Alberto de Nóbrega
+1244	Gilberto Garcia
+1245	Wilson Vaz
+1246	Girls Town
+1247	Kazuo Fukazawa
+1248	Bill Dubuque
+1249	John Blumenthal
+1250	Michael Berry
+1251	Stephen Carpenter
+1252	Eduardo Coutinho
+1253	Tim McCanlies
+1254	Maria Nation
+1255	Sterling Anderson
+1256	Jill E. Blotevogel
+1257	Cathy Yuspa
+1258	Josh Goldsmith
+1259	Jeff Sherman
+1260	Cheryl Saban
+1261	John Leguizamo
+1262	David Bar Katz
+1263	Steve Rudnick
+1264	Leo Benvenuti
+1265	Debra Hill
+1266	Daniel Farrands
+1267	David Greenwalt
+1268	Jim Kouf
+1269	Paul Mazursky
+1270	Leon Capetanos
+1271	Sol Hurok
+1272	George Oppenheimer
+1273	Ruth Goode
+1274	Heidi Ferrer
+1275	Robert Collector
+1276	Matt Ember
+1277	Tom Astle
+1278	David Twohy
+1279	Jeb Stuart
+1280	Norman Steinberg
+1281	Bob Greene
+1282	David Frankel
+1283	George Axelrod
+1284	Tony Lazzarino
+1285	James Warner Bellah
+1286	Jack Pulman
+1287	Teena Booth
+1288	Suzette Couture
+1289	Diane Thomas
+1290	Treva Silverman
+1291	Lem Dobbs
+1292	Howard Franklin
+1293	William Gough
+1294	Anna Sandor
+1295	Barry Primus
+1296	John O'Hara
+1297	Shinichi Sekizawa
+1298	Robert Day
+1299	Edgar Rice Burroughs
+1300	Berne Giler
+1301	Bob Peterson
+1302	David Reynolds
+1303	Annie DeYoung
+1304	John Grogan
+1305	Don Roos
+1306	Scott Frank
+1307	Reinaldo Moraes
+1308	Caspian Tredwell-Owen
+1309	Ed Haas
+1310	Lawrence Roman
+1311	Rick Famuyiwa
+1312	Wayne Conley
+1313	Malcolm Spellman
+1314	Gina Prince-Bythewood
+1315	Dennis Marks
+1316	Harry Love
+1317	Blanche Hanalis
+1318	Derry Quinn
+1319	Emeric Pressburger
+1320	Ray Rigby
+1321	Monica Macer
+1322	Ludovica Rampoldi
+1323	Stefano Sardo
+1324	Alessandro Fabbri
+1325	Brent Forrester
+1326	Dean Pitchford
+1327	Eric Knight
+1328	Jeanne Bartlett
+1329	Helen Deutsch
+1330	Howard Dimsdale
+1331	Mitch Markowitz
+1332	Janus Cercone
+1333	Brad Hall
+1334	Gary David Goldberg
+1335	Rob Edwards
+1336	Jeremias Moreira Filho
+1337	Carlos Nascimbeni
+1338	Bruce Malmuth
+1339	Gary T. McDonald
+1340	Gary DeVore
+1341	William Stadiem
+1342	Vern Sneider
+1343	Rodney Dangerfield
+1344	Dennis Blair
+1345	Michael Endler
+1346	P. J. O'Rourke
+1347	Alan Parker
+1348	Newton Moreno
+1349	José Carvalho
+1350	Kate Angelo
+1351	Thomas Lennon
+1352	Robert Ben Garant
+1353	Rob Hedden
+1354	Emi Mochizuki
+1355	Carrie Evans
+1356	Ken Daurio
+1357	Cinco Paul
+1358	Alicia Kirk
+1359	Maurice Richlin
+1360	Russell Rouse
+1361	Clarence Greene
+1362	Charlotte Brontë
+1363	Jordan Mechner
+1364	Doug Miro
+1365	Carlo Bernard
+1366	Mark Stouffer
+1367	Dennis S. Johnson
+1368	James Carabatsos
+1369	Joseph Stinson
+1370	Dennis Hackin
+1371	Frederic Raphael
+1372	Aaron Sorkin
+1373	Tom Hanks
+1374	Kevin Wade
+1375	John Lee Hancock
+1376	Ernest K. Gann
+1377	Frank Miller
+1378	J. David Stem
+1379	David N. Weiss
+1380	Travis Cluff
+1381	Chris Lofing
+1382	David Loughery
+1383	Dan Gordon
+1384	Ian Abrams
+1385	Ray Harryhausen
+1386	Pierre Boulle
+1387	Paul Dehn
+1388	Edgar Wright
+1389	Steven Moffat
+1390	Joe Cornish
+1391	M. Night Shyamalan
+1392	Greg Brooker
+1393	Cassandra Peterson
+1394	Sam Egan
+1395	David E. Talbert
+1396	Ramón Menéndez
+1397	Tom Musca
+1398	John R. Cherry III
+1399	Coke Sams
+1400	Carl Gottlieb
+1401	Howard Sackler
+1402	Michael Bortman
+1403	Everett Freeman
+1404	Claude Magnier
+1405	Helen Hunt
+1406	David Zucker
+1407	Chris Weitz
+1408	Paul Weitz
+1409	Todd Alcott
+1410	Don Jakoby
+1411	Wesley Strick
+1412	Carl Kleinschmidt
+1413	Javier Abad
+1414	Marcos Martínez
+1415	Joe Stillman
+1416	Richard C. Okie
+1417	Danny Bilson
+1418	Paul De Meo
+1419	Martin Davidson
+1420	Stephen F. Verona
+1421	Gayle Gleckler
+1422	Rudyard Kipling
+1423	Justin Marks
+1424	Jerry Zucker
+1425	Hélio Ribeiro
+1426	Joseph Brooks
+1427	Bernard Rose
+1428	Brian Hayles
+1429	Roy Boulting
+1430	Marti Leimbach
+1431	Richard Friedenberg
+1432	Michael Hitchcock
+1433	Robert L. Joseph
+1434	Meyer Dolinsky
+1435	Wendell Morris
+1436	Sholom Gelt
+1437	Masanori Hata
+1438	Steve Franks
+1439	Temple Mathews
+1440	Carter Crocker
+1441	John Rice
+1442	Wolfgang Petersen
+1443	Robert Easton
+1444	Herman Weigel
+1445	Eddie O'Flaherty
+1446	J. P. Davis
+1447	Eliana Fonseca
+1448	Evandro Mesquita
+1449	Cristiana Mesquita
+1450	George Arthur Bloom
+1451	Sandy Glass
+1452	Steven W. Carabatsos
+1453	Lloyd Fonvielle
+1454	Michael Almereyda
+1455	Lionel Jeffries
+1456	Mike Kenny
+1457	Cynthia Riddle
+1458	Peter Hunziker
+1459	Meg Cabot
+1460	Julie Sherman Wolfe
+1461	Amy Talkington
+1462	Craig Detweiler
+1463	Michael Davis
+1464	David Seidler
+1465	Jacqueline Feather
+1466	William Schifrin
+1467	Michael McDowell
+1468	Larry Wilson
+1469	Mark Twain
+1470	Patrick J. Clifton
+1471	Arthur Weiss
+1472	Charles O'Neal
+1473	Monroe Manning
+1474	Ernest Cline
+1475	Zak Penn
+1476	Kayla Alpert
+1477	Tim Firth
+1478	Bryan Goluboff
+1479	James Fargo
+1480	Franklin Thompson
+1481	Samuel Fuller
+1482	Curtis Hanson
+1483	William Joyce
+1484	Wayne Allan Rice
+1485	Doris Hume
+1486	Delmer Daves
+1487	George Wing
+1488	Mitch Glazer
+1489	Michael O'Donoghue
+1490	Richard Alan Simmons
+1491	Alan Plater
+1492	Steve Gordon
+1493	Tina Gordon Chism
+1494	Dani Valente
+1495	Laura Malin
+1496	Stuart Ross Fink
+1497	Leora Barish
+1498	Antônio Calmon
+1499	Willis Goldbeck
+1500	Roland Kibbee
+1501	Frank Davis
+1502	Danny Arnold
+1503	BenDavid Grabinski
+1504	Jay Longino
+1505	Norm Hunter
+1506	Tony Vidal
+1507	Oriol Paulo
+1508	Jordi Vallejo
+1509	Guillem Clua
+1510	Luis Lucas Ojeda
+1511	José Gallardo
+1512	Mae West
+1513	Marion Morgan
+1514	John Hodge
+1515	Mark Steven Johnson
+1516	Wells Root
+1517	Harold Greene
+1518	John Gay
+1519	René Hardy
+1520	William Marchant
+1521	Michael Golamco
+1522	Deborah Gregory
+1523	Alison Taylor
+1524	Bethesda Brown
+1525	Felicia Henderson
+1526	John Cleese
+1527	Emma Thompson
+1528	Nick Cassavetes
+1529	Jeremy Leven
+1530	Claudia Grazioso
+1531	Steven Gary Banks
+1532	Mark Jean
+1533	Michael Souther
+1534	Teza Lawrence
+1535	Kellie Ann Benz
+1536	Harry Crane
+1537	Michael H. Weber
+1538	Scott Neustadter
+1539	Cherie Bennett
+1540	Alan Marc Levy
+1541	Ernest Thompson
+1542	Laurent Tirard
+1543	Alain Chabat
+1544	Grégoire Vigneron
+1545	Sue Kramer
+1546	Dick Wolf
+1547	David Duncan
+1548	Peter Sauder
+1549	Norman Katkov
+1550	Max Wilk
+1551	Sally Meyer
+1552	Nelson Nadotti
+1553	Robert Presnell Jr.
+1554	Ben Hecht
+1555	Norman Taurog
+1556	Preston Sturges
+1557	Sidney Sheldon
+1558	John Michael Hayes
+1559	Giuseppe Colizzi
+1560	Herb Meadow
+1561	Harold Medford
+1562	Lowell S. Hawley
+1563	T.C. Smith
+1564	Roger Young
+1565	Dana Baratta
+1566	Paul Brickman
+1567	Barbara Benedek
+1568	Moshé Mizrahi
+1569	Paul Osborn
+1570	Silvia Reinhardt
+1571	Jan Lustig
+1572	Robert Shaw
+1573	Anthony Kimmins
+1574	Rex Rienits
+1575	Leigh Whannell
+1576	Larry McMurtry
+1577	David Gerrold
+1578	Seth Bass
+1579	Jonathan Tolins
+1580	Rick Rapoza
+1581	Matt Wheeler
+1582	Matt JL Wheeler
+1583	Peter Buchman
+1584	Jesse Wigutow
+1585	Josann McGibbon
+1586	Sara Parriott
+1587	June Diane Raphael
+1588	Casey Wilson
+1589	Greg DePaul
+1590	Jim Carrey
+1591	Tom Shadyac
+1592	Jack Bernstein
+1593	Richard Brooks
+1594	Sinclair Lewis
+1595	Bob Dolman
+1596	Jean-Jacques Sempé
+1597	Jaco Van Dormael
+1598	Ben Stassen
+1599	Domonic Paris
+1600	Dominic Paris
+1601	James R. Silke
+1602	John Farrow
+1603	Roberto Gianviti
+1604	Italo De Tuddo
+1605	Jason Keller
+1606	Marc Klein
+1607	Jon Lucas
+1608	Scott Moore
+1609	Daniel Altiere
+1610	Steven Altiere
+1611	John Landis
+1612	George Pal
+1613	Mario Puzo
+1614	Leslie Newman
+1615	Phillips
+1616	Maurice
+1617	Eduardo Schuldt
+1618	Michael Wogh
+1619	Judy Kellem
+1620	Pete Chiarelli
+1621	Peter Hedges
+1622	Marco Tullio Barboni
+1623	Leo Gordon
+1624	Mitchell Klebanoff
+1625	Mark Feldberg
+1626	Brian Hohlfeld
+1627	Bryan Forbes
+1628	Dava Savel
+1629	James Krieg
+1630	Rich Burns
+1631	Mort Nathan
+1632	Barry Fanaro
+1633	Maite Alberdi
+1634	Richard H. Landau
+1635	Anthony Peckham
+1636	Ziraldo Alves Pinto
+1637	Maria Gessy
+1638	Herman Raucher
+1639	Richard Pryor
+1640	Lonne Elder III
+1641	Roger L. Simon
+1642	Shimon Wincelberg
+1643	Francis Cockrell
+1644	Francis M. Cockrell
+1645	Don Payne
+1646	Jack Black
+1647	Rob Letterman
+1648	Heather Hach
+1649	Israel Horovitz
+1650	Fred Freeman
+1651	Larry Cohen
+1652	Lawrence J. Cohen
+1653	Pat Silver
+1654	Stanley Sheff
+1655	Bob Greenberg
+1656	Danilo Bach
+1657	Dan Scanlon
+1658	Lee Rose
+1659	Charles Schnee
+1660	John Sayles
+1661	Anne Dyer
+1662	Jonathan Kahn
+1663	Jonathan Cahn
+1664	Tim Hunter
+1665	Charles S. Haas
+1666	Jack DeWitt
+1667	Paul King
+1668	Joseph J. Stone
+1669	Stanley J. Shapiro
+1670	Lisa-Maria Radano
+1671	Phoef Sutton
+1672	Brian Pimental
+1673	Francisco Roncal
+1674	Jorge Lara
+1675	David Giler
+1676	Terry Hayes
+1677	Peter Ivan
+1678	Richard LaGravenese
+1679	Fred Gipson
+1680	William Tunberg
+1681	Marty Feldman
+1682	Chris Allen
+1683	Cacá Diegues
+1684	Chris Sanders
+1685	Dean DeBlois
+1686	Shawn Schepps
+1687	George Zaloom
+1688	Rob Lieber
+1689	Stu Silver
+1690	Kevan Peterson
+1691	Arthur Qwak
+1692	Frédéric Lenoir
+1693	Denise DeClue
+1694	Tim Kazurinsky
+1695	Ron L. Brinkerhoff
+1696	James Vanderbilt
+1697	Shana Feste
+1698	Marc Warren
+1699	Dennis Rinsler
+1700	Sean McNamara
+1701	Jeff Phillips
+1702	Ellis Kadison
+1703	Nelson Gidding
+1704	Andrea Gyertson Nasfell
+1705	Jonah Lisa Dyer
+1706	Stephen Dyer
+1707	Jorge R. Gutierrez
+1708	Larry Levinson
+1709	Steve Bing
+1710	Arthur Silver
+1711	Nigel Kneale
+1712	Jan Read
+1713	Sean Anders
+1714	Brian Burns
+1715	John Morris
+1716	Sidney Buchman
+1717	Harry Chandlee
+1718	Stephen Longstreet
+1719	Andrew Solt
+1720	Nina Weinman
+1721	Talia Green
+1722	Michael Vickerman
+1723	Hugh Kelley
+1724	Patrick Read Johnson
+1725	Scott L Alexander
+1726	Charlotte de Turckheim
+1727	Gladys Marciano
+1728	Jeanne Le Guillou
+1729	John Loy
+1730	Arthur Laurents
+1731	Guy Bolton
+1732	John Trevor Wolff
+1733	Bryant Christ
+1734	Barry Pullman
+1735	Jacques Demy
+1736	Andrew Birkin
+1737	Mark Peploe
+1738	Mark Rosman
+1739	Stephanie Moore
+1740	Jeff Kanew
+1741	Milt Banta
+1742	Joe Rinaldi
+1743	April Kelly
+1744	Park Jae Woo
+1745	James Greco
+1746	Zachary Rosenblatt
+1747	Adam Beechen
+1748	James J. Greco
+1749	Martyn Burke
+1750	Carl Reiner
+1751	Aaron Ruben
+1752	Marianne Wibberley
+1753	Cormac Wibberley
+1754	Richard Quine
+1755	Brent McCorkle
+1756	Ol Parker
+1757	Jenny Downham
+1758	Melissa Rosenberg
+1759	Richard Rush
+1760	John Eskow
+1761	Don Tait
+1762	Felix Salten
+1763	John Pielmeier
+1764	Sy Bartlett
+1765	Robert Pirosh
+1766	Paulo Mendes Campos
+1767	Pedro Amorim
+1768	Ricardo Tiezzi
+1769	Rafinha Bastos
+1770	Camila Raffanti
+1771	Turi Meyer
+1772	Michael Angeli
+1773	Al Septien
+1774	Parker Bennett
+1775	Terry Runte
+1776	Jerry Sterner
+1777	Leo McCarey
+1778	Donald Ogden Stewart
+1779	Cynthia Cherbak
+1780	Michael Wing
+1781	Richard Altabef
+1782	Barry Glasser
+1783	Richard Kletter
+1784	Jerome Kass
+1785	Edward Childs Carpenter
+1786	Theodore Pratt
+1787	John C Rose
+1788	Jameson Brewer
+1789	Ken Scott
+1790	Martin Petit
+1791	Jeff Nimoy
+1792	Akiyoshi Hongo
+1793	Reiko Yoshida
+1794	Bob Buchholz
+1795	Nia Vardalos
+1796	Arne Olsen
+1797	Caliope Brattlestreet
+1798	Stephen Glantz
+1799	Rick Riordan
+1800	Craig Titley
+1801	Stephen P. Lindsey
+1802	Chuck Konzelman
+1803	Cary Solomon
+1804	R. Lee Fleming Jr.
+1805	Moe Jelline
+1806	Karen McCullah
+1807	Kirsten Smith
+1808	Jan Sardi
+1809	Juan José Jusid
+1810	Oliver Kolker
+1811	Cesar Gomez Copello
+1812	Nicholas DiBella
+1813	Chris Haddock
+1814	Michael Deakin
+1815	Harv Zimmel
+1816	Daniel Petrie Jr.
+1817	Winston Miller
+1818	Edmund H. North
+1819	Larry Rhine
+1820	Juan Vera
+1821	Mariano Vera
+1822	Andy Breckman
+1823	Steno
+1824	Adriano Bolzoni
+1825	Massimo Franciosa
+1826	Harry Alan Towers
+1827	Dave Freeman
+1828	David Freeman
+1829	Kathryn McCullough
+1830	David Kendall
+1831	Bob Young
+1832	Vivian Perl
+1833	Jane Wagner
+1834	Aguinaldo Silva
+1835	Ricardo Linhares
+1836	Nell Scovell
+1837	Gerald Gardner
+1838	Dee Caruso
+1839	Justin Zackham
+1840	Kristofor Brown
+1841	Noel Black
+1842	Douglas Grossman
+1843	Leslie Stevens
+1844	Allan Weiss
+1845	Harry Essex
+1846	William H. Wright
+1847	C. S. Forester
+1848	Aeneas MacKenzie
+1849	James Justinian Morier
+1850	Richard Collins
+1851	Tim Doyle
+1852	Savage Steve Holland
+1853	Charles Parker
+1854	Allen DeBevoise
+1855	Julie Reichert
+1856	Jan Ventura
+1857	Steven Lisberger
+1858	Andy Berg
+1859	Andy Burg
+1860	Mary Walsh
+1861	Heather Conkie
+1862	Valerie Curtin
+1863	Aleksej Kapler
+1864	Alfred Hayes
+1865	Hugh Whitemore
+1866	Irene Kamp
+1867	Louis Kamp
+1868	Michael Wilson
+1869	Roald Dahl
+1870	Ken Hughes
+1871	The Birthday Cake
+1872	Queen Of Carthage
+1873	Victor Lima
+1874	Mitch Davis
+1875	Parker Davis
+1876	Benny Chan
+1877	Alan Yuen
+1878	Deborah Dean Davis
+1879	Ray Galton
+1880	Alan Simpson
+1881	William Asher
+1882	Leo Townsend
+1883	Andrew Lowery
+1884	Andrew Miller
+1885	Richard L. Breen
+1886	T. E. B. Clarke
+1887	James Goldman
+1888	Timothy Dowling
+1889	I. A. L. Diamond
+1890	Marc Silverstein
+1891	Abby Kohn
+1892	Christopher Nolan
+1893	Laurie Nolan
+1894	Chris Nolan
+1895	Steven Bloom
+1896	Sylvio Tabet
+1897	Don Coscarelli
+1898	Ken Hauser
+1899	R.J. Robertson
+1900	Jim Wynorski
+1901	Doug Miles
+1902	Paul Pepperman
+1903	Robert E. Howard
+1904	Thomas Lilti
+1905	Baya Kasmi
+1906	Rock Reuben
+1907	Bradley Raymond
+1908	Jeffrey M. Howard
+1909	Ann M. Martin
+1910	Rachel Shukert
+1911	Marcello Fondato
+1912	Jesús R. Folgar
+1913	Francesco Scardamaglia
+1914	Vicente Coello
+1915	Julian Fellowes
+1916	Arthur Brooke
+1917	Susannah Grant
+1918	Arthur Sheekman
+1919	James R. Webb
+1920	Helen Logan
+1921	Joseph Schrank
+1922	Robert Ellis
+1923	John Gatins
+1924	Leslie Bohem
+1925	José Joffily
+1926	Johnston McCulley
+1927	Hal Dresner
+1928	David Odell
+1929	Mônica Martelli
+1930	Susana Garcia
+1931	Jessica Barondes
+1932	Mark Cullen
+1933	Robb Cullen
+1934	Paul Dini
+1935	Peter Gould
+1936	Caleb Carr
+1937	William Roberts
+1938	Todd Graff
+1939	Charles McCarry
+1940	George B. Seitz
+1941	Basil Dickey
+1942	Aury Wallington
+1943	Leonardo Levis
+1944	Jule Selbo
+1945	James Flynn
+1946	Alexandre Dumas, pai
+1947	Philip Dunne
+1948	Jerome Cady
+1949	Miguel Tejada-Flores
+1950	James Bridges
+1951	Craig Pearce
+1952	Jon Erwin
+1953	Pete McCormack
+1954	Brian Grazer
+1955	James Keach
+1956	Donald Wrye
+1957	Gary L. Baim
+1958	Donald
+1959	Wrye
+1960	Gill Dennis
+1961	Corey Allen
+1962	Frances Doel
+1963	Claude Pola
+1964	Gavin Lambert
+1965	Roy Blount Jr.
+1966	Vince Vaughn
+1967	Jared Stern
+1968	Joe Wiesenfeld
+1969	Noel Langley
+1970	Charles Z. Wick
+1971	Duccio Tessari
+1972	Alfonso Balcázar
+1973	Fernando Di Leo
+1974	David Hayter
+1975	Michael Dougherty
+1976	Dan Harris
+1977	Bart Baker
+1978	Paul W. S. Anderson
+1979	Andrew Davies
+1980	Alex Litvak
+1981	Aaron Mendelsohn
+1982	Paul Tamasy
+1983	Michael LeSieur
+1984	Michael Schiffer
+1985	Cláudio Torres Gonzaga
+1986	Carlos Cardoso
+1987	Peter Baynham
+1988	Gavin Scott
+1989	W. Peter Iliff
+1990	Scott Lewis
+1991	Catherine Cyran
+1992	James Edward Grant
+1993	James A. Michener
+1994	Tracy Keenan Wynn
+1995	Marshall Thompson
+1996	Alan Caillou
+1997	Tim Rasmussen
+1998	Vince Di Meglio
+1999	Jeff Franklin
+2000	Penelope Spheeris
+2001	R. S. Allen
+2002	Harvey Bullock
+2003	Peter Howitt
+2004	Erik Patterson
+2005	Danielle Joseph
+2006	Jessica Scott
+2007	Lawrence Lasker
+2008	Stanley Weiser
+2009	Maxwell Shane
+2010	Allan Scott
+2011	Gwen Bagni
+2012	Paul Dubov
+2013	Peter Berneis
+2014	L. Frank Baum
+2015	Joel Schumacher
+2016	Nancey Silvers
+2017	Grímur Hákonarson
+2018	Bennett Tramer
+2019	Talbot Jennings
+2020	Kevin Bisch
+2021	Sam Harper
+2022	Randolph Davis
+2023	Michele S. Chodos
+2024	Dan Harmon
+2025	Pamela Pettler
+2026	Rob Schrab
+2027	Ron Schrab
+2028	Joseph Hoffman
+2029	Paul Wayne
+2030	Flávia Lins e Silva
+2031	Mirna Nogueira
+2032	Peter Seaman
+2033	Andrei Konchalovsky
+2034	Chris Solimine
+2035	Shari Goodhartz
+2036	Stephen Curwick
+2037	Bill Forsyth
+2038	Todd W. Langen
+2039	???? ?. ??????
+2040	Michael Preminger
+2041	Rick Podell
+2042	Heloísa Périssé
+2043	Tiza Lobo
+2044	Larry Karaszewski
+2045	Scott Alexander
+2046	Matthew Berry
+2047	Eric Abrams
+2048	Anna Sewell
+2049	Ashley Avis
+2050	Max Botkin
+2051	Avi Arad
+2052	Peter Glenville
+2053	Jean-Claude Carrière
+2054	Sean Moynihan
+2055	Stefan Westerwelle
+2056	Hannah Schweier
+2057	Andrew Price
+2058	Mark Edward Edens
+2059	Stuart Morse
+2060	Adam Rockoff
+2061	Jonathan Demme
+2062	Hadley Davis
+2063	Jenni Konner
+2064	Nanea Miyata
+2065	Marcos Carnevale
+2066	Albert Maltz
+2067	Bruno Vailati
+2068	Augusto Frassineti
+2069	Douglas McGrath
+2070	Joe Gayton
+2071	Donald Gordon Payne
+2072	John Whedon
+2073	Dennis Gansel
+2074	Peter Thorwarth
+2075	Ron Birnbach
+2076	Johnny Dawkins
+2077	Robert Smith
+2078	John Herzfeld
+2079	Albert Husson
+2080	Ranald MacDougall
+2081	Boaz Davidson
+2082	Klay Hall
+2083	Evan Spiliotopoulos
+2084	Jonathan M. Shiff
+2085	David Phillips
+2086	Aldo Barni
+2087	Dean Vert
+2088	Giorgio Costantini
+2089	Dino Sant'Ambrogio
+2090	Lewis Meltzer
+2091	Norman Corwin
+2092	Oscar Saul
+2093	Irving Fineman
+2094	Matthew Vaughn
+2095	Jane Goldman
+2096	Matthew Vaughan
+2097	Robert Wolterstorff
+2098	Mike Scott
+2099	Buck Henry
+2100	John Lyde
+2101	John Mowod
+2102	Larry Richert
+2103	Linda Morris
+2104	Barry Strugatz
+2105	Mark R. Burns
+2106	James Becket
+2107	Ángel García Roldán
+2108	Piti Español
+2109	Michael D. Weiss
+2110	Theresa Preston
+2111	Darryl Quarles
+2112	Matthew Fogel
+2113	Mauricio de Sousa
+2114	A. J. Carothers
+2115	Barney Dean
+2116	Frank Butler
+2117	Michael Gottlieb
+2118	Dick Clair
+2119	Tyler Perry
+2120	Nancy Dowd
+2121	Tom Holland
+2122	Cornell Woolrich
+2123	Bob Ross
+2124	Thomas Rickman
+2125	Henri Jeanson
+2126	Julien Duvivier
+2127	Augustus Goetz
+2128	Ruth Goetz
+2129	Mark Bomback
+2130	Mandie Fletcher
+2131	Vanessa Davies
+2132	Paul de Vos
+2133	Anna Penido
+2134	E. C. Segar
+2135	Jules Feiffer
+2136	Lewis R. Foster
+2137	Christian Clavier
+2138	Jean-Marie Poiré
+2139	Joel Paul Reisig
+2140	Jeffrey Nachmanoff
+2141	Rick Friedberg
+2142	Jason Friedberg
+2143	Aaron Seltzer
+2144	Dick Chudnow
+2145	Jim Jennewein
+2146	Tom S. Parker
+2147	Scott Martin
+2148	Peter Sullivan
+2149	Rasheeda Garner
+2150	Pete Sullivan
+2151	Brian Moore
+2152	Keith Waterhouse
+2153	Willis Hall
+2154	Bruce Hart
+2155	Carole Hart
+2156	Reem Kherici
+2157	Philippe Lacheau
+2158	Morgan Spillemaecker
+2159	Carrie Fisher
+2160	Sheridan Gibney
+2161	James Wong
+2162	Akira Toriyama
+2163	Ben Ramsey
+2164	Jay Ward
+2165	Bill Scott
+2166	Jordan Moffet
+2167	Cynthia Whitcomb
+2168	Holly Goldberg Sloan
+2169	Marti Noxon
+2170	Mary O'Hara
+2171	Glenn Leopold
+2172	Steven Brill
+2173	Jim Burnstein
+2174	Kenneth Johnson
+2175	Stan Daniels
+2176	Ed. Weinberger
+2177	Sally Benson
+2178	Sarah Smith
+2179	Jamie Uys
+2180	Greg Glienna
+2181	Larry Stuckey
+2182	Mary Ruth Clarke
+2183	Greg Erb
+2184	Craig Mazin
+2185	Leon Griffiths
+2186	Gerald Drayson
+2187	Ron McGee
+2188	Steve Haberman
+2189	Robert Totten
+2190	John Steinbeck
+2191	Ron Bishop
+2192	Gabrielle Upton
+2193	Peter Gaulke
+2194	Gerry Swallow
+2195	Richard Chapman
+2196	Michael Kraike
+2197	William Goldstein
+2198	Emmanuelle Cosso
+2199	Kad Merad
+2200	Anne Valton
+2201	Luc Chaumar
+2202	Jane Ainscough
+2203	Christoph Silber
+2204	Enid Blyton
+2205	Sherry Mills
+2206	Tom Sheppard
+2207	John L. Balderston
+2208	William Tennant
+2209	Gérard Pirès
+2210	Mark Ezra
+2211	Michael McCullers
+2212	Martin Dewitte
+2213	Nancy Stevelinck
+2214	Wijo Koek
+2215	Jeferson De
+2216	Hélio de la Peña
+2217	Armyan Bernstein
+2218	James Fritzell
+2219	Everett Greenbaum
+2220	Mario Amendola
+2221	Gary Whitta
+2222	Ewan Leslie
+2223	David Kirschner
+2224	Judy Freudberg
+2225	Tony Geiss
+2226	John Mortimer
+2227	Michael Soccio
+2228	Max Catto
+2229	Irwin Shaw
+2230	Steve Tesich
+2231	William Lederer
+2232	Theodore Simonson
+2233	Cy Chermak
+2234	Keith Mitchell
+2235	Allie Dvorin
+2236	Michael Pertwee
+2237	Loring Mandel
+2238	Alan Jay Glueckman
+2239	Michael Nankin
+2240	Jon Zack
+2241	Tom Wheeler
+2242	Joseph Ruben
+2243	Chuck Russell
+2244	W. R. Burnett
+2245	Ted Griffin
+2246	Bob DeRosa
+2247	Del Rangel
+2248	Enzo Barboni
+2249	Ángel G. Gauna
+2250	J. Fortini
+2251	Tulio Demicheli
+2252	Marie-Claire Solleville
+2253	Tom Ropelewski
+2254	Mark Medoff
+2255	Woody Allen
+2256	Dee McLachlan
+2257	Stuart Paul
+2258	Andrea Buck
+2259	Steven Paul
+2260	Tiago Mata Machado
+2261	Cinthia Marcelle
+2262	Emílio Maciel
+2263	Arthur Alsberg
+2264	Don Nelson
+2265	Derek Partridge
+2266	Jon Pierre Ratte
+2267	Julien Hilmoine
+2268	Frank Fenton
+2269	Michael Pate
+2270	Stuart Gibbs
+2271	Jim Mulholland
+2272	Michael Barrie
+2273	Laurence Stallings
+2274	William Henry Hudson
+2275	Franklin J. Schaffner
+2276	Rod Serling
+2277	Tennessee Williams
+2278	Dana Carvey
+2279	Harris Goldberg
+2280	Irving Wallace
+2281	Massy Tadjedin
+2282	Rita Hsiao
+2283	Niels Mueller
+2284	Howard March
+2285	Neal Shusterman
+2286	Alan Sacks
+2287	Gail Gilchriest
+2288	Hallie Einhorn
+2289	Philip LaZebnik
+2290	Nicholas Meyer
+2291	Raphael Hayes
+2292	Jamie Linden
+2293	Milan Trenc
+2294	Jay Cipriani
+2295	Bradley Cooper
+2296	Will Fetters
+2297	Eric Roth
+2298	Russell S. Hughes
+2299	Pierre De Clercq
+2300	Andrew Fleming
+2301	Peter Filardi
+2302	Mike Reiss
+2303	Al Jean
+2304	Jack Turley
+2305	Matt Manfredi
+2306	Travis Beacham
+2307	Phil Hay
+2308	Menahem Golan
+2309	Dennis Shryack
+2310	Michael Blodgett
+2311	Sara Paretsky
+2312	David Aaron Cohen
+2313	Edward Taylor
+2314	Nick Thiel
+2315	Aaron Latham
+2316	David Nicholls
+2317	Adam 'Tex' Davis
+2318	Heather Rutman
+2319	Matt Heller
+2320	Richard Preston
+2321	Andre Norton
+2322	Marita Giovanni
+2323	Madeleine L'Engle
+2324	Stephen Langford
+2325	Georgia Byng
+2326	Tom Butterworth
+2327	Chris Hurford
+2328	Craig A. Williams
+2329	Joe Piscatella
+2330	Christopher Murphey
+2331	Kathleen Laccinole
+2332	Tommy Sledge
+2333	Larry Levin
+2334	Marc Lawrence
+2335	Cláudio Paiva
+2336	Barbara Jones
+2337	Frank D. Gilroy
+2338	James Poe
+2339	Miguel Gonçalves Mendes
+2340	Earl W. Wallace
+2341	William Kelley
+2342	Jerome Kern
+2343	Edna Ferber
+2344	Heather Robinson
+2345	Gina Wendkos
+2346	Michael McQuown
+2347	Gary Trousdale
+2348	Tab Murphy
+2349	Perry Howze
+2350	Randy Howze
+2351	Dominique Deruddere
+2352	Thomas Anstey Guthrie
+2353	Remy Four
+2354	Julien War
+2355	Jennings Lang
+2356	Kevin Elders
+2357	Sydney Boehm
+2358	Walter Reisch
+2359	Lydia Look
+2360	Vince Cheung
+2361	Ben Montanio
+2362	B. Mark Seabrooks
+2363	Rafael Moreu
+2364	Yann Samuell
+2365	David Solomons
+2366	Anthony Lawrence
+2367	Monja Danischewsky
+2368	Bob Rafelson
+2369	Jack Nicholson
+2370	Jay Tarses
+2371	Linda Feferman
+2372	Jane Bernstein
+2373	Robert Ardrey
+2374	Alexandre Dumas
+2375	Phoebe Ephron
+2376	Robert Gordon
+2377	Stephen Schiff
+2378	Gary Scott Thompson
+2379	Michelle Gallagher
+2380	Jerry Davis
+2381	Mervin Houser
+2382	Ed McBain
+2383	Flávia Moraes
+2384	Claudio Galperin
+2385	Anne Giafferi
+2386	Murielle Magellan
+2387	Anne Le Ny
+2388	Geneva Robertson-Dworet
+2389	Alastair Siddons
+2390	Erica Oyama
+2391	Elissa Matsueda
+2392	Brian Lynch
+2393	Jennie Snyder Urman
+2394	Mark Freiburger
+2395	Robert Whitlow
+2396	Gary Wheeler
+2397	Charlie Murphy
+2398	Randy Newman
+2399	Lorne Michaels
+2400	Geeta Anand
+2401	Robert Nelson Jacobs
+2402	Dana Stevens
+2403	Frank Yerby
+2404	Matt Dorff
+2405	Aleks Horvat
+2406	Geoffrey Baere
+2407	Melville Shavelson
+2408	Nicholas Kazan
+2409	Michael A. Hoey
+2410	Dan Greenburg
+2411	Leonardo Moreira
+2412	Rafael Gomes
+2413	Sérgio Roveri
+2414	Adam Horowitz
+2415	Edward Kitsis
+2416	Janeen Damian
+2417	Michael Damian
+2418	Jeff Lieberman
+2419	Judd Apatow
+2420	Ronald Parker
+2421	Frederic E. Wakeman, Sr.
+2422	Jorge Fernando
+2423	Patricya Travassos
+2424	Randi Mayem Singer
+2425	Michal Vinik
+2426	Susanna Fogel
+2427	Dan Hernandez
+2428	Benji Samit
+2429	Márcio Garcia
+2430	Bráulio Mantovani
+2431	Doc Comparato
+2432	Joseph Merhi
+2433	Gary Goldstein
+2434	Jon Maas
+2435	Donald C. Yost
+2436	Joel Kauffmann
+2437	Paul Ziller
+2438	Bob Jason
+2439	Antony Anderson
+2440	Jane Rouen
+2441	P. J. Hogan
+2442	Monica Johnson
+2443	John McGreevey
+2444	Andrew Adamson
+2445	Christopher Markus
+2446	Stephen McFeely
+2447	Ann Peacock
+2448	Pedro Neschling
+2449	Bruno Mazzeo
+2450	Rosana Ferrão
+2451	Luciana Fregolente
+2452	Robin Schiff
+2453	Herbert Baker
+2454	Garson Kanin
+2455	Jennifer Lee
+2456	John Cockrell
+2457	Scott Jenkins
+2458	Gordon Chan
+2459	Sze-to Cheuk-hon
+2460	John Shepphird
+2461	Randy Vampotic
+2462	Steve Jankowski
+2463	Michael Sorrentino
+2464	Timothy Armstrong
+2465	Stephan Blinn
+2466	Matt Roshkow
+2467	David Kukoff
+2468	Madeline Di Maggio
+2469	Timothy Prager
+2470	Madeline DiMaggio
+2471	David J. Kinghorn
+2472	Jonathan Day
+2473	Richard English
+2474	Jack Henley
+2475	Christian Williams
+2476	Philip K. Dick
+2477	Dan O'Bannon
+2478	Leigh Brackett
+2479	Randall Wallace
+2480	Doug Campbell
+2481	Tim McKay
+2482	Bibi da Pieve
+2483	David Wechter
+2484	Douglas Heyes
+2485	Mark Lee
+2486	Ted Key
+2487	David Dashev
+2488	Stuart Birnbaum
+2489	Tito Davison
+2490	Neftalí Beltrán
+2491	Solomon J. LeFlore
+2492	Paulo Gustavo
+2493	Rafael Dragaud
+2494	Byron Howard
+2495	Chris Williams
+2496	Dan Fogelman
+2497	John Fante
+2498	Joseph Calvelli
+2499	Hilary Galanoy
+2500	Elizabeth Hackett
+2501	Robyn Palmer
+2502	Andy Tennant
+2503	Daniel Zelman
+2504	John Claflin
+2505	John Sacret Young
+2506	Michael Cristofer
+2507	Richard Schayer
+2508	Christopher Canaan
+2509	Susan Walter
+2510	Susan E. Walter
+2511	Lindsay Naythons
+2512	Robert Keats
+2513	Mark Spragg
+2514	Ron Nyswaner
+2515	Meg Kasdan
+2516	Lui Farias
+2517	Riva Farias
+2518	Bernardo Guilherme
+2519	Donna Kanter
+2520	Sarah Y. Mason
+2521	Victor Heerman
+2522	Henry Ephron
+2523	Guy Endore
+2524	Richard Sale
+2525	Mary Anita Loos
+2526	Elizabeth Anderson
+2527	Alexandra Clarke
+2528	Jonathan Kaplan
+2529	Ken Friedman
+2530	Eric Hughes
+2531	Joseph Moncure March
+2532	Eddie Welch
+2533	Rick Parks
+2534	Ken Englund
+2535	Philip Rapp
+2536	Michael Baumgarten
+2537	John Guillermin
+2538	Les Crutchfield
+2539	Donald McEnery
+2540	Bob Shaw
+2541	Howard Koch
+2542	James Tucker
+2543	Michael Jelenic
+2544	Susan Isaacs
+2545	Keith Walker
+2546	Rob Schneider
+2547	Tom Brady
+2548	Erna Lazarus
+2549	Sally Robinson
+2550	Craig J. Nevius
+2551	Rance Howard
+2552	Herbert Wright
+2553	Jarrad Paul
+2554	Andrew Mogel
+2555	Finn Taylor
+2556	Kurt Neumann
+2557	Carroll Young
+2558	Jim Staahl
+2559	Jim Fisher
+2560	Bill Prady
+2561	Charles Proser
+2562	Gregory McDonald
+2563	Mindret Lord
+2564	Letícia Wierzchowski
+2565	Tabajara Ruas
+2566	Katie Ford
+2567	Caryn Lucas
+2568	Suzanne Keilly
+2569	Paul W. Shapiro
+2570	Paul Shapiro
+2571	Raoul Walsh
+2572	Michael Elkins
+2573	Warren Beatty
+2574	Elaine May
+2575	Brett Hogan
+2576	N. Richard Nash
+2577	Bruno Garotti
+2578	Billy Crystal
+2579	Joe Syracuse
+2580	Lisa Addario
+2581	I. Marlene King
+2582	Amy B. Harris
+2583	James Greer
+2584	Lee Batchler
+2585	Akiva Goldsman
+2586	Janet Scott Batchler
+2587	Paul De Mielche
+2588	Mel Goldberg
+2589	William Wood
+2590	Miguel Gomes
+2591	Telmo Churro
+2592	Mariana Ricardo
+2593	Suso Cecchi D'Amico
+2594	George Carleton Brown
+2595	Si Rose
+2596	Jo Napoleon
+2597	Art Napoleon
+2598	George Froeschel
+2599	Ronald Millar
+2600	Norman Reilly Raine
+2601	Rowland Leigh
+2602	Mark Furey
+2603	Jason Feffer
+2604	F. Hugh Herbert
+2605	Arlene Davidson
+2606	Tryptyk rzymski
+2607	Laços de Esperança
+2608	Steve Marshall
+2609	Dan Guntzelman
+2610	Mike White
+2611	Wanda Birdsong Shope
+2612	Claude Scasso
+2613	Peter Svatek
+2614	Allan Carr
+2615	Bronte Woodard
+2616	Robert Desiderio
+2617	Craig Chester
+2618	Alan Hines
+2619	Alan Haines
+2620	Robert Buckner
+2621	Helvécio Ratton
+2622	Alcione Araújo
+2623	William Mastrosimone
+2624	Marcius Melhem
+2625	Celso Taddei
+2626	Chico Soares
+2627	Eric Tuchman
+2628	Michael Kase
+2629	Barry Morrow
+2630	Bryan Singer
+2631	Tom DeSanto
+2632	Martha Williamson
+2633	Robert LoCash
+2634	Nat Hiken
+2635	Shigeru Miyamoto
+2636	June Roberts
+2637	Oren Aviv
+2638	Clive Exton
+2639	Glória Perez
+2640	Sandra Nettelbeck
+2641	Carol Fuchs
+2642	Deborah Schwartz
+2643	Douglas Schwartz
+2644	Michael Berk
+2645	Jane Baker
+2646	Pip Baker
+2647	Robert Wright Campbell
+2648	John Romano
+2649	Paul Feig
+2650	Mya Stark
+2651	Jacob Meszaros
+2652	Sandra Tsing Loh
+2653	Adam F. Goldberg
+2654	Adam Goldberg
+2655	Caroline Labrèche
+2656	Steeve Léonard
+2657	Howard Fast
+2658	Simon Wells
+2659	Wendy Wells
+2660	John D'Arco
+2661	Robert Hardy Andrews
+2662	Louis Solomon
+2663	Mark McCorkle
+2664	Bob Schooley
+2665	Robert Westerby
+2666	When You Finish Saving the World
+2667	Deborah Joy LeVine
+2668	François Truffaut
+2669	Jean Gruault
+2670	Ben Zazove
+2671	Jim Piddock
+2672	Matt Williams
+2673	Oley Sassone
+2674	Roderick Thorp
+2675	Doug Richardson
+2676	Michael Arndt
+2677	Stephen Sommers
+2678	Michael Thomas
+2679	David Webb Peoples
+2680	Charles Kenyon
+2681	Robert Lord
+2682	Philippe de Broca
+2683	Vittorio Caprioli
+2684	Jean-Paul Rappeneau
+2685	Domingos Demasi
+2686	Rod Browning
+2687	Bill Lancaster
+2688	Anthony McCarten
+2689	Paulo Morelli
+2690	Alex Lasker
+2691	Wendell Wellman
+2692	Ross Maxwell
+2693	Donna Thorland
+2694	Lindsay Calhoon Bring
+2695	Roberto Aguirre-Sacasa
+2696	Matthew Barry
+2697	Bill Purple
+2698	Robbie Pickering
+2699	Christopher Reed
+2700	Cynthia Carle
+2701	Jackie French Koller
+2702	Michael Kane
+2703	Jean-Charles Tacchella
+2704	Stephen Metcalfe
+2705	Spencer Eastman
+2706	Leslie Waller
+2707	Al Kratina
+2708	Ronald Weir
+2709	Stephen Belber
+2710	René Goscinny
+2711	Gérard Lauzier
+2712	Terry Jones
+2713	Matt Greenberg
+2714	Max Borenstein
+2715	Steven Knight
+2716	Patrick Doughtie
+2717	Art D'Alessandro
+2718	Sandra Thrift
+2719	Cullen Douglas
+2720	Jane Klove
+2721	Joanna Crawford
+2722	Jean Craighead George
+2723	Michael Jacoby
+2724	Jean Chalopin
+2725	Steve Zacharias
+2726	Jeff Buhai
+2727	J. David Shapiro
+2728	Evan Chandler
+2729	Kristin Rusk Robinson
+2730	Ian Deitchman
+2731	Daniel Taplitz
+2732	Hesper Anderson
+2733	George W. George
+2734	George F. Slavin
+2735	Noni White
+2736	Bob Tzudiker
+2737	Brian Hannant
+2738	James L. Conway
+2739	Ken Pettus
+2740	Kevin Williamson
+2741	Lois Duncan
+2742	Jeff Lowell
+2743	Noel Quiñones
+2744	Mark Kemble
+2745	Aaron Norris
+2746	Ron Swanson
+2747	Charles B. Griffith
+2748	Joshua Logan
+2749	Peter Feibleman
+2750	Robin Swicord
+2751	Nick Kazan
+2752	Matt Dearborn
+2753	Clelhio Favretto
+2754	Chris Nahon
+2755	Douglas Barr
+2756	Samuel W. Taylor
+2757	Peter Hewitt
+2758	Phil Hughes
+2759	Sol Saks
+2760	Noah Baumbach
+2761	Darnell I Noah Baumbach
+2762	Jonathan Bernstein
+2763	Mark Blackwell
+2764	Michael Auerbach
+2765	Richard Tuggle
+2766	Cul Cullen
+2767	John Dixon
+2768	Zack Stentz
+2769	Ashley Miller
+2770	Jody Lambert
+2771	Patrick Braoudé
+2772	Theresa Rebeck
+2773	Greg Taylor
+2774	Doug Petrie
+2775	Joseph Pevney
+2776	Don McGuire
+2777	Arnold Schulman
+2778	John Stockwell
+2779	Lizzy Weiss
+2780	Tony Simpson
+2781	Andrew Gunn
+2782	Jeff Vintar
+2783	Gregory Poirier
+2784	Bill Fritz
+2785	Michael McDonald
+2786	Marc Bernardin
+2787	Eric Carrasco
+2788	Tim Sheridan
+2789	Diya Mishra
+2790	Mildred Nixon Gordon
+2791	Gordon Gordon
+2792	Henry Rosenbaum
+2793	David Taylor
+2794	Andy White
+2795	Edward J. Lakso
+2796	Wallace Wolodarsky
+2797	Maya Forbes
+2798	Gabe Sachs
+2799	Jeff Judah
+2800	Walon Green
+2801	Terence Rattigan
+2802	Dostoiewski Champagnatte
+2803	Dostoiewski Champangnatte
+2804	Rich Moore
+2805	James Booth
+2806	Nicholas Sparks
+2807	Jeff Van Wie
+2808	John K.D. Graham
+2809	Alexandra Boylan
+2810	Andrea M. Polnaszek
+2811	Devery Freeman
+2812	C. Jay Cox
+2813	Romain Gary
+2814	Patrick Leigh Fermor
+2815	Robbie Fox
+2816	Florian Gottschick
+2817	Florian von Bornstädt
+2818	Alex Zamm
+2819	William Robertson
+2820	Ron Anderson
+2821	Charles Isaacs
+2822	Alan J. Schoolcraft
+2823	Brent Simons
+2824	Harald Rosenløw Eeg
+2825	David Shore
+2826	Thomas L. Moran
+2827	Peter Blake
+2828	Craig Brewer
+2829	Millard Kaufman
+2830	Alê McHaddo
+2831	Luiz Felipe Mazzoni
+2832	John Killoran
+2833	Kurt Luedtke
+2834	David Rayfiel
+2835	Phil Alden Robinson
+2836	Dori Pierson
+2837	Marc Reid Rubel
+2838	David N. White
+2839	Tony Mosher
+2840	P. J. Wolfson
+2841	Blake Snyder
+2842	Colby Carr
+2843	Carroll Cartwright
+2844	Topper Lilien
+2845	Stan Zimmerman
+2846	James Berg
+2847	Jennifer Pertsch
+2848	Tom McGillis
+2849	Tim Burns
+2850	Mike Kiss
+2851	Betsy Drake
+2852	Ron Hall
+2853	Michael Carney
+2854	Alexander Foard
+2855	Kelly Bowe
+2856	April Blair
+2857	Giacomo Campiotti
+2858	Francesco Arlanch
+2859	Mauro Lima
+2860	Christine Hartmann
+2861	Katharina Reschke
+2862	Kenneth Lonergan
+2863	Gordon Buford
+2864	Philip Halprin
+2865	Mark Gibson
+2866	Karl Geurs
+2867	Michel Audiard
+2868	Jean Vautrin
+2869	Nicole Holofcener
+2870	Steve Moore
+2871	Marc Norman
+2872	Robert King
+2873	Grant Morris
+2874	Grant Morrison
+2875	John Huston
+2876	Tommy Krappweis
+2877	Sebastian B. Voss
+2878	Doris Seisenberger
+2879	Nina Trachte
+2880	James Gray
+2881	Matt Reeves
+2882	Phyllis Reynolds Naylor
+2883	Jonathan Hensleigh
+2884	Robert Caswell
+2885	Caleb Wilson
+2886	Matt Allen
+2887	Howard Michael Gould
+2888	Jane Anderson
+2889	Richard Christian Matheson
+2890	Tom Szollosi
+2891	Thomas Szollosi
+2892	Charles Beaumont
+2893	Ed Horowitz
+2894	Robin Russin
+2895	James Toback
+2896	Digby George Gerahty
+2897	Jean Abounader
+2898	J.B. White
+2899	Michael Petroni
+2900	Claudio Lobato
+2901	Gabriela Amaral Almeida
+2902	Claudia Lobato
+2903	Tara Ison
+2904	Joan Didion
+2905	John Gregory Dunne
+2906	James Mills
+2907	Larry Forrester
+2908	Don Ingalls
+2909	Waldo Salt
+2910	Masayuki Suo
+2911	Philip Dalkin
+2912	Virginia Korus Spragg
+2913	Jerry Juhl
+2914	Kenneth Kaufman
+2915	Joey Mazzarino
+2916	Kathleen Kinmont
+2917	Michael January
+2918	Mike Stone
+2919	Dick Desmond
+2920	Jules Levy
+2921	Michael Harreschou
+2922	Joseph Barbera
+2923	William Hanna
+2924	Paul Hernandez
+2925	Giovanna Giovanini
+2926	Glenn Ficarra
+2927	John Requa
+2928	Peter Rader
+2929	Alexandre Aja
+2930	Grégory Levasseur
+2931	Boyd Hale
+2932	Rafael Sabatini
+2933	Samson Raphaelson
+2934	Josh Klausner
+2935	William Steig
+2936	Neil Tolkin
+2937	James Salisko
+2938	Rudy Rupak
+2939	Jacques Becker
+2940	Albert Simonin
+2941	Maurice Griffe
+2942	Josh Trank
+2943	Simon Kinberg
+2944	Jeremy Slater
+2945	Ed Turner
+2946	Bosco Kline
+2947	James Cappe
+2948	David Arnott
+2949	William Shakespeare
+2950	Paul Reubens
+2951	Phil Hartman
+2952	Michael Varhol
+2953	Ralph Nelson
+2954	Frank Gabrielson
+2955	Paco Arango
+2956	Janet Kovalcik
+2957	Adriana Falcão
+2958	João Falcão
+2959	David Magee
+2960	Murray Salem
+2961	Naomi Foner Gyllenhaal
+2962	Andrew Sinclair
+2963	Mann Rubin
+2964	Jordan Roter
+2965	William Edmund Barrett
+2966	Lord Alfred Hayes
+2967	José Rivera
+2968	Tim Sullivan
+2969	Matt Corman
+2970	Chris Ord
+2971	Mark Protosevich
+2972	Peter Markle
+2973	John Whitman
+2974	???? ??????
+2975	Fredric M. Frank
+2976	Harold Lamb
+2977	Stephen Ronald Francis
+2978	Gus Silber
+2979	Fay Weldon
+2980	Claude Binyon
+2981	Alex Kendrick
+2982	Stephen Kendrick
+2983	Manya Starr
+2984	Ernest Kinoy
+2985	Claude Lelouch
+2986	Warren Lane
+2987	Katie Wech
+2988	Corbin Bernsen
+2989	Pedro Cardoso
+2990	Tom Sherohman
+2991	Patrícia Andrade
+2992	Carolina Kotscho
+2993	David McHugh
+2994	Matthew Flanagan
+2995	Spike Jonze
+2996	Mary C. Ryan
+2997	Jeffrey Alan Schechter
+2998	Charles Edward Pogue
+2999	Ed Naha
+3000	Tom Schulman
+3001	Edward Anhalt
+3002	Céline Garcia
+3003	Patrice Garcia
+3004	Glauber Rocha
+3005	Walter Lima Jr.
+3006	Paulo Gil Soares
+3007	Bill Corbett
+3008	Max Enscoe
+3009	David Wise
+3010	Mark Bierlein
+3011	Gina Kaus
+3012	Irwin Allen
+3013	John Meredyth Lucas
+3014	John Milius
+3015	Oliver Stone
+3016	Robert I. Holt
+3017	Jerome Bixby

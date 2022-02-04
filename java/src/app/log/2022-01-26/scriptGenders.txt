@@ -1,0 +1,468 @@
+inserirGeneros 1, 'Drama'
+go
+inserirGeneros 2, 'Comédia romântica'
+go
+inserirGeneros 3, 'Comédia'
+go
+inserirGeneros 4, 'Romance'
+go
+inserirGeneros 5, 'null'
+go
+inserirGeneros 6, 'Suspense'
+go
+inserirGeneros 7, 'Fantasia'
+go
+inserirGeneros 8, 'Mistério'
+go
+inserirGeneros 9, 'Sobrenatural'
+go
+inserirGeneros 10, 'Humor ácido'
+go
+inserirGeneros 11, 'Farsa'
+go
+inserirGeneros 12, ''
+go
+inserirGeneros 13, 'Pastelão'
+go
+inserirGeneros 14, 'Filme musical'
+go
+inserirGeneros 15, 'Ação'
+go
+inserirGeneros 16, 'Infantil'
+go
+inserirGeneros 17, 'LGBT'
+go
+inserirGeneros 18, 'Aventura'
+go
+inserirGeneros 19, 'Animação'
+go
+inserirGeneros 20, 'Artes marciais'
+go
+inserirGeneros 21, 'Wuxia'
+go
+inserirGeneros 22, 'Comédia dramática'
+go
+inserirGeneros 23, 'Guerra'
+go
+inserirGeneros 24, 'Terror'
+go
+inserirGeneros 25, 'Cult'
+go
+inserirGeneros 26, 'Comédia de terror'
+go
+inserirGeneros 27, 'Ficção científica'
+go
+inserirGeneros 28, 'Romance científico'
+go
+inserirGeneros 29, 'Catástrofe'
+go
+inserirGeneros 30, 'Comédia musical'
+go
+inserirGeneros 31, 'Religioso'
+go
+inserirGeneros 32, 'Filme de Esportes'
+go
+inserirGeneros 33, 'Ação/Aventura'
+go
+inserirGeneros 34, 'Amadurecimento'
+go
+inserirGeneros 35, 'Música'
+go
+inserirGeneros 36, 'Dança'
+go
+inserirGeneros 37, 'Adolescente'
+go
+inserirGeneros 38, 'Panthera'
+go
+inserirGeneros 39, 'Comédia erótica'
+go
+inserirGeneros 40, 'Drama Musical'
+go
+inserirGeneros 41, 'Obra de Época'
+go
+inserirGeneros 42, 'Máfia'
+go
+inserirGeneros 43, 'Ficção policial'
+go
+inserirGeneros 44, 'Comédia maluca'
+go
+inserirGeneros 45, 'Comédia de costumes'
+go
+inserirGeneros 46, 'Docudrama'
+go
+inserirGeneros 47, 'Televisivo'
+go
+inserirGeneros 48, 'Drama familiar'
+go
+inserirGeneros 49, 'Fantasia cômica'
+go
+inserirGeneros 50, 'Espionagem'
+go
+inserirGeneros 51, 'Ação e suspense'
+go
+inserirGeneros 52, 'Sátira'
+go
+inserirGeneros 53, 'Independente'
+go
+inserirGeneros 54, 'Policial processual'
+go
+inserirGeneros 55, 'Crime'
+go
+inserirGeneros 56, 'Neo noir'
+go
+inserirGeneros 57, 'Crime TV genre'
+go
+inserirGeneros 58, 'Filme de super-herói'
+go
+inserirGeneros 59, 'Capa e espada'
+go
+inserirGeneros 60, 'Chinese Movies'
+go
+inserirGeneros 61, 'Cinema internacional'
+go
+inserirGeneros 62, 'Adaptação'
+go
+inserirGeneros 63, 'Ficção'
+go
+inserirGeneros 64, 'Ficção científica cômica'
+go
+inserirGeneros 65, 'Paródia'
+go
+inserirGeneros 66, 'cinema de época'
+go
+inserirGeneros 67, 'Comédia criminal'
+go
+inserirGeneros 68, 'Pop'
+go
+inserirGeneros 69, 'Jazz'
+go
+inserirGeneros 70, 'Caper story'
+go
+inserirGeneros 71, 'Ficção histórica'
+go
+inserirGeneros 72, 'Assalto'
+go
+inserirGeneros 73, 'Filme de estrada'
+go
+inserirGeneros 74, 'História de detetives'
+go
+inserirGeneros 75, 'Buddy'
+go
+inserirGeneros 76, 'História'
+go
+inserirGeneros 77, 'Buddy cop'
+go
+inserirGeneros 78, 'Filme histórico'
+go
+inserirGeneros 79, 'Thriller criminal'
+go
+inserirGeneros 80, 'Programa infantil'
+go
+inserirGeneros 81, 'Televisão educativa'
+go
+inserirGeneros 82, 'Fantasia televisiva'
+go
+inserirGeneros 83, 'Romance de amor'
+go
+inserirGeneros 84, 'Romance contemporâneo'
+go
+inserirGeneros 85, 'Desenho animado'
+go
+inserirGeneros 86, 'Ficção distópica'
+go
+inserirGeneros 87, 'Faroeste'
+go
+inserirGeneros 88, 'Gorillini'
+go
+inserirGeneros 89, 'Conto de fadas'
+go
+inserirGeneros 90, 'Preto e branco'
+go
+inserirGeneros 91, 'filme familiar'
+go
+inserirGeneros 92, 'Tragédia'
+go
+inserirGeneros 93, 'Fantoche'
+go
+inserirGeneros 94, 'Drama Político'
+go
+inserirGeneros 95, 'Melodrama'
+go
+inserirGeneros 96, 'Horror natural'
+go
+inserirGeneros 97, 'Reality de televisão'
+go
+inserirGeneros 98, 'Programa de namoro'
+go
+inserirGeneros 99, 'Cinema militante'
+go
+inserirGeneros 100, 'Biografia'
+go
+inserirGeneros 101, 'Narrativa pessoal'
+go
+inserirGeneros 102, 'Tiro em primeira pessoa'
+go
+inserirGeneros 103, 'Curta-metragem'
+go
+inserirGeneros 104, 'Thriller político'
+go
+inserirGeneros 105, 'Suspense psicológico'
+go
+inserirGeneros 106, 'Filme de Monstros'
+go
+inserirGeneros 107, 'Automobilismo'
+go
+inserirGeneros 108, 'Ficção supernatural'
+go
+inserirGeneros 109, 'Literatura fantástica'
+go
+inserirGeneros 110, 'História de super-herói'
+go
+inserirGeneros 111, 'Ópera espacial'
+go
+inserirGeneros 112, 'Fantasia sombria'
+go
+inserirGeneros 113, 'Drama Sobrenatural'
+go
+inserirGeneros 114, 'Anime'
+go
+inserirGeneros 115, 'Ficção pós-apocalíptica'
+go
+inserirGeneros 116, 'Drama judicial'
+go
+inserirGeneros 117, 'Drama jurídico'
+go
+inserirGeneros 118, 'Prisão'
+go
+inserirGeneros 119, 'Sitcom'
+go
+inserirGeneros 120, 'Antologia'
+go
+inserirGeneros 121, 'Soap opera'
+go
+inserirGeneros 122, 'Canídeos'
+go
+inserirGeneros 123, 'Gênero musical'
+go
+inserirGeneros 124, 'Problemática social'
+go
+inserirGeneros 125, 'Memórias'
+go
+inserirGeneros 126, 'Autobiografia'
+go
+inserirGeneros 127, 'Crime real'
+go
+inserirGeneros 128, 'à clef'
+go
+inserirGeneros 129, 'Humor'
+go
+inserirGeneros 130, 'Documentário'
+go
+inserirGeneros 131, 'Realidade'
+go
+inserirGeneros 132, 'Documentário de viagem'
+go
+inserirGeneros 133, 'Série de desenho animado'
+go
+inserirGeneros 134, 'Adolescência'
+go
+inserirGeneros 135, 'Drama teen'
+go
+inserirGeneros 136, 'Romance de espionagem'
+go
+inserirGeneros 137, 'Ficção gótica'
+go
+inserirGeneros 138, 'Ficção científica soft'
+go
+inserirGeneros 139, 'RPG eletrônico'
+go
+inserirGeneros 140, 'Ficção juvenil'
+go
+inserirGeneros 141, 'Metal progressivo'
+go
+inserirGeneros 142, 'Rock'
+go
+inserirGeneros 143, 'Steampunk'
+go
+inserirGeneros 144, 'Citrus'
+go
+inserirGeneros 145, 'Terror psicológico'
+go
+inserirGeneros 146, 'Mecha'
+go
+inserirGeneros 147, 'Telenovela'
+go
+inserirGeneros 148, 'Pseudodocumentário'
+go
+inserirGeneros 149, 'Ficção autobiográfica'
+go
+inserirGeneros 150, 'Suspense erótico'
+go
+inserirGeneros 151, 'Noir'
+go
+inserirGeneros 152, 'Spaghetti western'
+go
+inserirGeneros 153, 'Literatura infantil'
+go
+inserirGeneros 154, 'Super-herói'
+go
+inserirGeneros 155, 'Pintura'
+go
+inserirGeneros 156, 'Fantasia urbana'
+go
+inserirGeneros 157, 'Slasher'
+go
+inserirGeneros 158, 'Erotismo'
+go
+inserirGeneros 159, 'Kaiju'
+go
+inserirGeneros 160, 'Tokusatsu'
+go
+inserirGeneros 161, 'Dracohors'
+go
+inserirGeneros 162, 'Harpia'
+go
+inserirGeneros 163, 'Ensemble cast'
+go
+inserirGeneros 164, 'Filme B'
+go
+inserirGeneros 165, 'Regional Brazilian'
+go
+inserirGeneros 166, 'Romance psicológico'
+go
+inserirGeneros 167, 'Ficção Doméstica'
+go
+inserirGeneros 168, 'Ficção de aventura'
+go
+inserirGeneros 169, 'Ficção Marítima'
+go
+inserirGeneros 170, 'Alta fantasia'
+go
+inserirGeneros 171, 'Bildungsroman'
+go
+inserirGeneros 172, 'Mundo perdido'
+go
+inserirGeneros 173, 'Ver tudo'
+go
+inserirGeneros 174, 'Ficção urbana'
+go
+inserirGeneros 175, 'Ficção de novo adulto'
+go
+inserirGeneros 176, 'Docuficção'
+go
+inserirGeneros 177, 'Western espacial'
+go
+inserirGeneros 178, 'Fantasia heroica'
+go
+inserirGeneros 179, 'Salientia'
+go
+inserirGeneros 180, 'Literatura nonsense'
+go
+inserirGeneros 181, 'Ficção Absurdista'
+go
+inserirGeneros 182, 'Fantástico'
+go
+inserirGeneros 183, 'Outlaw biker'
+go
+inserirGeneros 184, 'Hip hop'
+go
+inserirGeneros 185, 'Western Revisionista'
+go
+inserirGeneros 186, 'Latin Urbano'
+go
+inserirGeneros 187, 'Beat ''em up'
+go
+inserirGeneros 188, 'romance autobiográfico'
+go
+inserirGeneros 189, 'Romance biográfico'
+go
+inserirGeneros 190, 'Phengaris'
+go
+inserirGeneros 191, 'Romance histórico'
+go
+inserirGeneros 192, 'Punk rock'
+go
+inserirGeneros 193, 'Ficção especulativa'
+go
+inserirGeneros 194, 'Comedy thriller'
+go
+inserirGeneros 195, 'Fábula'
+go
+inserirGeneros 196, 'Novela'
+go
+inserirGeneros 197, 'Folclore'
+go
+inserirGeneros 198, 'Romance picaresco'
+go
+inserirGeneros 199, 'Mudo'
+go
+inserirGeneros 200, 'Criança'
+go
+inserirGeneros 201, 'Blaxploitation'
+go
+inserirGeneros 202, 'Supernatural'
+go
+inserirGeneros 203, 'Livro ilustrado'
+go
+inserirGeneros 204, 'Stoner'
+go
+inserirGeneros 205, 'Romance Paranormal'
+go
+inserirGeneros 206, 'Literatura erótica'
+go
+inserirGeneros 207, 'Espada e feitiçaria'
+go
+inserirGeneros 208, 'Fantasia científica'
+go
+inserirGeneros 209, 'Gângster'
+go
+inserirGeneros 210, 'Schlumbergera'
+go
+inserirGeneros 211, 'Felis'
+go
+inserirGeneros 212, 'Alegoria'
+go
+inserirGeneros 213, 'Romance cristão'
+go
+inserirGeneros 214, 'Jogo eletrônico de luta'
+go
+inserirGeneros 215, 'Jogo eletrônico de ação e aventura'
+go
+inserirGeneros 216, 'Jogo eletrônico de ação'
+go
+inserirGeneros 217, 'Literatura cristã'
+go
+inserirGeneros 218, 'Sermão'
+go
+inserirGeneros 219, 'Experimental'
+go
+inserirGeneros 220, 'Narrativa moldura'
+go
+inserirGeneros 221, 'Literatura vampiresca'
+go
+inserirGeneros 222, 'Ficção épica'
+go
+inserirGeneros 223, 'Jogo eletrônico de plataforma'
+go
+inserirGeneros 224, 'Robinsonada'
+go
+inserirGeneros 225, 'Comédia de televisão'
+go
+inserirGeneros 226, 'Elasmobranchii'
+go
+inserirGeneros 227, 'Romance Histórico - Regência'
+go
+inserirGeneros 228, 'Drama médico'
+go
+inserirGeneros 229, 'Gênero de comédia'
+go
+inserirGeneros 230, 'Perissodáctilos'
+go
+inserirGeneros 231, 'Sobrevivência'
+go
+inserirGeneros 232, 'Realismo mágico'
+go
+inserirGeneros 233, 'Action'
+go
+inserirGeneros 234, 'Filme peplum'
+go

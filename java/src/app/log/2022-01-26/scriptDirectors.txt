@@ -1,0 +1,3106 @@
+inserirDiretores 1, 'Sean McNamara'
+go
+inserirDiretores 2, 'Adam Shankman'
+go
+inserirDiretores 3, 'Michael Scott'
+go
+inserirDiretores 4, 'Tom Shadyac'
+go
+inserirDiretores 5, 'David Zucker'
+go
+inserirDiretores 6, 'Jim Abrahams'
+go
+inserirDiretores 7, 'Jerry Zucker'
+go
+inserirDiretores 8, 'null'
+go
+inserirDiretores 9, 'Cris D''Amato'
+go
+inserirDiretores 10, 'Clint Eastwood'
+go
+inserirDiretores 11, 'Blake Edwards'
+go
+inserirDiretores 12, 'Maurício Farias'
+go
+inserirDiretores 13, 'Patricia Pedrosa'
+go
+inserirDiretores 14, 'Flávia Lacerda'
+go
+inserirDiretores 15, 'Jennifer Yuh Nelson'
+go
+inserirDiretores 16, 'Gabriela Cowperthwaite'
+go
+inserirDiretores 17, 'Robert Vince'
+go
+inserirDiretores 18, 'Brian Levant'
+go
+inserirDiretores 19, 'Joe Dante'
+go
+inserirDiretores 20, 'Atom Egoyan'
+go
+inserirDiretores 21, 'Richard Stanley'
+go
+inserirDiretores 22, 'John Frankenheimer'
+go
+inserirDiretores 23, 'Kim Ji-hoon'
+go
+inserirDiretores 24, 'Breno Silveira'
+go
+inserirDiretores 25, 'Billy Wilder'
+go
+inserirDiretores 26, 'Tizuka Yamasaki'
+go
+inserirDiretores 27, 'Ken Kwapis'
+go
+inserirDiretores 28, 'Roberto Benigni'
+go
+inserirDiretores 29, 'William Dear'
+go
+inserirDiretores 30, 'Irwin Allen'
+go
+inserirDiretores 31, 'Robert Connolly'
+go
+inserirDiretores 32, 'Emile Ardolino'
+go
+inserirDiretores 33, 'Henry King'
+go
+inserirDiretores 34, 'Franco Amurri'
+go
+inserirDiretores 35, 'Ron Howard'
+go
+inserirDiretores 36, 'Patricia Riggen'
+go
+inserirDiretores 37, 'Paul Hoen'
+go
+inserirDiretores 38, 'Richard Donner'
+go
+inserirDiretores 39, 'Eddie Murphy'
+go
+inserirDiretores 40, 'Irving Cummings'
+go
+inserirDiretores 41, 'Patrice Leconte'
+go
+inserirDiretores 42, 'Kevin Connor'
+go
+inserirDiretores 43, 'Stanley Donen'
+go
+inserirDiretores 44, 'David MacKay'
+go
+inserirDiretores 45, 'Forest Whitaker'
+go
+inserirDiretores 46, 'Randal Kleiser'
+go
+inserirDiretores 47, 'Harold Ramis'
+go
+inserirDiretores 48, 'Walter Lang'
+go
+inserirDiretores 49, 'Frank Tashlin'
+go
+inserirDiretores 50, 'Henry Koster'
+go
+inserirDiretores 51, 'Adriano Stuart'
+go
+inserirDiretores 52, 'Richard Benedict'
+go
+inserirDiretores 53, 'Malcolm D. Lee'
+go
+inserirDiretores 54, 'Kenny Ortega'
+go
+inserirDiretores 55, 'Daniel Filho'
+go
+inserirDiretores 56, 'Sidney Lumet'
+go
+inserirDiretores 57, 'Richard Boddington'
+go
+inserirDiretores 58, 'Penny Marshall'
+go
+inserirDiretores 59, 'Sidney J. Furie'
+go
+inserirDiretores 60, 'Ferdinand Fairfax'
+go
+inserirDiretores 61, 'Robert Wise'
+go
+inserirDiretores 62, 'Frederick de Cordova'
+go
+inserirDiretores 63, 'Joshua Logan'
+go
+inserirDiretores 64, 'Lee H. Katzin'
+go
+inserirDiretores 65, 'Conrad Vernon'
+go
+inserirDiretores 66, 'Andrew Adamson'
+go
+inserirDiretores 67, 'Kelly Asbury'
+go
+inserirDiretores 68, 'Michel Gondry'
+go
+inserirDiretores 69, 'Craig Clyde'
+go
+inserirDiretores 70, 'Peter Howitt'
+go
+inserirDiretores 71, 'Jonathan Frakes'
+go
+inserirDiretores 72, 'Albert Brooks'
+go
+inserirDiretores 73, 'Richard Lester'
+go
+inserirDiretores 74, 'Steven Spielberg'
+go
+inserirDiretores 75, 'Ivan Reitman'
+go
+inserirDiretores 76, 'Antonio Carlos da Fontoura'
+go
+inserirDiretores 77, 'Corey Michael Eubanks'
+go
+inserirDiretores 78, 'Mario Caiano'
+go
+inserirDiretores 79, 'Preston Sturges'
+go
+inserirDiretores 80, 'Steven Brill'
+go
+inserirDiretores 81, 'Stanley Tong'
+go
+inserirDiretores 82, 'John Korty'
+go
+inserirDiretores 83, 'Charles Barton'
+go
+inserirDiretores 84, 'Roy Ward Baker'
+go
+inserirDiretores 85, 'D. J. MacHale'
+go
+inserirDiretores 86, 'Matthew Robbins'
+go
+inserirDiretores 87, 'Michael Lehmann'
+go
+inserirDiretores 88, 'Francis Ford Coppola'
+go
+inserirDiretores 89, 'Simon J. Smith'
+go
+inserirDiretores 90, 'Steve Hickner'
+go
+inserirDiretores 91, 'Steve Rash'
+go
+inserirDiretores 92, 'David R. Ellis'
+go
+inserirDiretores 93, 'Michael Katleman'
+go
+inserirDiretores 94, 'Norman Jewison'
+go
+inserirDiretores 95, 'Raoul Walsh'
+go
+inserirDiretores 96, 'Pierre Adidge'
+go
+inserirDiretores 97, 'Robert Abel'
+go
+inserirDiretores 98, 'Herman Hoffman'
+go
+inserirDiretores 99, 'Gordon Douglas'
+go
+inserirDiretores 100, 'Norman Z. McLeod'
+go
+inserirDiretores 101, 'Daniel Barnz'
+go
+inserirDiretores 102, 'Tony Scott'
+go
+inserirDiretores 103, 'Stan Dragoti'
+go
+inserirDiretores 104, 'Harold Schuster'
+go
+inserirDiretores 105, 'Stewart Schill'
+go
+inserirDiretores 106, 'Todd Holland'
+go
+inserirDiretores 107, 'Bart Freundlich'
+go
+inserirDiretores 108, 'Wolfgang Petersen'
+go
+inserirDiretores 109, 'Norman Taurog'
+go
+inserirDiretores 110, 'Elliott Nugent'
+go
+inserirDiretores 111, 'Juan Antonio Bayona'
+go
+inserirDiretores 112, 'Phil Lord'
+go
+inserirDiretores 113, 'Chris Miller'
+go
+inserirDiretores 114, 'Arthur Hiller'
+go
+inserirDiretores 115, 'Peter Winther'
+go
+inserirDiretores 116, 'Ian Barry'
+go
+inserirDiretores 117, 'Brad Silberling'
+go
+inserirDiretores 118, 'Carroll Ballard'
+go
+inserirDiretores 119, 'John C. Champion'
+go
+inserirDiretores 120, 'Charles Haid'
+go
+inserirDiretores 121, 'Chris Koch'
+go
+inserirDiretores 122, 'Duwayne Dunham'
+go
+inserirDiretores 123, 'Richard A. Colla'
+go
+inserirDiretores 124, 'James Foley'
+go
+inserirDiretores 125, 'Jean Negulesco'
+go
+inserirDiretores 126, 'Andrew Sipes'
+go
+inserirDiretores 127, 'Rod Daniel'
+go
+inserirDiretores 128, 'Amy Heckerling'
+go
+inserirDiretores 129, 'Walter Bernstein'
+go
+inserirDiretores 130, 'Joel Schumacher'
+go
+inserirDiretores 131, 'Cameron Crowe'
+go
+inserirDiretores 132, 'Hal Needham'
+go
+inserirDiretores 133, 'Robert D. Webb'
+go
+inserirDiretores 134, 'Michael Curtiz'
+go
+inserirDiretores 135, 'George Sidney'
+go
+inserirDiretores 136, 'Marcos Bernstein'
+go
+inserirDiretores 137, 'John Pasquin'
+go
+inserirDiretores 138, 'Peter Segal'
+go
+inserirDiretores 139, 'Martin Brest'
+go
+inserirDiretores 140, 'Peter Sattler'
+go
+inserirDiretores 141, 'Don Siegel'
+go
+inserirDiretores 142, 'Robert Ellis Miller'
+go
+inserirDiretores 143, 'Peter R. Hunt'
+go
+inserirDiretores 144, 'Joseph Pevney'
+go
+inserirDiretores 145, 'Jorge Furtado'
+go
+inserirDiretores 146, 'Claudia Castro'
+go
+inserirDiretores 147, 'Bruno Barreto'
+go
+inserirDiretores 148, 'Bob Clark'
+go
+inserirDiretores 149, 'John Irvin'
+go
+inserirDiretores 150, 'Robert Lewis'
+go
+inserirDiretores 151, 'Barry Levinson'
+go
+inserirDiretores 152, 'Mario Andreacchio'
+go
+inserirDiretores 153, 'Bill Bixby'
+go
+inserirDiretores 154, 'Steven Hilliard Stern'
+go
+inserirDiretores 155, 'George Marshall'
+go
+inserirDiretores 156, 'Pedro Antônio'
+go
+inserirDiretores 157, 'Gabriele Muccino'
+go
+inserirDiretores 158, 'Jackie Chan'
+go
+inserirDiretores 159, 'Sylvester Stallone'
+go
+inserirDiretores 160, 'Edward Berger'
+go
+inserirDiretores 161, 'Paul Bogart'
+go
+inserirDiretores 162, 'Richard Thorpe'
+go
+inserirDiretores 163, 'Robert Burke'
+go
+inserirDiretores 164, 'Steve Miner'
+go
+inserirDiretores 165, 'Phil Karlson'
+go
+inserirDiretores 166, 'Alan Rafkin'
+go
+inserirDiretores 167, 'Peter Ramsey'
+go
+inserirDiretores 168, 'Ron Clements'
+go
+inserirDiretores 169, 'John Musker'
+go
+inserirDiretores 170, 'Oz Scott'
+go
+inserirDiretores 171, 'Roberto Berliner'
+go
+inserirDiretores 172, 'Curtis Bernhardt'
+go
+inserirDiretores 173, 'Christian Vuissa'
+go
+inserirDiretores 174, 'George B. Seitz'
+go
+inserirDiretores 175, 'David O. Russell'
+go
+inserirDiretores 176, 'Dedé Santana'
+go
+inserirDiretores 177, 'Evgeniy Emelin'
+go
+inserirDiretores 178, 'Jay Roach'
+go
+inserirDiretores 179, 'Noel Quiñones'
+go
+inserirDiretores 180, 'Alan Alda'
+go
+inserirDiretores 181, 'Spencer Gordon Bennet'
+go
+inserirDiretores 182, 'Thomas Carr'
+go
+inserirDiretores 183, 'D. J. Caruso'
+go
+inserirDiretores 184, 'Shawn Levy'
+go
+inserirDiretores 185, 'John Murlowski'
+go
+inserirDiretores 186, 'Alan Myerson'
+go
+inserirDiretores 187, 'Charles Jarrott'
+go
+inserirDiretores 188, 'Paul Weiland'
+go
+inserirDiretores 189, 'Robert Pulcini'
+go
+inserirDiretores 190, 'Shari Springer Berman'
+go
+inserirDiretores 191, 'Kelly Makin'
+go
+inserirDiretores 192, 'Mick Jackson'
+go
+inserirDiretores 193, 'Ken Annakin'
+go
+inserirDiretores 194, 'Larry Peerce'
+go
+inserirDiretores 195, 'Katja von Garnier'
+go
+inserirDiretores 196, 'Ray Patterson'
+go
+inserirDiretores 197, 'Carl Urbano'
+go
+inserirDiretores 198, 'Roger Young'
+go
+inserirDiretores 199, 'Michael Gordon'
+go
+inserirDiretores 200, 'Rudolph Maté'
+go
+inserirDiretores 201, 'Callie Khouri'
+go
+inserirDiretores 202, 'Cao Hamburger'
+go
+inserirDiretores 203, 'Hugh Wilson'
+go
+inserirDiretores 204, 'Burt Brinckerhoff'
+go
+inserirDiretores 205, 'David Lowell Rich'
+go
+inserirDiretores 206, 'Ronald Neame'
+go
+inserirDiretores 207, 'Nora Ephron'
+go
+inserirDiretores 208, 'Tristram Shapeero'
+go
+inserirDiretores 209, 'Anne Wheeler'
+go
+inserirDiretores 210, 'Allan Eastman'
+go
+inserirDiretores 211, 'Chris Columbus'
+go
+inserirDiretores 212, 'Sidney Miller'
+go
+inserirDiretores 213, 'Ezra Stone'
+go
+inserirDiretores 214, 'Leslie Goodwins'
+go
+inserirDiretores 215, 'Edward Dmytryk'
+go
+inserirDiretores 216, 'Michael Haneke'
+go
+inserirDiretores 217, 'Gareth Evans'
+go
+inserirDiretores 218, 'Tia Brelis'
+go
+inserirDiretores 219, 'Russell Mulcahy'
+go
+inserirDiretores 220, 'Phillip Borsos'
+go
+inserirDiretores 221, 'Konstantin Tkaczenko'
+go
+inserirDiretores 222, 'Gilbert Cates'
+go
+inserirDiretores 223, 'Denzel Washington'
+go
+inserirDiretores 224, 'Holger Haase'
+go
+inserirDiretores 225, 'Bill Meléndez'
+go
+inserirDiretores 226, 'Barry Shear'
+go
+inserirDiretores 227, 'Louis Leterrier'
+go
+inserirDiretores 228, 'Lisa Marie Gamlem'
+go
+inserirDiretores 229, 'John Andreas Andersen'
+go
+inserirDiretores 230, 'Sam Raimi'
+go
+inserirDiretores 231, 'Karey Kirkpatrick'
+go
+inserirDiretores 232, 'Tim Johnson'
+go
+inserirDiretores 233, 'Jim Fall'
+go
+inserirDiretores 234, 'Alan Johnson'
+go
+inserirDiretores 235, 'Ron Underwood'
+go
+inserirDiretores 236, 'Boaz Davidson'
+go
+inserirDiretores 237, 'Josh Becker'
+go
+inserirDiretores 238, 'Jerry Paris'
+go
+inserirDiretores 239, 'Peter Faiman'
+go
+inserirDiretores 240, 'Carlos Saldanha'
+go
+inserirDiretores 241, 'Robert Iscove'
+go
+inserirDiretores 242, 'Wolfgang Reitherman'
+go
+inserirDiretores 243, 'Peter Yates'
+go
+inserirDiretores 244, 'Alexander Hall'
+go
+inserirDiretores 245, 'Peter Werner'
+go
+inserirDiretores 246, 'James Komack'
+go
+inserirDiretores 247, 'Robert Zemeckis'
+go
+inserirDiretores 248, 'Allan Arkush'
+go
+inserirDiretores 249, 'Antonio Margheriti'
+go
+inserirDiretores 250, 'Peter Lord'
+go
+inserirDiretores 251, 'Mark Steven Johnson'
+go
+inserirDiretores 252, 'Darrell Rooney'
+go
+inserirDiretores 253, 'Lynne Southerland'
+go
+inserirDiretores 254, 'Walter Hill'
+go
+inserirDiretores 255, 'Adrian Lyne'
+go
+inserirDiretores 256, 'Paul Newman'
+go
+inserirDiretores 257, 'Seymour Friedman'
+go
+inserirDiretores 258, 'Morton DaCosta'
+go
+inserirDiretores 259, 'Rachel de Queiroz'
+go
+inserirDiretores 260, 'Frank Coraci'
+go
+inserirDiretores 261, 'Dearbhla Walsh'
+go
+inserirDiretores 262, 'Bobby Jean Leonard'
+go
+inserirDiretores 263, 'Stuart Gillard'
+go
+inserirDiretores 264, 'José Eduardo Belmonte'
+go
+inserirDiretores 265, 'William Asher'
+go
+inserirDiretores 266, 'Keenen Ivory Wayans'
+go
+inserirDiretores 267, 'Owen Hurley'
+go
+inserirDiretores 268, 'Charles Lane'
+go
+inserirDiretores 269, 'John Hough'
+go
+inserirDiretores 270, 'Allun Lam'
+go
+inserirDiretores 271, 'Lisa Mulcahy'
+go
+inserirDiretores 272, 'Moacyr Góes'
+go
+inserirDiretores 273, 'Spiro Razatos'
+go
+inserirDiretores 274, 'Dale Launer'
+go
+inserirDiretores 275, 'Daniel Alfredson'
+go
+inserirDiretores 276, 'Fred Gerber'
+go
+inserirDiretores 277, 'Hal Sutherland'
+go
+inserirDiretores 278, 'Herbert B. Leonard'
+go
+inserirDiretores 279, 'Joshua Shelley'
+go
+inserirDiretores 280, 'Charles T. Kanganis'
+go
+inserirDiretores 281, 'Bill Bannerman'
+go
+inserirDiretores 282, 'Jon Turteltaub'
+go
+inserirDiretores 283, 'Shin Sang-ok'
+go
+inserirDiretores 284, 'Mel Brooks'
+go
+inserirDiretores 285, 'Richard Murphy'
+go
+inserirDiretores 286, 'Jan de Bont'
+go
+inserirDiretores 287, 'Rich Thorne'
+go
+inserirDiretores 288, 'Vic Armstrong'
+go
+inserirDiretores 289, 'Francis D. Lyon'
+go
+inserirDiretores 290, 'Terence Fisher'
+go
+inserirDiretores 291, 'Irwin Winkler'
+go
+inserirDiretores 292, 'Gore Verbinski'
+go
+inserirDiretores 293, 'Randall William Cook'
+go
+inserirDiretores 294, 'Andrew Stanton'
+go
+inserirDiretores 295, 'Joe Pytka'
+go
+inserirDiretores 296, 'Daniel Mann'
+go
+inserirDiretores 297, 'Bruno Corbucci'
+go
+inserirDiretores 298, 'Ralph Nelson'
+go
+inserirDiretores 299, 'Daryn Tufts'
+go
+inserirDiretores 300, 'Kevin Lima'
+go
+inserirDiretores 301, 'Bert I. Gordon'
+go
+inserirDiretores 302, 'Theodore J. Flicker'
+go
+inserirDiretores 303, 'Nancy Meyers'
+go
+inserirDiretores 304, 'Shay Kanot'
+go
+inserirDiretores 305, 'Don Bluth'
+go
+inserirDiretores 306, 'Don Chaffey'
+go
+inserirDiretores 307, 'Eric Tsang'
+go
+inserirDiretores 308, 'Tim Story'
+go
+inserirDiretores 309, 'Stephen Frears'
+go
+inserirDiretores 310, 'Melanie Mayron'
+go
+inserirDiretores 311, 'Baltasar Kormákur'
+go
+inserirDiretores 312, 'Martin Scorsese'
+go
+inserirDiretores 313, 'Lewis Gilbert'
+go
+inserirDiretores 314, 'George Miller'
+go
+inserirDiretores 315, 'Chip Rosenbloom'
+go
+inserirDiretores 316, 'Martin Ritt'
+go
+inserirDiretores 317, 'Fred McLeod Wilcox'
+go
+inserirDiretores 318, 'Brenda Chapman'
+go
+inserirDiretores 319, 'Mark Andrews'
+go
+inserirDiretores 320, 'Michael Anderson'
+go
+inserirDiretores 321, 'James Goldstone'
+go
+inserirDiretores 322, 'Andy Fickman'
+go
+inserirDiretores 323, 'Júlia Rezende'
+go
+inserirDiretores 324, 'George T. Miller'
+go
+inserirDiretores 325, 'Savage Steve Holland'
+go
+inserirDiretores 326, 'Ben Stiller'
+go
+inserirDiretores 327, 'Christopher Cain'
+go
+inserirDiretores 328, 'Tim Burton'
+go
+inserirDiretores 329, 'John G. Avildsen'
+go
+inserirDiretores 330, 'Richard Michaels'
+go
+inserirDiretores 331, 'Brett Ratner'
+go
+inserirDiretores 332, 'Marita Grabiak'
+go
+inserirDiretores 333, 'David M. Evans'
+go
+inserirDiretores 334, 'Donald Wrye'
+go
+inserirDiretores 335, 'Sergio Corbucci'
+go
+inserirDiretores 336, 'Howard Hawks'
+go
+inserirDiretores 337, 'Jack Arnold'
+go
+inserirDiretores 338, 'Shuki Levy'
+go
+inserirDiretores 339, 'Alan J. Pakula'
+go
+inserirDiretores 340, 'Mikael Salomon'
+go
+inserirDiretores 341, 'Jessie Nelson'
+go
+inserirDiretores 342, 'Rob Minkoff'
+go
+inserirDiretores 343, 'Tom Vaughan'
+go
+inserirDiretores 344, 'Matthew Diamond'
+go
+inserirDiretores 345, 'Douglas A Pertz'
+go
+inserirDiretores 346, 'Robert Rodriguez'
+go
+inserirDiretores 347, 'Luiz Villaça'
+go
+inserirDiretores 348, 'José Alvarenga Júnior'
+go
+inserirDiretores 349, 'Flávio Migliaccio'
+go
+inserirDiretores 350, 'Jack Bender'
+go
+inserirDiretores 351, 'Martin Campbell'
+go
+inserirDiretores 352, 'Fred Olen Ray'
+go
+inserirDiretores 353, 'Penelope Spheeris'
+go
+inserirDiretores 354, 'Robert Stevenson'
+go
+inserirDiretores 355, 'Iwao Takamoto'
+go
+inserirDiretores 356, 'Charles Nichols'
+go
+inserirDiretores 357, 'Henry Hathaway'
+go
+inserirDiretores 358, 'Roger Spottiswoode'
+go
+inserirDiretores 359, 'John Badham'
+go
+inserirDiretores 360, 'Fred Dekker'
+go
+inserirDiretores 361, 'Lucas Reiner'
+go
+inserirDiretores 362, 'Guy Hamilton'
+go
+inserirDiretores 363, 'Peter Bogdanovich'
+go
+inserirDiretores 364, 'Jon Favreau'
+go
+inserirDiretores 365, 'Paul Tassie'
+go
+inserirDiretores 366, 'Richard Franklin'
+go
+inserirDiretores 367, 'Peter Weir'
+go
+inserirDiretores 368, 'Richard Quine'
+go
+inserirDiretores 369, 'Mark Rosman'
+go
+inserirDiretores 370, 'John Gray'
+go
+inserirDiretores 371, 'Paul Kyriazi'
+go
+inserirDiretores 372, 'John Landis'
+go
+inserirDiretores 373, 'Michael Schultz'
+go
+inserirDiretores 374, 'Stanley Kramer'
+go
+inserirDiretores 375, 'Tom Dey'
+go
+inserirDiretores 376, 'James Dodson'
+go
+inserirDiretores 377, 'Paul Matthews'
+go
+inserirDiretores 378, 'Lou Antonio'
+go
+inserirDiretores 379, 'Jack Kinney'
+go
+inserirDiretores 380, 'Robert J. Rosenthal'
+go
+inserirDiretores 381, 'Budd Boetticher'
+go
+inserirDiretores 382, 'Mark Robson'
+go
+inserirDiretores 383, 'Byron Haskin'
+go
+inserirDiretores 384, 'Sean McCormack'
+go
+inserirDiretores 385, 'Toby Genkel'
+go
+inserirDiretores 386, 'Howard Zieff'
+go
+inserirDiretores 387, 'Ralph Senensky'
+go
+inserirDiretores 388, 'Alex Zamm'
+go
+inserirDiretores 389, 'Ted Kotcheff'
+go
+inserirDiretores 390, 'Nick Castle'
+go
+inserirDiretores 391, 'Neil Jordan'
+go
+inserirDiretores 392, 'Nicholas Ray'
+go
+inserirDiretores 393, 'Frank Capra'
+go
+inserirDiretores 394, 'Mark Gravas'
+go
+inserirDiretores 395, 'John Guillermin'
+go
+inserirDiretores 396, 'Milton Katselas'
+go
+inserirDiretores 397, 'Todd Graff'
+go
+inserirDiretores 398, 'Jean-Claude Van Damme'
+go
+inserirDiretores 399, 'Howard Deutch'
+go
+inserirDiretores 400, 'George Pal'
+go
+inserirDiretores 401, 'Ethan Wiley'
+go
+inserirDiretores 402, 'Leslie Fenton'
+go
+inserirDiretores 403, 'Fran Rubel Kuzui'
+go
+inserirDiretores 404, 'Alexander Mackendrick'
+go
+inserirDiretores 405, 'James Cameron'
+go
+inserirDiretores 406, 'Frank Oz'
+go
+inserirDiretores 407, 'Robert Boris'
+go
+inserirDiretores 408, 'Jeff Kanew'
+go
+inserirDiretores 409, 'Barry Sonnenfeld'
+go
+inserirDiretores 410, 'Robert Luketic'
+go
+inserirDiretores 411, 'Don Michael Paul'
+go
+inserirDiretores 412, 'Elizabeth Allen Rosenbaum'
+go
+inserirDiretores 413, 'Mike Mitchell'
+go
+inserirDiretores 414, 'John Lasseter'
+go
+inserirDiretores 415, 'Jake Kasdan'
+go
+inserirDiretores 416, 'Joe Johnston'
+go
+inserirDiretores 417, 'Chuck Russell'
+go
+inserirDiretores 418, 'Joel Soisson'
+go
+inserirDiretores 419, 'Gregory Widen'
+go
+inserirDiretores 420, 'Patrick Lussier'
+go
+inserirDiretores 421, 'Greg Spence'
+go
+inserirDiretores 422, 'Sean Penn'
+go
+inserirDiretores 423, 'Léa Fazer'
+go
+inserirDiretores 424, 'Bill Duke'
+go
+inserirDiretores 425, 'Menahem Golan'
+go
+inserirDiretores 426, 'Carlo Carlei'
+go
+inserirDiretores 427, 'Gene Nelson'
+go
+inserirDiretores 428, 'David Detiege'
+go
+inserirDiretores 429, 'Cody Cameron'
+go
+inserirDiretores 430, 'Kris Pearn'
+go
+inserirDiretores 431, 'Mark Waters'
+go
+inserirDiretores 432, 'Nicholas J. Corea'
+go
+inserirDiretores 433, 'J. B. Tanko'
+go
+inserirDiretores 434, 'William Graham'
+go
+inserirDiretores 435, 'Jim McBride'
+go
+inserirDiretores 436, 'John Ford'
+go
+inserirDiretores 437, 'Erik White'
+go
+inserirDiretores 438, 'Garry Marshall'
+go
+inserirDiretores 439, 'Aaron Norris'
+go
+inserirDiretores 440, 'Gary Nelson'
+go
+inserirDiretores 441, 'Richard Marquand'
+go
+inserirDiretores 442, 'Kim Seong-hun'
+go
+inserirDiretores 443, 'Joe Roth'
+go
+inserirDiretores 444, 'Matthew O''Callaghan'
+go
+inserirDiretores 445, 'Paulo Sérgio Almeida'
+go
+inserirDiretores 446, 'Gregg Champion'
+go
+inserirDiretores 447, 'George Roy Hill'
+go
+inserirDiretores 448, 'Sergio Gobbi'
+go
+inserirDiretores 449, 'Aurélio Teixeira'
+go
+inserirDiretores 450, 'Anna Muylaert'
+go
+inserirDiretores 451, 'Bradford May'
+go
+inserirDiretores 452, 'Daniel Petrie'
+go
+inserirDiretores 453, 'J. Lee Thompson'
+go
+inserirDiretores 454, 'Robert Benton'
+go
+inserirDiretores 455, 'Salim Akil'
+go
+inserirDiretores 456, 'John Llewellyn Moxey'
+go
+inserirDiretores 457, 'Clive Donner'
+go
+inserirDiretores 458, 'Philippe de Chauveron'
+go
+inserirDiretores 459, 'Robert Lence'
+go
+inserirDiretores 460, 'Aleksey Tsitsilin'
+go
+inserirDiretores 461, 'Maksim Sveshnikov'
+go
+inserirDiretores 462, 'Vladlen Barbe'
+go
+inserirDiretores 463, 'Daniel Goldberg'
+go
+inserirDiretores 464, 'Robert Mandel'
+go
+inserirDiretores 465, 'Robert Mulligan'
+go
+inserirDiretores 466, 'Ask Hasselbalch'
+go
+inserirDiretores 467, 'Donald Shebib'
+go
+inserirDiretores 468, 'Paul Flaherty'
+go
+inserirDiretores 469, 'Iván Nagy'
+go
+inserirDiretores 470, 'Stanley R. Jaffe'
+go
+inserirDiretores 471, 'Joseph H. Lewis'
+go
+inserirDiretores 472, 'Boaz Yakin'
+go
+inserirDiretores 473, 'Brian Helgeland'
+go
+inserirDiretores 474, 'John R. Cherry III'
+go
+inserirDiretores 475, 'Marvin J. Chomsky'
+go
+inserirDiretores 476, 'Vivienne De Courcy'
+go
+inserirDiretores 477, 'Floria Sigismondi'
+go
+inserirDiretores 478, 'Brian Robbins'
+go
+inserirDiretores 479, 'Franklin J. Schaffner'
+go
+inserirDiretores 480, 'Bruce Beresford'
+go
+inserirDiretores 481, 'Gérard Krawczyk'
+go
+inserirDiretores 482, 'Mario Philip Azzopardi'
+go
+inserirDiretores 483, 'Paul Verhoeven'
+go
+inserirDiretores 484, 'King Vidor'
+go
+inserirDiretores 485, 'Lewis Allen'
+go
+inserirDiretores 486, 'Luc Besson'
+go
+inserirDiretores 487, 'Arthur H. Nadel'
+go
+inserirDiretores 488, 'Arthur Lubin'
+go
+inserirDiretores 489, 'Allan A. Goldstein'
+go
+inserirDiretores 490, 'Joe Camp'
+go
+inserirDiretores 491, 'Phillips Smalley'
+go
+inserirDiretores 492, 'Lois Weber'
+go
+inserirDiretores 493, 'Charles Shyer'
+go
+inserirDiretores 494, 'James Mangold'
+go
+inserirDiretores 495, 'Kirk DeMicco'
+go
+inserirDiretores 496, 'Ted Nicolaou'
+go
+inserirDiretores 497, 'Melvin Frank'
+go
+inserirDiretores 498, 'Desmond Davis'
+go
+inserirDiretores 499, 'Clare Kilner'
+go
+inserirDiretores 500, 'Rawson Marshall Thurber'
+go
+inserirDiretores 501, 'Dwight H. Little'
+go
+inserirDiretores 502, 'Walter Salles'
+go
+inserirDiretores 503, 'Anthony Harvey'
+go
+inserirDiretores 504, 'Victor Lima'
+go
+inserirDiretores 505, 'Michael Bay'
+go
+inserirDiretores 506, 'David Bowers'
+go
+inserirDiretores 507, 'Robert Lieberman'
+go
+inserirDiretores 508, 'Leon Benson'
+go
+inserirDiretores 509, 'Roberto Santucci'
+go
+inserirDiretores 510, 'Donald Petrie'
+go
+inserirDiretores 511, 'Michael Ritchie'
+go
+inserirDiretores 512, 'Don Lusk'
+go
+inserirDiretores 513, 'Ralph Levy'
+go
+inserirDiretores 514, 'Greg Beeman'
+go
+inserirDiretores 515, 'Marc Lawrence'
+go
+inserirDiretores 516, 'Mike Binder'
+go
+inserirDiretores 517, 'Mark L. Lester'
+go
+inserirDiretores 518, 'Bill Kroyer'
+go
+inserirDiretores 519, 'Jonathan Newman'
+go
+inserirDiretores 520, 'Robert Moore'
+go
+inserirDiretores 521, 'Dennis Bots'
+go
+inserirDiretores 522, 'Cláudio Torres'
+go
+inserirDiretores 523, 'Michael Feifer'
+go
+inserirDiretores 524, 'Fabrizio Costa'
+go
+inserirDiretores 525, 'Robert Klane'
+go
+inserirDiretores 526, 'Roger Donaldson'
+go
+inserirDiretores 527, 'Gerd Oswald'
+go
+inserirDiretores 528, 'Mimi Leder'
+go
+inserirDiretores 529, 'Michael Showalter'
+go
+inserirDiretores 530, 'Gregory McClatchy'
+go
+inserirDiretores 531, 'Dave Payne'
+go
+inserirDiretores 532, 'John Paragon'
+go
+inserirDiretores 533, 'Mike Nichols'
+go
+inserirDiretores 534, 'Jerry Lewis'
+go
+inserirDiretores 535, 'César Rodrigues'
+go
+inserirDiretores 536, 'Phil Traill'
+go
+inserirDiretores 537, 'Dick Richards'
+go
+inserirDiretores 538, 'Vincente Minnelli'
+go
+inserirDiretores 539, 'Kevin Donovan'
+go
+inserirDiretores 540, 'Eric Bross'
+go
+inserirDiretores 541, 'Andrew Waller'
+go
+inserirDiretores 542, 'Michael Lange'
+go
+inserirDiretores 543, 'Michael Karen'
+go
+inserirDiretores 544, 'Mervyn LeRoy'
+go
+inserirDiretores 545, 'Nick Park'
+go
+inserirDiretores 546, 'Tina Rathborne'
+go
+inserirDiretores 547, 'Annarosa Morri'
+go
+inserirDiretores 548, 'Mario Canale'
+go
+inserirDiretores 549, 'Mark Osborne'
+go
+inserirDiretores 550, 'John Stevenson'
+go
+inserirDiretores 551, 'Bobby Farrelly'
+go
+inserirDiretores 552, 'LeVar Burton'
+go
+inserirDiretores 553, 'Chris Noonan'
+go
+inserirDiretores 554, 'Warren Beatty'
+go
+inserirDiretores 555, 'Douglas Sirk'
+go
+inserirDiretores 556, 'Jeff Bleckner'
+go
+inserirDiretores 557, 'Pascal Jardin'
+go
+inserirDiretores 558, 'Daniel Rezende'
+go
+inserirDiretores 559, 'Tom McGrath'
+go
+inserirDiretores 560, 'Eric Darnell'
+go
+inserirDiretores 561, 'Rob Reiner'
+go
+inserirDiretores 562, 'Josephine Decker'
+go
+inserirDiretores 563, 'Joseph Ruben'
+go
+inserirDiretores 564, 'Gavin O''Connor'
+go
+inserirDiretores 565, 'Charles Walters'
+go
+inserirDiretores 566, 'Jonathan Lynn'
+go
+inserirDiretores 567, 'Mel Damski'
+go
+inserirDiretores 568, 'Tim Hill'
+go
+inserirDiretores 569, 'Boyd Kirkland'
+go
+inserirDiretores 570, 'Steven E. Gordon'
+go
+inserirDiretores 571, 'Paulo Kakinoff'
+go
+inserirDiretores 572, 'Jonathan Sanger'
+go
+inserirDiretores 573, 'Richard Levine'
+go
+inserirDiretores 574, 'Delbert Mann'
+go
+inserirDiretores 575, 'Betty Thomas'
+go
+inserirDiretores 576, 'Brian Brough'
+go
+inserirDiretores 577, 'Roland Emmerich'
+go
+inserirDiretores 578, 'Armand Mastroianni'
+go
+inserirDiretores 579, 'John McTiernan'
+go
+inserirDiretores 580, 'Guy Norris'
+go
+inserirDiretores 581, 'Chris Wedge'
+go
+inserirDiretores 582, 'Julie Anne Robinson'
+go
+inserirDiretores 583, 'Luis Valdez'
+go
+inserirDiretores 584, 'Mohamed Khashoggi'
+go
+inserirDiretores 585, 'Frans Nel'
+go
+inserirDiretores 586, 'David Feiss'
+go
+inserirDiretores 587, 'Joan Chen'
+go
+inserirDiretores 588, 'Patrick Gilmore'
+go
+inserirDiretores 589, 'Roberto Farias'
+go
+inserirDiretores 590, 'Robert Butler'
+go
+inserirDiretores 591, 'Chris Williams'
+go
+inserirDiretores 592, 'Don Hall'
+go
+inserirDiretores 593, 'Sam Fell'
+go
+inserirDiretores 594, 'Dennie Gordon'
+go
+inserirDiretores 595, 'Eric Besnard'
+go
+inserirDiretores 596, 'George Seaton'
+go
+inserirDiretores 597, 'Paul Wendkos'
+go
+inserirDiretores 598, 'Henry Levin'
+go
+inserirDiretores 599, 'Iain Softley'
+go
+inserirDiretores 600, 'Stella Meghie'
+go
+inserirDiretores 601, 'William Hanna'
+go
+inserirDiretores 602, 'Franco Zeffirelli'
+go
+inserirDiretores 603, 'Malcolm Mowbray'
+go
+inserirDiretores 604, 'Michael Landon'
+go
+inserirDiretores 605, 'Lev L. Spiro'
+go
+inserirDiretores 606, 'Paul J. Bolger'
+go
+inserirDiretores 607, 'Yvette Kaplan'
+go
+inserirDiretores 608, 'Greg Tiernan'
+go
+inserirDiretores 609, 'Paul Schneider'
+go
+inserirDiretores 610, 'Jules Bass'
+go
+inserirDiretores 611, 'Leonard Nimoy'
+go
+inserirDiretores 612, 'Randall Miller'
+go
+inserirDiretores 613, 'Mark Herman'
+go
+inserirDiretores 614, 'William Witney'
+go
+inserirDiretores 615, 'Geoffrey Sax'
+go
+inserirDiretores 616, 'Sanaa Hamri'
+go
+inserirDiretores 617, 'Brad Bird'
+go
+inserirDiretores 618, 'Marcus Figueiredo'
+go
+inserirDiretores 619, 'Dean Israelite'
+go
+inserirDiretores 620, 'Vittorio Cottafavi'
+go
+inserirDiretores 621, 'John Carpenter'
+go
+inserirDiretores 622, 'Colin Higgins'
+go
+inserirDiretores 623, 'Stephen Herek'
+go
+inserirDiretores 624, 'Kevin Rodney Sullivan'
+go
+inserirDiretores 625, 'John H. Williams'
+go
+inserirDiretores 626, 'Kinka Usher'
+go
+inserirDiretores 627, 'Darren Aronofsky'
+go
+inserirDiretores 628, 'David Wyles'
+go
+inserirDiretores 629, 'Gabrielle Beaumont'
+go
+inserirDiretores 630, 'Knate Lee'
+go
+inserirDiretores 631, 'Lawrence Kasdan'
+go
+inserirDiretores 632, 'Lance Hool'
+go
+inserirDiretores 633, 'Hal Kanter'
+go
+inserirDiretores 634, 'Alexandre Boury'
+go
+inserirDiretores 635, 'Dexter Fletcher'
+go
+inserirDiretores 636, 'Mark A.Z. Dippé'
+go
+inserirDiretores 637, 'Ian Emes'
+go
+inserirDiretores 638, 'David Swift'
+go
+inserirDiretores 639, 'Harley Cokeliss'
+go
+inserirDiretores 640, 'Gene Wilder'
+go
+inserirDiretores 641, 'James Clavell'
+go
+inserirDiretores 642, 'James Hill'
+go
+inserirDiretores 643, 'Catherine Cyran'
+go
+inserirDiretores 644, 'Martha Coolidge'
+go
+inserirDiretores 645, 'Gene Quintano'
+go
+inserirDiretores 646, 'John Hughes'
+go
+inserirDiretores 647, 'Andy Serkis'
+go
+inserirDiretores 648, 'Jack Couffer'
+go
+inserirDiretores 649, 'Chris Buck'
+go
+inserirDiretores 650, 'Ash Brannon'
+go
+inserirDiretores 651, 'Andy Cadiff'
+go
+inserirDiretores 652, 'David Frankel'
+go
+inserirDiretores 653, 'Halder Gomes'
+go
+inserirDiretores 654, 'Les Mayfield'
+go
+inserirDiretores 655, 'Tommy O''Haver'
+go
+inserirDiretores 656, 'Andy Knight'
+go
+inserirDiretores 657, 'Joseph Sargent'
+go
+inserirDiretores 658, 'William Wyler'
+go
+inserirDiretores 659, 'Primo Zeglio'
+go
+inserirDiretores 660, 'Rosane Svartman'
+go
+inserirDiretores 661, 'Genndy Tartakovsky'
+go
+inserirDiretores 662, 'Chris Dowling'
+go
+inserirDiretores 663, 'Bryan Gordon'
+go
+inserirDiretores 664, 'Mark Dindal'
+go
+inserirDiretores 665, 'Diego da Costa'
+go
+inserirDiretores 666, 'Vincent McEveety'
+go
+inserirDiretores 667, 'Alan J. Levi'
+go
+inserirDiretores 668, 'Edward F. Cline'
+go
+inserirDiretores 669, 'Peter Chelsom'
+go
+inserirDiretores 670, 'Olivier Nakache'
+go
+inserirDiretores 671, 'Éric Toledano'
+go
+inserirDiretores 672, 'Brian De Palma'
+go
+inserirDiretores 673, 'Michel Qissi'
+go
+inserirDiretores 674, 'Enzo Barboni'
+go
+inserirDiretores 675, 'Glenn Jordan'
+go
+inserirDiretores 676, 'Francesco Maselli'
+go
+inserirDiretores 677, 'Edward L. Cahn'
+go
+inserirDiretores 678, 'Walt Becker'
+go
+inserirDiretores 679, 'Kevin Reynolds'
+go
+inserirDiretores 680, 'Robert Tinnell'
+go
+inserirDiretores 681, 'Michael D. Moore'
+go
+inserirDiretores 682, 'Steve Boyum'
+go
+inserirDiretores 683, 'Monte Hellman'
+go
+inserirDiretores 684, 'Sidney Poitier'
+go
+inserirDiretores 685, 'Marc Rothemund'
+go
+inserirDiretores 686, 'Peter Hewitt'
+go
+inserirDiretores 687, 'Sam Peckinpah'
+go
+inserirDiretores 688, 'Frédéric Videau'
+go
+inserirDiretores 689, 'Stuart Margolin'
+go
+inserirDiretores 690, 'Evelyn Purcell'
+go
+inserirDiretores 691, 'Inna Evlannikova'
+go
+inserirDiretores 692, 'Svyatoslav Ushakov'
+go
+inserirDiretores 693, 'Frank Marshall'
+go
+inserirDiretores 694, 'Roger Michell'
+go
+inserirDiretores 695, 'Sidney Salkow'
+go
+inserirDiretores 696, 'Steve Carr'
+go
+inserirDiretores 697, 'Graeme Campbell'
+go
+inserirDiretores 698, 'Michael Grossman'
+go
+inserirDiretores 699, 'Herbert Ross'
+go
+inserirDiretores 700, 'George Sherman'
+go
+inserirDiretores 701, 'Nils Tavernier'
+go
+inserirDiretores 702, 'Tibor Takács'
+go
+inserirDiretores 703, 'Jeannot Szwarc'
+go
+inserirDiretores 704, 'David Mamet'
+go
+inserirDiretores 705, 'Jim Wilson'
+go
+inserirDiretores 706, 'Damiano Damiani'
+go
+inserirDiretores 707, 'Terry Cunningham'
+go
+inserirDiretores 708, 'Sam Pillsbury'
+go
+inserirDiretores 709, 'Craig Shapiro'
+go
+inserirDiretores 710, 'Michael Caton-Jones'
+go
+inserirDiretores 711, 'Bryan Spicer'
+go
+inserirDiretores 712, 'Cedric Sundstrom'
+go
+inserirDiretores 713, 'Jorge Torregrossa'
+go
+inserirDiretores 714, 'Tommy Wirkola'
+go
+inserirDiretores 715, 'George McCowan'
+go
+inserirDiretores 716, 'Mais 9 linhas'
+go
+inserirDiretores 717, 'Francis Veber'
+go
+inserirDiretores 718, 'Alessandro Blasetti'
+go
+inserirDiretores 719, 'John McPherson'
+go
+inserirDiretores 720, 'Doug Sweetland'
+go
+inserirDiretores 721, 'Nicholas Stoller'
+go
+inserirDiretores 722, 'Rob Letterman'
+go
+inserirDiretores 723, 'Sam Firstenberg'
+go
+inserirDiretores 724, 'Juan José Campanella'
+go
+inserirDiretores 725, 'Geoff Murphy'
+go
+inserirDiretores 726, 'Tom Mankiewicz'
+go
+inserirDiretores 727, 'Don Taylor'
+go
+inserirDiretores 728, 'RZA'
+go
+inserirDiretores 729, 'Rob Marshall'
+go
+inserirDiretores 730, 'Hércules Breseghelo'
+go
+inserirDiretores 731, 'Alexandre Avancini'
+go
+inserirDiretores 732, 'Michael Damian'
+go
+inserirDiretores 733, 'James Bobin'
+go
+inserirDiretores 734, 'Jason Reisig'
+go
+inserirDiretores 735, 'Jeremy Kagan'
+go
+inserirDiretores 736, 'Harry Winer'
+go
+inserirDiretores 737, 'Kyung Ho Lee'
+go
+inserirDiretores 738, 'Michael Lembeck'
+go
+inserirDiretores 739, 'H. Bruce Humberstone'
+go
+inserirDiretores 740, 'Alex Ranarivelo'
+go
+inserirDiretores 741, 'Fro Rojas'
+go
+inserirDiretores 742, 'Leslie H. Martinson'
+go
+inserirDiretores 743, 'Lewis Milestone'
+go
+inserirDiretores 744, 'Gene Kelly'
+go
+inserirDiretores 745, 'W. S. Van Dyke'
+go
+inserirDiretores 746, 'Steve Oedekerk'
+go
+inserirDiretores 747, 'John Downer'
+go
+inserirDiretores 748, 'Fernando Meirelles'
+go
+inserirDiretores 749, 'Christopher Erskin'
+go
+inserirDiretores 750, 'Burr Steers'
+go
+inserirDiretores 751, 'Tim McCanlies'
+go
+inserirDiretores 752, 'Danny DeVito'
+go
+inserirDiretores 753, 'Tamra Davis'
+go
+inserirDiretores 754, 'Bill L. Norton'
+go
+inserirDiretores 755, 'Walter Lima Jr.'
+go
+inserirDiretores 756, 'Aram Avakian'
+go
+inserirDiretores 757, 'Will Gluck'
+go
+inserirDiretores 758, 'Tay Garnett'
+go
+inserirDiretores 759, 'Bill Muir'
+go
+inserirDiretores 760, 'Kevin James Dobson'
+go
+inserirDiretores 761, 'Rainer Werner Fassbinder'
+go
+inserirDiretores 762, 'Isao Takahata'
+go
+inserirDiretores 763, 'Mark Williams'
+go
+inserirDiretores 764, 'Carl Reiner'
+go
+inserirDiretores 765, 'David Ayer'
+go
+inserirDiretores 766, 'George Lucas'
+go
+inserirDiretores 767, 'William Castle'
+go
+inserirDiretores 768, 'Martin Rosen'
+go
+inserirDiretores 769, 'John Hubley'
+go
+inserirDiretores 770, 'Adam Brooks'
+go
+inserirDiretores 771, 'Mark Griffiths'
+go
+inserirDiretores 772, 'Paul Miller'
+go
+inserirDiretores 773, 'Sheldon Wilson'
+go
+inserirDiretores 774, 'David Greenwalt'
+go
+inserirDiretores 775, 'Paul Mazursky'
+go
+inserirDiretores 776, 'Mitchell Leisen'
+go
+inserirDiretores 777, 'Mark Kassen'
+go
+inserirDiretores 778, 'Adam Kassen'
+go
+inserirDiretores 779, 'David Butler'
+go
+inserirDiretores 780, 'Norman Foster'
+go
+inserirDiretores 781, 'Pete Docter'
+go
+inserirDiretores 782, 'Kelsey Mann'
+go
+inserirDiretores 783, 'Dan Scanlon'
+go
+inserirDiretores 784, 'Andrew Davis'
+go
+inserirDiretores 785, 'Jamie Babbit'
+go
+inserirDiretores 786, 'Kenny Leon'
+go
+inserirDiretores 787, 'Mohamed Ben Attia'
+go
+inserirDiretores 788, 'Harold Becker'
+go
+inserirDiretores 789, 'Ishir? Honda'
+go
+inserirDiretores 790, 'Robert Day'
+go
+inserirDiretores 791, 'Allison Liddi-Brown'
+go
+inserirDiretores 792, 'Tânia Lamarca'
+go
+inserirDiretores 793, 'Sérgio Bloch'
+go
+inserirDiretores 794, 'Rick Famuyiwa'
+go
+inserirDiretores 795, 'Patrick Read Johnson'
+go
+inserirDiretores 796, 'Max Tash'
+go
+inserirDiretores 797, 'James Neilson'
+go
+inserirDiretores 798, 'Douglas Barr'
+go
+inserirDiretores 799, 'Gabriele Salvatores'
+go
+inserirDiretores 800, 'Josh Gordon'
+go
+inserirDiretores 801, 'Will Speck'
+go
+inserirDiretores 802, 'Anand Tucker'
+go
+inserirDiretores 803, 'S. Sylvan Simon'
+go
+inserirDiretores 804, 'Clarence Brown'
+go
+inserirDiretores 805, 'Tony Giglio'
+go
+inserirDiretores 806, 'Ian Toynton'
+go
+inserirDiretores 807, 'Donald Bellisario'
+go
+inserirDiretores 808, 'Bill Couturié'
+go
+inserirDiretores 809, 'Sam Weisman'
+go
+inserirDiretores 810, 'Ken Mok'
+go
+inserirDiretores 811, 'Jeremias Moreira Filho'
+go
+inserirDiretores 812, 'Angela Robinson'
+go
+inserirDiretores 813, 'Bruce Malmuth'
+go
+inserirDiretores 814, 'James Signorelli'
+go
+inserirDiretores 815, 'Alan Parker'
+go
+inserirDiretores 816, 'Paul Aaron'
+go
+inserirDiretores 817, 'João Paulo Jabur'
+go
+inserirDiretores 818, 'Alan Poul'
+go
+inserirDiretores 819, 'Rob Hedden'
+go
+inserirDiretores 820, 'Roger Kumble'
+go
+inserirDiretores 821, 'Brian Pimental'
+go
+inserirDiretores 822, 'Ziggy Steinberg'
+go
+inserirDiretores 823, 'William A. Wellman'
+go
+inserirDiretores 824, 'Mike Newell'
+go
+inserirDiretores 825, 'Mark Stouffer'
+go
+inserirDiretores 826, 'David Anspaugh'
+go
+inserirDiretores 827, 'Mark Levin'
+go
+inserirDiretores 828, 'Tom Hanks'
+go
+inserirDiretores 829, 'Don Jurwich'
+go
+inserirDiretores 830, 'John Lee Hancock'
+go
+inserirDiretores 831, 'Gary Goldman'
+go
+inserirDiretores 832, 'Dennis Dugan'
+go
+inserirDiretores 833, 'Fred Savage'
+go
+inserirDiretores 834, 'Mike Southon'
+go
+inserirDiretores 835, 'Kevin Hooks'
+go
+inserirDiretores 836, 'Sam Wanamaker'
+go
+inserirDiretores 837, 'Richard Benjamin'
+go
+inserirDiretores 838, 'David E. Talbert'
+go
+inserirDiretores 839, 'Ramón Menéndez'
+go
+inserirDiretores 840, 'Hy Averback'
+go
+inserirDiretores 841, 'Helen Hunt'
+go
+inserirDiretores 842, 'Geoff Anderson'
+go
+inserirDiretores 843, 'Jorge Blanco'
+go
+inserirDiretores 844, 'Ralph Hemecker'
+go
+inserirDiretores 845, 'Martin Davidson'
+go
+inserirDiretores 846, 'Stephen F. Verona'
+go
+inserirDiretores 847, 'Michele Lupo'
+go
+inserirDiretores 848, 'Joseph Brooks'
+go
+inserirDiretores 849, 'John Whitesell'
+go
+inserirDiretores 850, 'Gordon Hessler'
+go
+inserirDiretores 851, 'Roy Boulting'
+go
+inserirDiretores 852, 'Mick Garris'
+go
+inserirDiretores 853, 'Michael D. Sellers'
+go
+inserirDiretores 854, 'Masanori Hata'
+go
+inserirDiretores 855, 'Robin Budd'
+go
+inserirDiretores 856, 'Eric Laneuville'
+go
+inserirDiretores 857, 'Dennis Hopper'
+go
+inserirDiretores 858, 'Godfrey Ho'
+go
+inserirDiretores 859, 'Eddie O''Flaherty'
+go
+inserirDiretores 860, 'Raja Gosnell'
+go
+inserirDiretores 861, 'Steve De Jarnatt'
+go
+inserirDiretores 862, 'Lionel Jeffries'
+go
+inserirDiretores 863, 'James Keach'
+go
+inserirDiretores 864, 'Harvey Frost'
+go
+inserirDiretores 865, 'Philip Spink'
+go
+inserirDiretores 866, 'Albert Band'
+go
+inserirDiretores 867, 'Frederik Du Chau'
+go
+inserirDiretores 868, 'Wayne Wang'
+go
+inserirDiretores 869, 'P. J. Hogan'
+go
+inserirDiretores 870, 'Rocky Parker'
+go
+inserirDiretores 871, 'Patrick Dempsey'
+go
+inserirDiretores 872, 'James B. Clark'
+go
+inserirDiretores 873, 'William Beaudine'
+go
+inserirDiretores 874, 'Scott Kalvert'
+go
+inserirDiretores 875, 'James Fargo'
+go
+inserirDiretores 876, 'Samuel Fuller'
+go
+inserirDiretores 877, 'James Hayman'
+go
+inserirDiretores 878, 'Caroline Thompson'
+go
+inserirDiretores 879, 'Delmer Daves'
+go
+inserirDiretores 880, 'Ding Sheng'
+go
+inserirDiretores 881, 'Benny Chan'
+go
+inserirDiretores 882, 'Mark Pellington'
+go
+inserirDiretores 883, 'Susan Seidelman'
+go
+inserirDiretores 884, 'Willis Goldbeck'
+go
+inserirDiretores 885, 'Renny Harlin'
+go
+inserirDiretores 886, 'George Erschbamer'
+go
+inserirDiretores 887, 'Norm Hunter'
+go
+inserirDiretores 888, 'Ricardo Blasco'
+go
+inserirDiretores 889, 'David L. Cunningham'
+go
+inserirDiretores 890, 'Ben Lewin'
+go
+inserirDiretores 891, 'Reginald Hudlin'
+go
+inserirDiretores 892, 'Charles Crichton'
+go
+inserirDiretores 893, 'Susanna White'
+go
+inserirDiretores 894, 'Nick Cassavetes'
+go
+inserirDiretores 895, 'Mark Jean'
+go
+inserirDiretores 896, 'Jerome Courtland'
+go
+inserirDiretores 897, 'Busby Berkeley'
+go
+inserirDiretores 898, 'Jake Schreier'
+go
+inserirDiretores 899, 'Hirokazu Koreeda'
+go
+inserirDiretores 900, 'Mark Rydell'
+go
+inserirDiretores 901, 'Laurent Tirard'
+go
+inserirDiretores 902, 'Sue Kramer'
+go
+inserirDiretores 903, 'Richard Fleischer'
+go
+inserirDiretores 904, 'Dale Schott'
+go
+inserirDiretores 905, 'John Lyde'
+go
+inserirDiretores 906, 'Mário Márcio Bandarra'
+go
+inserirDiretores 907, 'Alfred Hitchcock'
+go
+inserirDiretores 908, 'Giuseppe Colizzi'
+go
+inserirDiretores 909, 'Tsugunobu Kotani'
+go
+inserirDiretores 910, 'Alex Grasshoff'
+go
+inserirDiretores 911, 'William Keighley'
+go
+inserirDiretores 912, 'Troy Miller'
+go
+inserirDiretores 913, 'Mike Robe'
+go
+inserirDiretores 914, 'Paul Brickman'
+go
+inserirDiretores 915, 'Gottfried Reinhardt'
+go
+inserirDiretores 916, 'Ted Tetzlaff'
+go
+inserirDiretores 917, 'Mary Lambert'
+go
+inserirDiretores 918, 'Leigh Whannell'
+go
+inserirDiretores 919, 'James L. Brooks'
+go
+inserirDiretores 920, 'Menno Meyjes'
+go
+inserirDiretores 921, 'Stefen Fangmeier'
+go
+inserirDiretores 922, 'Gary Winick'
+go
+inserirDiretores 923, 'Shawn Ku'
+go
+inserirDiretores 924, 'Sandy & Junior: Estranho Jeito de Amar'
+go
+inserirDiretores 925, 'Ben Stassen'
+go
+inserirDiretores 926, 'Doug Campbell'
+go
+inserirDiretores 927, 'Richard Pearce'
+go
+inserirDiretores 928, 'John Farrow'
+go
+inserirDiretores 929, 'Luigi Capuano'
+go
+inserirDiretores 930, 'Tarsem Singh'
+go
+inserirDiretores 931, 'Paul Dinello'
+go
+inserirDiretores 932, 'Lesley Selander'
+go
+inserirDiretores 933, 'Peter Billingsley'
+go
+inserirDiretores 934, 'Érik Canuel'
+go
+inserirDiretores 935, 'Maurice Phillips'
+go
+inserirDiretores 936, 'Eduardo Schuldt'
+go
+inserirDiretores 937, 'Anne Fletcher'
+go
+inserirDiretores 938, 'Dean Parisot'
+go
+inserirDiretores 939, 'Peter Hedges'
+go
+inserirDiretores 940, 'Dany Boon'
+go
+inserirDiretores 941, 'James Frawley'
+go
+inserirDiretores 942, 'Bryan Forbes'
+go
+inserirDiretores 943, 'Daisy von Scherler Mayer'
+go
+inserirDiretores 944, 'Ben Gluck'
+go
+inserirDiretores 945, 'David Winning'
+go
+inserirDiretores 946, 'Peter Farrelly'
+go
+inserirDiretores 947, 'Maite Alberdi'
+go
+inserirDiretores 948, 'Michael Cacoyannis'
+go
+inserirDiretores 949, 'Stephen J. Anderson'
+go
+inserirDiretores 950, 'Kirk Jones'
+go
+inserirDiretores 951, 'Stanley Sheff'
+go
+inserirDiretores 952, 'Ridley Scott'
+go
+inserirDiretores 953, 'Cecil B. DeMille'
+go
+inserirDiretores 954, 'Steve Loter'
+go
+inserirDiretores 955, 'Victor Cook'
+go
+inserirDiretores 956, 'Larry Elikann'
+go
+inserirDiretores 957, 'Roger Corman'
+go
+inserirDiretores 958, 'Jimmy T. Murakami'
+go
+inserirDiretores 959, 'Harald Zwart'
+go
+inserirDiretores 960, 'Agnieszka Holland'
+go
+inserirDiretores 961, 'Michael Hoffman'
+go
+inserirDiretores 962, 'Allan Dwan'
+go
+inserirDiretores 963, 'Lennie Weinrib'
+go
+inserirDiretores 964, 'Tim Hunter'
+go
+inserirDiretores 965, 'Braden Duemmler'
+go
+inserirDiretores 966, 'Stefano Capuzzi Lapietra'
+go
+inserirDiretores 967, 'Stephen Gaghan'
+go
+inserirDiretores 968, 'Ian Harrowell'
+go
+inserirDiretores 969, 'Douglas McCarthy'
+go
+inserirDiretores 970, 'Oskar Santos'
+go
+inserirDiretores 971, 'Guel Arraes'
+go
+inserirDiretores 972, 'George Ogilvie'
+go
+inserirDiretores 973, 'Richard LaGravenese'
+go
+inserirDiretores 974, 'John Roberts'
+go
+inserirDiretores 975, 'Ron Shelton'
+go
+inserirDiretores 976, 'Norman Tokar'
+go
+inserirDiretores 977, 'Rod Holcomb'
+go
+inserirDiretores 978, 'Marty Feldman'
+go
+inserirDiretores 979, 'Cacá Diegues'
+go
+inserirDiretores 980, 'Chris Sanders'
+go
+inserirDiretores 981, 'Dean DeBlois'
+go
+inserirDiretores 982, 'Miguel Arteta'
+go
+inserirDiretores 983, 'Kevin S. Tenney'
+go
+inserirDiretores 984, 'Kevan Peterson'
+go
+inserirDiretores 985, 'Guillaume Ivernel'
+go
+inserirDiretores 986, 'Arthur Qwak'
+go
+inserirDiretores 987, 'Randa Haines'
+go
+inserirDiretores 988, 'Rowdy Herrington'
+go
+inserirDiretores 989, 'George C. Wolfe'
+go
+inserirDiretores 990, 'Dallas Jenkins'
+go
+inserirDiretores 991, 'Jorge R. Gutierrez'
+go
+inserirDiretores 992, 'Anthony Edwards'
+go
+inserirDiretores 993, 'Jim Kouf'
+go
+inserirDiretores 994, 'Brad Peyton'
+go
+inserirDiretores 995, 'Nathan Juran'
+go
+inserirDiretores 996, 'Sean Anders'
+go
+inserirDiretores 997, 'Alfred E. Green'
+go
+inserirDiretores 998, 'Josh Boone'
+go
+inserirDiretores 999, 'Sara Sugarman'
+go
+inserirDiretores 1000, 'Jeremiah S. Chechik'
+go
+inserirDiretores 1001, 'Jules White'
+go
+inserirDiretores 1002, 'Don Appell'
+go
+inserirDiretores 1003, 'Kevin G. Fair'
+go
+inserirDiretores 1004, 'Ronny Yu'
+go
+inserirDiretores 1005, 'Joseph Wein'
+go
+inserirDiretores 1006, 'Anatole Litvak'
+go
+inserirDiretores 1007, 'Doug Lefler'
+go
+inserirDiretores 1008, 'Jacques Demy'
+go
+inserirDiretores 1009, 'Ken Shapiro'
+go
+inserirDiretores 1010, 'Wellson Chin'
+go
+inserirDiretores 1011, 'Robert Stromberg'
+go
+inserirDiretores 1012, 'Joseph L. Scanlan'
+go
+inserirDiretores 1013, 'Sandy Tung'
+go
+inserirDiretores 1014, 'Harmon Jones'
+go
+inserirDiretores 1015, 'Brent McCorkle'
+go
+inserirDiretores 1016, 'Michael Fimognari'
+go
+inserirDiretores 1017, 'John Hamburg'
+go
+inserirDiretores 1018, 'Pedro Amorim'
+go
+inserirDiretores 1019, 'Peter Israelson'
+go
+inserirDiretores 1020, 'Jonathan Wacks'
+go
+inserirDiretores 1021, 'Leo McCarey'
+go
+inserirDiretores 1022, 'Brian Fee'
+go
+inserirDiretores 1023, 'Robert Dalva'
+go
+inserirDiretores 1024, 'Ken Scott'
+go
+inserirDiretores 1025, 'Mamoru Hosoda'
+go
+inserirDiretores 1026, 'Shigeyasu Yamauchi'
+go
+inserirDiretores 1027, 'Joel Zwick'
+go
+inserirDiretores 1028, 'Henry Winkler'
+go
+inserirDiretores 1029, 'Lasse Hallström'
+go
+inserirDiretores 1030, 'Gil Junger'
+go
+inserirDiretores 1031, 'Stewart Raffill'
+go
+inserirDiretores 1032, 'Jayme Monjardim'
+go
+inserirDiretores 1033, 'Wilton Franco'
+go
+inserirDiretores 1034, 'Maurice Capovilla'
+go
+inserirDiretores 1035, 'Juan José Jusid'
+go
+inserirDiretores 1036, 'Ariel Winograd'
+go
+inserirDiretores 1037, 'Bud Yorkin'
+go
+inserirDiretores 1038, 'Steno'
+go
+inserirDiretores 1039, 'Don Sharp'
+go
+inserirDiretores 1040, 'Rogério Gomes'
+go
+inserirDiretores 1041, 'Márcio Vito'
+go
+inserirDiretores 1042, 'Carlos Manga'
+go
+inserirDiretores 1043, 'Steven Robman'
+go
+inserirDiretores 1044, 'Alain Chabat'
+go
+inserirDiretores 1045, 'Robert Markowitz'
+go
+inserirDiretores 1046, 'Don Weis'
+go
+inserirDiretores 1047, 'Rick Stevenson'
+go
+inserirDiretores 1048, 'Gary Rydstrom'
+go
+inserirDiretores 1049, 'Christie Will'
+go
+inserirDiretores 1050, 'Jonathan R. Betuel'
+go
+inserirDiretores 1051, 'Steven Lisberger'
+go
+inserirDiretores 1052, 'Fraser Clarke Heston'
+go
+inserirDiretores 1053, 'David Devine'
+go
+inserirDiretores 1054, 'George Cukor'
+go
+inserirDiretores 1055, 'Rocco DeVilliers Jr.'
+go
+inserirDiretores 1056, 'Ken Hughes'
+go
+inserirDiretores 1057, 'Federico Fellini'
+go
+inserirDiretores 1058, 'Mitch Davis'
+go
+inserirDiretores 1059, 'Andy Tennant'
+go
+inserirDiretores 1060, 'Gene Saks'
+go
+inserirDiretores 1061, 'Cliff Owen'
+go
+inserirDiretores 1062, 'Robert Siodmak'
+go
+inserirDiretores 1063, 'Sylvio Tabet'
+go
+inserirDiretores 1064, 'Thomas Lilti'
+go
+inserirDiretores 1065, 'Bradley Raymond'
+go
+inserirDiretores 1066, 'Marcello Fondato'
+go
+inserirDiretores 1067, 'Stuart Heisler'
+go
+inserirDiretores 1068, 'Erle C. Kenton'
+go
+inserirDiretores 1069, 'Robert Aldrich'
+go
+inserirDiretores 1070, 'Burt Kennedy'
+go
+inserirDiretores 1071, 'Hallie Meyers-Shyer'
+go
+inserirDiretores 1072, 'Rob Bowman'
+go
+inserirDiretores 1073, 'Peter Medak'
+go
+inserirDiretores 1074, 'Jim Henson'
+go
+inserirDiretores 1075, 'Richard C. Sarafian'
+go
+inserirDiretores 1076, 'Marcus Baldini'
+go
+inserirDiretores 1077, 'Kevin Smith'
+go
+inserirDiretores 1078, 'James Yukich'
+go
+inserirDiretores 1079, 'Jerry Hopper'
+go
+inserirDiretores 1080, 'Richard Brooks'
+go
+inserirDiretores 1081, 'Paulo Machline'
+go
+inserirDiretores 1082, 'Brandon Camp'
+go
+inserirDiretores 1083, 'Jeremy Degruson'
+go
+inserirDiretores 1084, 'Otto Preminger'
+go
+inserirDiretores 1085, 'John M. Stahl'
+go
+inserirDiretores 1086, 'Brian Trenchard-Smith'
+go
+inserirDiretores 1087, 'James Bridges'
+go
+inserirDiretores 1088, 'Jon Erwin'
+go
+inserirDiretores 1089, 'Andrew Erwin'
+go
+inserirDiretores 1090, 'Nadia Tass'
+go
+inserirDiretores 1091, 'Léa Pool'
+go
+inserirDiretores 1092, 'Ken Finkleman'
+go
+inserirDiretores 1093, 'Charles Correll'
+go
+inserirDiretores 1094, 'Walter Murch'
+go
+inserirDiretores 1095, 'Howard Franklin'
+go
+inserirDiretores 1096, 'Duccio Tessari'
+go
+inserirDiretores 1097, 'Bryan Singer'
+go
+inserirDiretores 1098, 'Christian Duguay'
+go
+inserirDiretores 1099, 'Paul W. S. Anderson'
+go
+inserirDiretores 1100, 'Charles Martin Smith'
+go
+inserirDiretores 1101, 'Joe Russo'
+go
+inserirDiretores 1102, 'Anthony Russo'
+go
+inserirDiretores 1103, 'John Gilling'
+go
+inserirDiretores 1104, 'Roy Del Ruth'
+go
+inserirDiretores 1105, 'Kathryn Bigelow'
+go
+inserirDiretores 1106, 'Andrew Marton'
+go
+inserirDiretores 1107, 'Irving Pichel'
+go
+inserirDiretores 1108, 'Kurt Neumann'
+go
+inserirDiretores 1109, 'Lisa Gottlieb'
+go
+inserirDiretores 1110, 'Howard Morris'
+go
+inserirDiretores 1111, 'Jonathan Kaplan'
+go
+inserirDiretores 1112, 'Cininha de Paula'
+go
+inserirDiretores 1113, 'Gary David Goldberg'
+go
+inserirDiretores 1114, 'Sheldon Larry'
+go
+inserirDiretores 1115, 'Grímur Hákonarson'
+go
+inserirDiretores 1116, 'Ronald F. Maxwell'
+go
+inserirDiretores 1117, 'Daniel Stern'
+go
+inserirDiretores 1118, 'Alan Metter'
+go
+inserirDiretores 1119, 'John Woo'
+go
+inserirDiretores 1120, 'Gil Kenan'
+go
+inserirDiretores 1121, 'André Pellenz'
+go
+inserirDiretores 1122, 'Andrei Konchalovsky'
+go
+inserirDiretores 1123, 'Bill Forsyth'
+go
+inserirDiretores 1124, 'Michael Pressman'
+go
+inserirDiretores 1125, 'Mauro Farias'
+go
+inserirDiretores 1126, 'Larry Karaszewski'
+go
+inserirDiretores 1127, 'Simon Wincer'
+go
+inserirDiretores 1128, 'Richard Martin'
+go
+inserirDiretores 1129, 'Ashley Avis'
+go
+inserirDiretores 1130, 'Peter Glenville'
+go
+inserirDiretores 1131, 'Maxwell Shane'
+go
+inserirDiretores 1132, 'Chris Weitz'
+go
+inserirDiretores 1133, 'Stefan Westerwelle'
+go
+inserirDiretores 1134, 'Johan Nijenhuis'
+go
+inserirDiretores 1135, 'Steven R. Monroe'
+go
+inserirDiretores 1136, 'Aun Hoe Goh'
+go
+inserirDiretores 1137, 'Tim Fywell'
+go
+inserirDiretores 1138, 'Scott Alexander'
+go
+inserirDiretores 1139, 'Zhang Yimou'
+go
+inserirDiretores 1140, 'Marcos Carnevale'
+go
+inserirDiretores 1141, 'Bruno Vailati'
+go
+inserirDiretores 1142, 'Luis Mandoki'
+go
+inserirDiretores 1143, 'Jules Dassin'
+go
+inserirDiretores 1144, 'Jeffrey Hornaday'
+go
+inserirDiretores 1145, 'Dennis Gansel'
+go
+inserirDiretores 1146, 'Sidney Sheldon'
+go
+inserirDiretores 1147, 'David Seltzer'
+go
+inserirDiretores 1148, 'John Herzfeld'
+go
+inserirDiretores 1149, 'Damon Santostefano'
+go
+inserirDiretores 1150, 'Klay Hall'
+go
+inserirDiretores 1151, 'Dean Vert'
+go
+inserirDiretores 1152, 'Matthew Vaughn'
+go
+inserirDiretores 1153, 'Barnet Kellman'
+go
+inserirDiretores 1154, 'Jerry Belson'
+go
+inserirDiretores 1155, 'Jean-Loup Hubert'
+go
+inserirDiretores 1156, 'Jonathan Demme'
+go
+inserirDiretores 1157, 'Michael Winner'
+go
+inserirDiretores 1158, 'James Becket'
+go
+inserirDiretores 1159, 'Josetxo San Mateo'
+go
+inserirDiretores 1160, 'Eric Brevig'
+go
+inserirDiretores 1161, 'Hoyt Yeatman'
+go
+inserirDiretores 1162, 'Neal Israel'
+go
+inserirDiretores 1163, 'Victor Schertzinger'
+go
+inserirDiretores 1164, 'Arlene Sanford'
+go
+inserirDiretores 1165, 'Michael Gottlieb'
+go
+inserirDiretores 1166, 'Tyler Perry'
+go
+inserirDiretores 1167, 'Jill Culton'
+go
+inserirDiretores 1168, 'Roger Allers'
+go
+inserirDiretores 1169, 'Mandie Fletcher'
+go
+inserirDiretores 1170, 'Anna Penido'
+go
+inserirDiretores 1171, 'David Sonnenschein'
+go
+inserirDiretores 1172, 'Lewis R. Foster'
+go
+inserirDiretores 1173, 'Jean-Marie Poiré'
+go
+inserirDiretores 1174, 'John Leekley'
+go
+inserirDiretores 1175, 'Richard Rich'
+go
+inserirDiretores 1176, 'Joel Paul Reisig'
+go
+inserirDiretores 1177, 'Phil Nibbelink'
+go
+inserirDiretores 1178, 'Ralph Zondag'
+go
+inserirDiretores 1179, 'Simon Wells'
+go
+inserirDiretores 1180, 'Rick Friedberg'
+go
+inserirDiretores 1181, 'Peter Sullivan'
+go
+inserirDiretores 1182, 'Bruce Hart'
+go
+inserirDiretores 1183, 'Reem Kherici'
+go
+inserirDiretores 1184, 'Erik Fleming'
+go
+inserirDiretores 1185, 'Sergei Bodrov'
+go
+inserirDiretores 1186, 'William Desmond Taylor'
+go
+inserirDiretores 1187, 'John Cromwell'
+go
+inserirDiretores 1188, 'James Wong'
+go
+inserirDiretores 1189, 'David Grossman'
+go
+inserirDiretores 1190, 'Edward Zwick'
+go
+inserirDiretores 1191, 'Holly Goldberg Sloan'
+go
+inserirDiretores 1192, 'Matt Reeves'
+go
+inserirDiretores 1193, 'Michael Mayer'
+go
+inserirDiretores 1194, 'Michael Apted'
+go
+inserirDiretores 1195, 'David Greene'
+go
+inserirDiretores 1196, 'Alexander Singer'
+go
+inserirDiretores 1197, 'Sarah Smith'
+go
+inserirDiretores 1198, 'Bibo Bergeron'
+go
+inserirDiretores 1199, 'Jeffrey Katzenberg'
+go
+inserirDiretores 1200, 'Jamie Uys'
+go
+inserirDiretores 1201, 'Paul Weitz'
+go
+inserirDiretores 1202, 'Monty Berman'
+go
+inserirDiretores 1203, 'Robert S. Baker'
+go
+inserirDiretores 1204, 'Robert Totten'
+go
+inserirDiretores 1205, 'Robert Schwentke'
+go
+inserirDiretores 1206, 'Millard Webb'
+go
+inserirDiretores 1207, 'Byron Chudnow'
+go
+inserirDiretores 1208, 'John Sturges'
+go
+inserirDiretores 1209, 'Georg Wilhelm Pabst'
+go
+inserirDiretores 1210, 'Kad Merad'
+go
+inserirDiretores 1211, 'Julia von Heinz'
+go
+inserirDiretores 1212, 'Taylor Hackford'
+go
+inserirDiretores 1213, 'Peter MacDonald'
+go
+inserirDiretores 1214, 'Charles Bail'
+go
+inserirDiretores 1215, 'Gérard Pirès'
+go
+inserirDiretores 1216, 'Michael McCullers'
+go
+inserirDiretores 1217, 'Martin Lagestee'
+go
+inserirDiretores 1218, 'Jeferson De'
+go
+inserirDiretores 1219, 'M. Night Shyamalan'
+go
+inserirDiretores 1220, 'Carol Reed'
+go
+inserirDiretores 1221, 'Jack Smight'
+go
+inserirDiretores 1222, 'Robert Parrish'
+go
+inserirDiretores 1223, 'Irvin Yeaworth'
+go
+inserirDiretores 1224, 'Jon Alpert'
+go
+inserirDiretores 1225, 'Matthew O''Neill'
+go
+inserirDiretores 1226, 'Michael Crichton'
+go
+inserirDiretores 1227, 'Robert Altman'
+go
+inserirDiretores 1228, 'Jacob Aaron Estes'
+go
+inserirDiretores 1229, 'Michael Keusch'
+go
+inserirDiretores 1230, 'Del Rangel'
+go
+inserirDiretores 1231, 'Jack Sholder'
+go
+inserirDiretores 1232, 'William Phelps'
+go
+inserirDiretores 1233, 'Graeme Clifford'
+go
+inserirDiretores 1234, 'Tom Ropelewski'
+go
+inserirDiretores 1235, 'Michael Dinner'
+go
+inserirDiretores 1236, 'Dee McLachlan'
+go
+inserirDiretores 1237, 'Tiago Mata Machado'
+go
+inserirDiretores 1238, 'Julien Hilmoine'
+go
+inserirDiretores 1239, 'Robert Radler'
+go
+inserirDiretores 1240, 'Zoltan Korda'
+go
+inserirDiretores 1241, 'Mel Ferrer'
+go
+inserirDiretores 1242, 'Irving Rapper'
+go
+inserirDiretores 1243, 'Perry Andelin Blake'
+go
+inserirDiretores 1244, 'Bill Murray'
+go
+inserirDiretores 1245, 'Brian Gilbert'
+go
+inserirDiretores 1246, 'Peter Skillman Odiorne'
+go
+inserirDiretores 1247, 'Sexo com Amor?'
+go
+inserirDiretores 1248, 'Hipertensão'
+go
+inserirDiretores 1249, 'Jodie Foster'
+go
+inserirDiretores 1250, 'Sergei Parajanov'
+go
+inserirDiretores 1251, 'Dodo Abashidze'
+go
+inserirDiretores 1252, 'Bradley Cooper'
+go
+inserirDiretores 1253, 'Anthony Mann'
+go
+inserirDiretores 1254, 'Douglas Boswell'
+go
+inserirDiretores 1255, 'Andrew Fleming'
+go
+inserirDiretores 1256, 'Eugene S. Jones'
+go
+inserirDiretores 1257, 'Geoff Burrowes'
+go
+inserirDiretores 1258, 'Eric Hendershot'
+go
+inserirDiretores 1259, 'Lone Scherfig'
+go
+inserirDiretores 1260, 'Art Camacho'
+go
+inserirDiretores 1261, 'Don Coscarelli'
+go
+inserirDiretores 1262, 'Jonas Elmer'
+go
+inserirDiretores 1263, 'Christopher N. Rowley'
+go
+inserirDiretores 1264, 'Tony Bill'
+go
+inserirDiretores 1265, 'Miguel Gonçalves Mendes'
+go
+inserirDiretores 1266, 'John Rich'
+go
+inserirDiretores 1267, 'Gary Trousdale'
+go
+inserirDiretores 1268, 'Kirk Wise'
+go
+inserirDiretores 1269, 'Amy Holden Jones'
+go
+inserirDiretores 1270, 'Dominique Deruddere'
+go
+inserirDiretores 1271, 'Peter Collinson'
+go
+inserirDiretores 1272, 'Harry Keller'
+go
+inserirDiretores 1273, 'John Laing'
+go
+inserirDiretores 1274, 'Richard Gabai'
+go
+inserirDiretores 1275, 'Ted Post'
+go
+inserirDiretores 1276, 'Yann Samuell'
+go
+inserirDiretores 1277, 'Vicky Jenson'
+go
+inserirDiretores 1278, 'Bob Rafelson'
+go
+inserirDiretores 1279, 'Linda Feferman'
+go
+inserirDiretores 1280, 'Eric Goldberg'
+go
+inserirDiretores 1281, 'Mike Gabriel'
+go
+inserirDiretores 1282, 'George Huang'
+go
+inserirDiretores 1283, 'Sean S. Cunningham'
+go
+inserirDiretores 1284, 'Ulu Grosbard'
+go
+inserirDiretores 1285, 'Roel Reiné'
+go
+inserirDiretores 1286, 'Scott Wiper'
+go
+inserirDiretores 1287, 'John BONITO'
+go
+inserirDiretores 1288, 'William Kaufman'
+go
+inserirDiretores 1289, 'Peter Tewksbury'
+go
+inserirDiretores 1290, 'David Gordon Green'
+go
+inserirDiretores 1291, 'Flávia Moraes'
+go
+inserirDiretores 1292, 'Bo Welch'
+go
+inserirDiretores 1293, 'Patrick Hughes'
+go
+inserirDiretores 1294, 'Jessica Bendinger'
+go
+inserirDiretores 1295, 'Anne Giafferi'
+go
+inserirDiretores 1296, 'Roar Uthaug'
+go
+inserirDiretores 1297, 'Ken Marino'
+go
+inserirDiretores 1298, 'Lewis Teague'
+go
+inserirDiretores 1299, 'Luke Greenfield'
+go
+inserirDiretores 1300, 'Mark Freiburger'
+go
+inserirDiretores 1301, 'Wes Craven'
+go
+inserirDiretores 1302, 'Claudia Weill'
+go
+inserirDiretores 1303, 'Kenneth Johnson'
+go
+inserirDiretores 1304, 'Ron Casden'
+go
+inserirDiretores 1305, 'Jerrold Freedman'
+go
+inserirDiretores 1306, 'Willard Huyck'
+go
+inserirDiretores 1307, 'Peter Levin'
+go
+inserirDiretores 1308, 'George Kaczender'
+go
+inserirDiretores 1309, 'Jorge Fernando'
+go
+inserirDiretores 1310, 'Márcio Garcia'
+go
+inserirDiretores 1311, 'Joseph Merhi'
+go
+inserirDiretores 1312, 'Paul Ziller'
+go
+inserirDiretores 1313, 'Simon McQuoid'
+go
+inserirDiretores 1314, 'Celso Meireles'
+go
+inserirDiretores 1315, 'Chris Thomson'
+go
+inserirDiretores 1316, 'Jason Winer'
+go
+inserirDiretores 1317, 'McG'
+go
+inserirDiretores 1318, 'Jennifer Lee'
+go
+inserirDiretores 1319, 'Sammo Hung'
+go
+inserirDiretores 1320, 'John Shepphird'
+go
+inserirDiretores 1321, 'Laurence Olivier'
+go
+inserirDiretores 1322, 'Timothy Armstrong'
+go
+inserirDiretores 1323, 'Tom Clegg'
+go
+inserirDiretores 1324, 'Jay Russell'
+go
+inserirDiretores 1325, 'Irvin Kershner'
+go
+inserirDiretores 1326, 'Randall Wallace'
+go
+inserirDiretores 1327, 'Strathford Hamilton'
+go
+inserirDiretores 1328, 'Charles Samuel Dubronevski'
+go
+inserirDiretores 1329, 'Marcelo Antunez'
+go
+inserirDiretores 1330, 'William Sachs'
+go
+inserirDiretores 1331, 'Michael Nankin'
+go
+inserirDiretores 1332, 'Adam Mason'
+go
+inserirDiretores 1333, 'Dick Lowry'
+go
+inserirDiretores 1334, 'Richard Sale'
+go
+inserirDiretores 1335, 'Byron Howard'
+go
+inserirDiretores 1336, 'Gower Champion'
+go
+inserirDiretores 1337, 'Lynne Littman'
+go
+inserirDiretores 1338, 'Ryan Little'
+go
+inserirDiretores 1339, 'Tad Stones'
+go
+inserirDiretores 1340, 'Paul A. Kaufman'
+go
+inserirDiretores 1341, 'Thom Eberhardt'
+go
+inserirDiretores 1342, 'Lui Farias'
+go
+inserirDiretores 1343, 'Ron Oliver'
+go
+inserirDiretores 1344, 'Scott Speer'
+go
+inserirDiretores 1345, 'George Archainbaud'
+go
+inserirDiretores 1346, 'Carlos Coimbra'
+go
+inserirDiretores 1347, 'Richard Wallace'
+go
+inserirDiretores 1348, 'Frank Perry'
+go
+inserirDiretores 1349, 'Terry Lee Coker'
+go
+inserirDiretores 1350, 'Kenneth R. Koch'
+go
+inserirDiretores 1351, 'James Glickenhaus'
+go
+inserirDiretores 1352, 'Peyton Reed'
+go
+inserirDiretores 1353, 'Finn Taylor'
+go
+inserirDiretores 1354, 'John Schultz'
+go
+inserirDiretores 1355, 'Robert Ginty'
+go
+inserirDiretores 1356, 'Tab Murphy'
+go
+inserirDiretores 1357, 'Gordon Chan'
+go
+inserirDiretores 1358, 'David Dobkin'
+go
+inserirDiretores 1359, 'Benh Zeitlin'
+go
+inserirDiretores 1360, 'Blair Treu'
+go
+inserirDiretores 1361, 'Fernando Cerchio'
+go
+inserirDiretores 1362, 'Mario Bava'
+go
+inserirDiretores 1363, 'John Cornell'
+go
+inserirDiretores 1364, 'Joseph Anthony'
+go
+inserirDiretores 1365, 'Bruno Garotti'
+go
+inserirDiretores 1366, 'Floyd Mutrux'
+go
+inserirDiretores 1367, 'Vincent Kesteloot'
+go
+inserirDiretores 1368, 'Miguel Gomes'
+go
+inserirDiretores 1369, 'Ana Luíza Azevedo'
+go
+inserirDiretores 1370, 'Melville Shavelson'
+go
+inserirDiretores 1371, 'Edward Montagne'
+go
+inserirDiretores 1372, 'Erich von Stroheim'
+go
+inserirDiretores 1373, 'Gaspar Noé'
+go
+inserirDiretores 1374, 'Sydney Pollack'
+go
+inserirDiretores 1375, 'Joe Nussbaum'
+go
+inserirDiretores 1376, 'Tommy Lee Wallace'
+go
+inserirDiretores 1377, 'Gary Harvey'
+go
+inserirDiretores 1378, 'Richard Linklater'
+go
+inserirDiretores 1379, 'James Orr'
+go
+inserirDiretores 1380, 'Daniel Robichaud'
+go
+inserirDiretores 1381, 'Max Giwa'
+go
+inserirDiretores 1382, 'Dania Pasquini'
+go
+inserirDiretores 1383, 'Lorna Cook'
+go
+inserirDiretores 1384, 'Arthur Allan Seidelman'
+go
+inserirDiretores 1385, 'Boris Aljinovic'
+go
+inserirDiretores 1386, 'Harald Siepermann'
+go
+inserirDiretores 1387, 'Mauro Lima'
+go
+inserirDiretores 1388, 'Helvécio Ratton'
+go
+inserirDiretores 1389, 'Alek Keshishian'
+go
+inserirDiretores 1390, 'Joe Wright'
+go
+inserirDiretores 1391, 'Nicholas Meyer'
+go
+inserirDiretores 1392, 'Daniela De Carlo'
+go
+inserirDiretores 1393, 'Tomás Portella'
+go
+inserirDiretores 1394, 'Felipe Joffily'
+go
+inserirDiretores 1395, 'Sharon von Wietersheim'
+go
+inserirDiretores 1396, 'Scott Smith'
+go
+inserirDiretores 1397, 'Hart Bochner'
+go
+inserirDiretores 1398, 'Michael Switzer'
+go
+inserirDiretores 1399, 'Rocky Morton'
+go
+inserirDiretores 1400, 'Annabel Jankel'
+go
+inserirDiretores 1401, 'Peter H. Hunt'
+go
+inserirDiretores 1402, 'Robert Scott Hicks'
+go
+inserirDiretores 1403, 'Paul Feig'
+go
+inserirDiretores 1404, 'Kyle Newman'
+go
+inserirDiretores 1405, 'Hugo Fregonese'
+go
+inserirDiretores 1406, 'Will Mackenzie'
+go
+inserirDiretores 1407, 'Tom McLoughlin'
+go
+inserirDiretores 1408, 'François Truffaut'
+go
+inserirDiretores 1409, 'Mark Cullingham'
+go
+inserirDiretores 1410, 'Stephen Sommers'
+go
+inserirDiretores 1411, 'William Dieterle'
+go
+inserirDiretores 1412, 'John Brahm'
+go
+inserirDiretores 1413, 'Paulo Aragão Neto'
+go
+inserirDiretores 1414, 'Steven C. Miller'
+go
+inserirDiretores 1415, 'Lee Unkrich'
+go
+inserirDiretores 1416, 'James Marsh'
+go
+inserirDiretores 1417, 'Paulo Morelli'
+go
+inserirDiretores 1418, 'Neil Burger'
+go
+inserirDiretores 1419, 'Victor Lustosa'
+go
+inserirDiretores 1420, 'Nico Fagundes'
+go
+inserirDiretores 1421, 'Bill Purple'
+go
+inserirDiretores 1422, 'Joe Alves'
+go
+inserirDiretores 1423, 'John Francis Daley'
+go
+inserirDiretores 1424, 'Jonathan M. Goldstein'
+go
+inserirDiretores 1425, 'James Caan'
+go
+inserirDiretores 1426, 'John L''Ecuyer'
+go
+inserirDiretores 1427, 'Stephen Belber'
+go
+inserirDiretores 1428, 'Claude Zidi'
+go
+inserirDiretores 1429, 'David Nixon'
+go
+inserirDiretores 1430, 'David Kellogg'
+go
+inserirDiretores 1431, 'Toni Vanzolini'
+go
+inserirDiretores 1432, 'Roland Mesa'
+go
+inserirDiretores 1433, 'Jim Wynorski'
+go
+inserirDiretores 1434, 'Lloyd Bacon'
+go
+inserirDiretores 1435, 'Greg Berlanti'
+go
+inserirDiretores 1436, 'Nathan Greno'
+go
+inserirDiretores 1437, 'Jim Drake'
+go
+inserirDiretores 1438, 'James L. Conway'
+go
+inserirDiretores 1439, 'Lee Sang-il'
+go
+inserirDiretores 1440, 'Kevin Williamson'
+go
+inserirDiretores 1441, 'Aaron Blaise'
+go
+inserirDiretores 1442, 'Robert Walker'
+go
+inserirDiretores 1443, 'Thor Freudenthal'
+go
+inserirDiretores 1444, 'Lyndall Hobbs'
+go
+inserirDiretores 1445, 'Catherine Hardwicke'
+go
+inserirDiretores 1446, 'Francine McDougall'
+go
+inserirDiretores 1447, 'Nils Gaup'
+go
+inserirDiretores 1448, 'Wesley Strick'
+go
+inserirDiretores 1449, 'Alex Kurtzman'
+go
+inserirDiretores 1450, 'Bronwen Hughes'
+go
+inserirDiretores 1451, 'Alfonso Cuarón'
+go
+inserirDiretores 1452, 'Craig Pryce'
+go
+inserirDiretores 1453, 'John Stockwell'
+go
+inserirDiretores 1454, 'Anthony Page'
+go
+inserirDiretores 1455, 'Guy Green'
+go
+inserirDiretores 1456, 'Tom Brady'
+go
+inserirDiretores 1457, 'Russ Mayberry'
+go
+inserirDiretores 1458, 'Alex Proyas'
+go
+inserirDiretores 1459, 'Michael McDonald'
+go
+inserirDiretores 1460, 'Gary Goddard'
+go
+inserirDiretores 1461, 'Thomas Carter'
+go
+inserirDiretores 1462, 'Anthony Asquith'
+go
+inserirDiretores 1463, 'Pedro Vasconcelos'
+go
+inserirDiretores 1464, 'Rich Moore'
+go
+inserirDiretores 1465, 'John K.D. Graham'
+go
+inserirDiretores 1466, 'Dave Thomas'
+go
+inserirDiretores 1467, 'John Huston'
+go
+inserirDiretores 1468, 'Florian Gottschick'
+go
+inserirDiretores 1469, 'Paul Stader'
+go
+inserirDiretores 1470, 'Joseph McGrath'
+go
+inserirDiretores 1471, 'Thale Persen'
+go
+inserirDiretores 1472, 'Justin Chadwick'
+go
+inserirDiretores 1473, 'Craig Brewer'
+go
+inserirDiretores 1474, 'Lila Garrett'
+go
+inserirDiretores 1475, 'Alê McHaddo'
+go
+inserirDiretores 1476, 'Maggie Gyllenhaal'
+go
+inserirDiretores 1477, 'George Clooney'
+go
+inserirDiretores 1478, 'George P. Cosmatos'
+go
+inserirDiretores 1479, 'Todor Chapkanov'
+go
+inserirDiretores 1480, 'Isaac Florentine'
+go
+inserirDiretores 1481, 'Brian Herzlinger'
+go
+inserirDiretores 1482, 'Rupert Wainwright'
+go
+inserirDiretores 1483, 'Courtney Solomon'
+go
+inserirDiretores 1484, 'Martin Wood'
+go
+inserirDiretores 1485, 'Louis King'
+go
+inserirDiretores 1486, 'Bruce McDonald'
+go
+inserirDiretores 1487, 'Michael Carney'
+go
+inserirDiretores 1488, 'Giacomo Campiotti'
+go
+inserirDiretores 1489, 'João Daniel Tikhomiroff'
+go
+inserirDiretores 1490, 'Christine Hartmann'
+go
+inserirDiretores 1491, 'Dagmar Seume'
+go
+inserirDiretores 1492, 'Isabell Suba'
+go
+inserirDiretores 1493, 'Tony Bancroft'
+go
+inserirDiretores 1494, 'Barry Cook'
+go
+inserirDiretores 1495, 'Des McAnuff'
+go
+inserirDiretores 1496, 'Steve Trenbirth'
+go
+inserirDiretores 1497, 'Georges Lautner'
+go
+inserirDiretores 1498, 'Nicole Holofcener'
+go
+inserirDiretores 1499, 'Anthony Bell'
+go
+inserirDiretores 1500, 'Newt Arnold'
+go
+inserirDiretores 1501, 'Tommy Krappweis'
+go
+inserirDiretores 1502, 'James Gray'
+go
+inserirDiretores 1503, 'John Glen'
+go
+inserirDiretores 1504, 'Seth Gordon'
+go
+inserirDiretores 1505, 'Howard Michael Gould'
+go
+inserirDiretores 1506, 'Andrew Bergman'
+go
+inserirDiretores 1507, 'Phil Joanou'
+go
+inserirDiretores 1508, 'Steven Seagal'
+go
+inserirDiretores 1509, 'James Toback'
+go
+inserirDiretores 1510, 'Matthias Hoene'
+go
+inserirDiretores 1511, 'Jacques Tourneur'
+go
+inserirDiretores 1512, 'Lorenzo Lamas'
+go
+inserirDiretores 1513, 'Harry Hurwitz'
+go
+inserirDiretores 1514, 'Victor Fleming'
+go
+inserirDiretores 1515, 'Will Finn'
+go
+inserirDiretores 1516, 'John Sanford'
+go
+inserirDiretores 1517, 'Lawrence Guterman'
+go
+inserirDiretores 1518, 'Jeff Franklin'
+go
+inserirDiretores 1519, 'Ernst Lubitsch'
+go
+inserirDiretores 1520, 'Damian Lee'
+go
+inserirDiretores 1521, 'Jacques Becker'
+go
+inserirDiretores 1522, 'Josh Trank'
+go
+inserirDiretores 1523, 'Paco Arango'
+go
+inserirDiretores 1524, 'Fred Schepisi'
+go
+inserirDiretores 1525, 'George Dunning'
+go
+inserirDiretores 1526, 'Ang Lee'
+go
+inserirDiretores 1527, 'Jack Fisk'
+go
+inserirDiretores 1528, 'Buzz Kulik'
+go
+inserirDiretores 1529, 'Peter Horton'
+go
+inserirDiretores 1530, 'David Green'
+go
+inserirDiretores 1531, 'Mel Stuart'
+go
+inserirDiretores 1532, 'Peter Markle'
+go
+inserirDiretores 1533, 'Abel Ferrara'
+go
+inserirDiretores 1534, 'David Lister'
+go
+inserirDiretores 1535, 'Alex Kendrick'
+go
+inserirDiretores 1536, 'Jaume Collet-Serra'
+go
+inserirDiretores 1537, 'Hal Ashby'
+go
+inserirDiretores 1538, 'Corbin Bernsen'
+go
+inserirDiretores 1539, 'Craig Mazin'
+go
+inserirDiretores 1540, 'Scott Marshall'
+go
+inserirDiretores 1541, 'Rick Wallace'
+go
+inserirDiretores 1542, 'Spike Jonze'
+go
+inserirDiretores 1543, 'Manny Coto'
+go
+inserirDiretores 1544, 'Colin Teague'
+go
+inserirDiretores 1545, 'Rob Cohen'
+go
+inserirDiretores 1546, 'Glauber Rocha'
+go
+inserirDiretores 1547, 'Franc Roddam'
+go
+inserirDiretores 1548, 'David Jackson'
+go
+inserirDiretores 1549, 'Alberto Seixas Santos'
+go
+inserirDiretores 1550, 'Solveig Nordlund'
+go
+inserirDiretores 1551, 'Carl Franklin'
+go
+inserirDiretores 1552, 'Lance Kawas'
+go
+inserirDiretores 1553, 'John Milius'
+go
