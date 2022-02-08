@@ -2,7 +2,7 @@
 
 We can not tell much about exhibition date and movie name. In order to expand our analysis, i added the following relational model:
 
-<img src="img/modeloLógicoV2.PNG">
+<img src="img/modelo.PNG">
 
 I decided to add actors, directors, screen players and other informations related to movies. Every movie has one or more directors likewise actors, screen players and gender. This section is dedicated to get these information and adapt then to our model.
 
